@@ -1,0 +1,1235 @@
+{
+  "ui": {
+    "nav": {
+      "home": {
+        "ko": "홈",
+        "en": "Home"
+      },
+      "join": {
+        "ko": "지원하기",
+        "en": "Join Us"
+      },
+      "research": {
+        "ko": "연구",
+        "en": "Research"
+      },
+      "members": {
+        "ko": "구성원",
+        "en": "Members"
+      },
+      "life": {
+        "ko": "랩 생활",
+        "en": "Lab Life"
+      },
+      "publications": {
+        "ko": "논문·특허",
+        "en": "Papers & Patents"
+      },
+      "cta_chat": {
+        "ko": "커피챗 신청",
+        "en": "Coffee Chat"
+      }
+    },
+    "ribbon": {
+      "badge": {
+        "ko": "모집 중",
+        "en": "Now Recruiting"
+      },
+      "intern_link": {
+        "ko": "학부연구생 지원 안내",
+        "en": "Undergraduate Research Internship"
+      },
+      "grad_proj_link": {
+        "ko": "캡스톤·졸업논문 연계 안내",
+        "en": "Capstone & Graduation Project"
+      },
+      "dept_label": {
+        "ko": "경희대학교 전자공학과",
+        "en": "Department of Electronic Engineering, Kyung Hee University"
+      },
+      "open_status": {
+        "ko": "석·박사 신입 코호트 · 학부연구생 상시 모집 — 공학·자연과학 융합 전 전공 환영",
+        "en": "Rolling recruitment: M.S./Ph.D. cohort & undergrad interns across engineering and science"
+      }
+    },
+    "actions": {
+      "search": {
+        "ko": "검색",
+        "en": "Search"
+      },
+      "search_placeholder": {
+        "ko": "논문, 미국·한국 특허, 연구 주제 검색 (예: 구조광, PUF, 하이드로젤, DNA)",
+        "en": "Search papers, US/KR patents, topics (e.g., structured light, PUF, hydrogel, DNA)"
+      },
+      "theme_to_dark": {
+        "ko": "다크 테마",
+        "en": "Dark"
+      },
+      "theme_to_light": {
+        "ko": "밝은 테마",
+        "en": "Light"
+      },
+      "mobile_join": {
+        "ko": "지원 안내",
+        "en": "Join"
+      },
+      "mobile_chat": {
+        "ko": "커피챗",
+        "en": "Chat"
+      },
+      "close_dialog": {
+        "ko": "✕ 닫기",
+        "en": "✕ Close"
+      },
+      "esc_close": {
+        "ko": "ESC · 닫기",
+        "en": "ESC · Close"
+      }
+    },
+    "footer": {
+      "col_explore": {
+        "ko": "둘러보기",
+        "en": "Explore"
+      },
+      "col_join": {
+        "ko": "함께하기",
+        "en": "Join"
+      },
+      "col_contact": {
+        "ko": "문의",
+        "en": "Contact"
+      },
+      "copyright_note": {
+        "ko": "© MultiplexON Lab · 경희대학교 전자공학과 · 박욱 교수 연구실",
+        "en": "© MultiplexON Lab · Department of Electronic Engineering, Kyung Hee University · Prof. Wook Park"
+      },
+      "address_html": {
+        "ko": "경기도 용인시 기흥구 덕영대로 1732 (17104)<br>경희대학교 국제캠퍼스 전자정보대학관 403호 · 전자공학과",
+        "en": "Room 403, College of Electronics &amp; Information, 1732 Deogyeong-daero,<br>Giheung-gu, Yongin-si, Gyeonggi-do 17104, Republic of Korea"
+      },
+      "directions_label": {
+        "ko": "오시는 길 · 프레스킷 (Directions & Press Kit)",
+        "en": "Directions · Official Press & Brand Kit"
+      }
+    }
+  },
+  "hero": {
+    "status_pill": {
+      "ko": "2026–2027 석·박사 신입 코호트 · 학부연구생 모집 — 공학·자연과학 전 분야 환영",
+      "en": "Recruiting 2026–2027 M.S./Ph.D. Cohort & Interns — Open Across Engineering & Science"
+    },
+    "title": {
+      "ko": "AI에게 물어도 나오지 않는 지식을, 도메인이 만나는 경계에서 직접 만듭니다",
+      "en": "Where Domains Collide, We Create the Knowledge AI Can't Give You"
+    },
+    "lead": {
+      "ko": "MultiplexON(Multiplexed Optics & Nanosystems)은 경희대학교 전자공학과의 도메인 융합 연구실입니다. 빛을 패터닝하는 광학, 신호·영상을 해석하는 계산·AI 알고리즘, 정밀 마이크로·나노 제작 기술이 만나는 경계에서 남들이 발견하지 못한 가치를 찾습니다. 연구 현장의 살아 있는 경험은 최상위 SCI 논문(68편+)을 넘어 산업과 직결되는 미국·한국 원천 특허(30건)로 완성됩니다.",
+      "en": "MultiplexON (Multiplexed Optics & Nanosystems) is a domain-convergence lab in the Department of Electronic Engineering at Kyung Hee University. Where patterned-light optics, computational/AI algorithms, and microfabrication collide, we uncover value no single field can see — turning hands-on bench experience into 68+ SCI papers and 30 industry-connected U.S. & Korean patents."
+    },
+    "primary_cta": {
+      "ko": "30초 커피챗·지원 문의",
+      "en": "Start Coffee Chat / Inquiry"
+    },
+    "secondary_cta": {
+      "ko": "모집 트랙 & 특허·연구 철학 보기",
+      "en": "Explore Tracks & Lab Philosophy"
+    },
+    "image": "assets/images/recruiting/hero_encoded_light.jpg",
+    "stage_caption": {
+      "ko": "구조광 광학 × 계산·AI 알고리즘 × 마이크로 제작 → 바이오 진단 · 광학 보안(PUF) · 스마트 하이드로젤 · DNA 저장",
+      "en": "Structured Light × Computational/AI Algorithms × Microfabrication → Bio-Diagnostics · Optical PUF · Smart Hydrogels · DNA Storage"
+    },
+    "proof_labels": {
+      "patents": {
+        "ko": "미국(USPTO) 16건 · 한국(KIPO) 14건 검증 특허 포트폴리오",
+        "en": "16 U.S. (USPTO) & 14 Korean (KIPO) Verified Patents"
+      },
+      "journals": {
+        "ko": "표지 6편 · Nature Comms · Adv. Mater. · ACS Nano 등",
+        "en": "6 Covers · Nature Comms · Adv. Mater. · ACS Nano"
+      },
+      "alumni": {
+        "ko": "학계 교수 · KIST · 삼성 · SK하이닉스 · LG · 스타트업 CTO 진출",
+        "en": "Alumni in Faculty · KIST · Samsung · SK hynix · Startup CTO"
+      },
+      "charter": {
+        "ko": "대학원생 권리장전 · 랩 출신 박사후연구원 2명 밀착 지도",
+        "en": "Student Bill of Rights · 2 Lab-Grown Postdoc Mentors"
+      }
+    },
+    "quick_links": [
+      {
+        "href": "#publications/journals",
+        "ko": "대표 논문·표지 (68 SCI) →",
+        "en": "Selected Papers & Covers (68 SCI) →"
+      },
+      {
+        "href": "#publications/patents",
+        "ko": "한·미 특허 포트폴리오 (30) →",
+        "en": "U.S. & KR Patents (30) →"
+      },
+      {
+        "href": "#members/professor",
+        "ko": "지도교수 약력 · Scholar · ORCID →",
+        "en": "PI Profile · Scholar · ORCID →"
+      }
+    ]
+  },
+  "tracks": [
+    {
+      "id": "undergrad",
+      "featured": false,
+      "tag": {
+        "ko": "학부연구생 · 인턴",
+        "en": "Undergraduate Research Intern"
+      },
+      "title": {
+        "ko": "AI가 알려 주는 교과서 밖, 살아 있는 연구 현장을 경험하세요",
+        "en": "Step beyond AI-searchable coursework into real frontier invention"
+      },
+      "summary": {
+        "ko": "강의실 지식만으로는 차별화될 수 없는 시대입니다. 학기 중에는 본인 전공 수업·시험 일정을 100% 배려해 공강 중심으로 조율하고 방학 중 집중 몰입(09:00–18:00 코어타임)하며 매월 연구 인건비를 지원받습니다. 첫 커피챗은 서류 없이 가볍게 진행되며, 성과에 따라 Q1 SCI 논문·학회 발표·특허 발명까지 연결됩니다.",
+        "en": "Step beyond textbook coursework into real invention. Core bench hours (09:00–18:00) are 100% flexibly coordinated around your classes and exams during semesters (full-time in breaks) with monthly stipend support. Start with a casual, zero-document coffee chat."
+      },
+      "perks": {
+        "ko": [
+          "학기 중 전공 수업·시험 100% 배려(공강 조율) + 방학 09:00–18:00 집중 몰입 · 첫 커피챗 무서류 진행",
+          "매월 연구 인건비 지원",
+          "기여에 따른 Q1 SCI 논문 공저 · 한국바이오칩학회 발표 · 특허 발명 참여 기회",
+          "학부생 사업화·캡스톤 실증 (2025 서울대 푸드테크 사업화 금상, 경희대 캡스톤 대상)",
+          "박욱 교수와 랩 출신 박사후연구원 멘토 2명의 밀착 지도 (바이오 경험 불필요)"
+        ],
+        "en": [
+          "100% class/exam schedule accommodation in semesters + full-time break immersion · zero-document coffee chat",
+          "Monthly stipend support",
+          "Opportunities for Q1 SCI co-authorship, conference talks & patent co-invention",
+          "Proven undergrad commercialization & capstone track record (2025 SNU FoodTech Gold Prize)",
+          "Direct mentoring by Prof. Park and two lab-grown Ph.D. postdocs (no bio experience needed)"
+        ]
+      },
+      "eligibility_chips": {
+        "ko": [
+          "학부 3·4학년",
+          "전자 · 물리 · 재료 · 화공 · 생명 · 컴공 등",
+          "바이오 경험 불필요",
+          "캡스톤 · 졸업논문 연계 (2~3명)"
+        ],
+        "en": [
+          "3rd/4th-year undergrads",
+          "EE, physics, materials, chem, bio, CS & more",
+          "No bio experience needed",
+          "Capstone / thesis linkage (2–3 seats)"
+        ]
+      },
+      "cta_label": {
+        "ko": "학부연구생 문의하기",
+        "en": "Ask about internships"
+      },
+      "preset_track": "undergrad"
+    },
+    {
+      "id": "graduate",
+      "featured": true,
+      "tag": {
+        "ko": "석사 · 박사 · 석박사통합",
+        "en": "M.S. · Ph.D. · Integrated M.S.-Ph.D."
+      },
+      "title": {
+        "ko": "2026–2027 신입 코호트 — AI 너머의 지식과 원천 특허의 주인이 되세요",
+        "en": "2026–2027 New Cohort — Create Frontier Knowledge and Own the Patents"
+      },
+      "summary": {
+        "ko": "대학원은 지식을 외우는 곳이 아니라, 도메인이 만나는 경계에서 AI도 아직 답하지 못하는 지식을 창출하고 산업과 직결되는 특허 권리를 확보하는 곳입니다. 박욱 교수와 이 연구실에서 박사학위를 받은 박사후연구원 2명이 주제 발굴부터 최상위 SCI 논문, 미국·한국 특허 출원까지 밀착 지도합니다.",
+        "en": "Graduate school here is not about memorizing known facts — it is about creating frontier knowledge beyond AI at domain boundaries and securing industry-ready patents. Prof. Wook Park and two lab-grown Ph.D. postdoctoral mentors guide you closely from topic discovery to top-tier SCI papers and U.S./Korean patent filings."
+      },
+      "perks": {
+        "ko": [
+          "상위 Q1 SCI 주저자 논문 + 미국(USPTO)·한국(KIPO) 원천 특허 공동발명자 성장 트랙",
+          "박욱 교수 + 연구실 출신 박사후연구원 멘토 2명의 1:1 밀착 연구 지도",
+          "AI를 연구 가속기로 활용하되, 독창적 실험 데이터로 AI 너머의 원천 기술 창출",
+          "등록금 · 연구 인건비 지원 조건을 첫 상담에서 투명하게 안내",
+          "대학원생 권리장전 5개 조항으로 보장되는 존중과 자율의 연구 문화"
+        ],
+        "en": [
+          "First-author Q1 SCI papers + named co-inventorship on U.S. (USPTO) & Korean (KIPO) patents",
+          "Close mentorship from Prof. Park plus two lab-grown Ph.D. postdoctoral fellows",
+          "Use AI as a research accelerator while generating original bench data beyond AI",
+          "Tuition and stipend support discussed openly and transparently from the first chat",
+          "Respectful, autonomous culture protected by our 5-Article Student Bill of Rights"
+        ]
+      },
+      "eligibility_chips": {
+        "ko": [
+          "석사 · 박사 · 석박통합",
+          "전자 · 물리 · 재료 · 기계 · 화공 · 생명 · 컴공 환영",
+          "논문 + 미국·한국 특허 트랙"
+        ],
+        "en": [
+          "M.S. · Ph.D. · Integrated",
+          "EE, physics, materials, ME, chem, bio & CS welcome",
+          "SCI papers + US/KR patents"
+        ]
+      },
+      "cta_label": {
+        "ko": "대학원 진학 상담하기",
+        "en": "Discuss graduate study"
+      },
+      "preset_track": "graduate"
+    },
+    {
+      "id": "international",
+      "featured": false,
+      "tag": {
+        "ko": "외국인 석·박사 지원자",
+        "en": "International M.S./Ph.D. Applicants"
+      },
+      "title": {
+        "ko": "국경과 전공의 벽을 넘어, 글로벌 논문과 미국 특허에 도전하세요",
+        "en": "Cross disciplines globally — build Q1 SCI papers and U.S. patents"
+      },
+      "summary": {
+        "ko": "경희대학교 대학원 공식 입학 지원 전, 이메일로 연구 적합성과 지도 가능 여부를 먼저 상담합니다. 전자·물리·재료·화공·생명·컴퓨터 등 다양한 이공계 학위자를 환영하며, 영어 기반 과학 소통을 통해 최상위 국제 저널과 미국(USPTO) 특허 창출을 목표로 연구합니다.",
+        "en": "Before submitting your formal Kyung Hee University Graduate School application, email us for a pre-admission research-fit consultation. We welcome diverse engineering and natural science degrees, collaborate in English, and target top-tier SCI journals alongside U.S. (USPTO) patents."
+      },
+      "perks": {
+        "ko": [
+          "공식 입학 지원 전 이메일 사전 연구 적합성 · 지도 상담",
+          "전자 · 물리 · 재료 · 기계 · 화공 · 생명 · 컴퓨터 등 융합 배경 환영",
+          "영어 기반 연구 멘토링 · 국제 SCI 논문 및 미국(USPTO) 특허 작성 지도",
+          "바이오 사전 실험 경험 불필요 — 합류 후 기초부터 실습 교육",
+          "지원 시점 과제 · 대학원 규정에 맞춘 연구 지원 조건 투명 안내"
+        ],
+        "en": [
+          "Pre-admission email consultation on research fit and supervision",
+          "EE, physics, materials, mechanical, chemical, life science & CS backgrounds welcome",
+          "English mentoring for research, top-tier SCI manuscripts, and U.S. patent drafting",
+          "No prior bio wet-lab requirement — hands-on training provided after joining",
+          "Transparent guidance on admissions and research support per university/project status"
+        ]
+      },
+      "eligibility_chips": {
+        "ko": [
+          "석사 · 박사 지원자",
+          "공학 · 자연과학 전 전공",
+          "영어 과학 소통",
+          "사전 이메일 상담"
+        ],
+        "en": [
+          "M.S. / Ph.D. applicants",
+          "Engineering or natural science degree",
+          "English communication",
+          "Pre-admission email first"
+        ]
+      },
+      "cta_label": {
+        "ko": "사전 상담 이메일 보내기",
+        "en": "Email for pre-admission consultation"
+      },
+      "preset_track": "international"
+    }
+  ],
+  "pathway_banner": {
+    "eyebrow": {
+      "ko": "도메인 융합 30초 연구 가이드",
+      "en": "Domain Convergence in 30 Seconds"
+    },
+    "title": {
+      "ko": "광학 · 알고리즘 · 마이크로 제작이 만나는 경계에서 세상에 없던 기술을 만듭니다",
+      "en": "Where Optics, Algorithms, and Microfabrication Meet to Build What Doesn't Exist Yet"
+    },
+    "lead": {
+      "ko": "MultiplexON은 전자공학과에 뿌리를 두고 있지만, 실제 연구는 전공의 벽을 넘는 융합입니다. 빛을 패터닝하는 광학 시스템, 신호와 영상을 다루는 알고리즘, 반도체 공정을 닮은 마이크로 제작 기술이 바이오·보안·차세대 소재와 만나 논문과 원천 특허로 완성됩니다.",
+      "en": "Rooted in Electronic Engineering, MultiplexON practices boundary-crossing convergence: patterned-light optical systems, signal & image algorithms, and semiconductor-inspired microfabrication meet bio, security, and smart materials to produce frontier papers and patents."
+    },
+    "image": "assets/images/recruiting/pathway_domain_convergence.jpg",
+    "major_fit_note": {
+      "ko": "전자공학 전공자를 중심으로 물리·재료·기계·화공·생명·컴퓨터 등 공학·자연과학 전공자를 환영합니다. 바이오 실험 경험은 필수가 아니며, 필요한 실험은 연구실에서 직접 배웁니다.",
+      "en": "Centered on EE majors, we welcome physics, materials, mechanical, chemical, life science, and CS students. Bio wet-lab experience is not required — you learn every experiment here."
+    }
+  },
+  "research_pitches": [
+    {
+      "id": "physical-ai",
+      "domain_route": "optical-applications",
+      "tag": {
+        "ko": "구조광 × 계산·AI → Physical AI",
+        "en": "Structured Light × AI → Physical AI"
+      },
+      "question": {
+        "ko": "화면 속 AI를 넘어, 빛과 마이크로 구조체가 물리 세계에서 직접 지능처럼 작동할 수 있을까요?",
+        "en": "Can AI leave the screen and act directly in the micro-world through patterned light and matter?"
+      },
+      "summary": {
+        "ko": "디지털로 패터닝한 구조광으로 마이크로 구조체를 설계·구동하고, 렌즈 없는 광학 신호를 계산·AI 알고리즘으로 복원합니다. AI를 단순 검색이 아닌 물리 세계의 새로운 현상을 여는 도구로 확장하며 원천 플랫폼 특허로 직결되는 핵심 분야입니다.",
+        "en": "We shape light digitally to fabricate and actuate microstructures while reconstructing lensless optical signals with computational/AI algorithms — creating patentable hardware-algorithm platforms beyond screen-bound AI."
+      },
+      "major_chips": {
+        "ko": [
+          "광학 · 포토닉스",
+          "영상 · AI 알고리즘",
+          "물리 · 재료",
+          "마이크로 제작"
+        ],
+        "en": [
+          "Optics & photonics",
+          "Imaging & AI algorithms",
+          "Physics & materials",
+          "Microfabrication"
+        ]
+      },
+      "first_milestone": {
+        "ko": "직접 설계한 빛 패턴으로 마이크로 구조체를 제작하고, 현미경·광학 데이터를 AI 코드로 해석해 보기",
+        "en": "Fabricate microstructures with your own light pattern and decode the optical data with Python/AI"
+      },
+      "real_outcome": {
+        "ko": "2025 한국통신학회(KICS) Best Paper Award 수상 및 미국 등록특허(US 12,493,028 · 12,343,954 등)·상위 SCI 저널로 검증된 핵심 플랫폼입니다.",
+        "en": "Backed by the 2025 KICS Best Paper Award, recent granted U.S. patents (US 12,493,028; 12,343,954), and flagship SCI publications."
+      },
+      "preset_topic": "physical-ai"
+    },
+    {
+      "id": "optical-encoding",
+      "domain_route": "optical-applications",
+      "tag": {
+        "ko": "광학 × 고분자 재료 → 광학 인코딩",
+        "en": "Optics × Polymers → Optical Encoding"
+      },
+      "question": {
+        "ko": "머리카락 굵기보다 작은 입자 하나에 수백만 개의 고유 코드를 빛으로 새길 수 있을까요?",
+        "en": "Can you write millions of distinct codes onto particles thinner than a human hair using light?"
+      },
+      "summary": {
+        "ko": "물리적 마스크 없이 실시간으로 빛의 패턴을 제어해 마이크로 입자마다 서로 다른 코드와 숨겨진 형광 정보를 새깁니다. 광학, 고분자 재료, 영상 인식이 만나는 대표적인 도메인 융합 주제로 학부연구생도 빠르게 실험과 논문·특허를 주도할 수 있습니다.",
+        "en": "Without physical masks, we reshape light in real time to encode unique visible and fluorescence data into microparticles — an intuitive convergence of optics, polymers, and image decoding where even undergrads lead papers."
+      },
+      "major_chips": {
+        "ko": [
+          "구조광 리소그래피",
+          "고분자 · 스마트 소재",
+          "영상 디코딩",
+          "마이크로 패터닝"
+        ],
+        "en": [
+          "Maskless lithography",
+          "Polymers & smart materials",
+          "Image decoding",
+          "Micropatterning"
+        ]
+      },
+      "first_milestone": {
+        "ko": "나만의 코드 패턴을 광경화 마이크로입자에 각인하고 형광 현미경으로 해독해 보기",
+        "en": "Encode your own pattern into photopolymer microparticles and read it back via fluorescence microscopy"
+      },
+      "real_outcome": {
+        "ko": "학부연구생 Mingyeom Jeong 주저 참여 논문이 2024년 ACS Applied Polymer Materials (IF 4.5, Q1)에 게재되고 경희대 Focus News에 소개되었습니다.",
+        "en": "Undergraduate researcher Mingyeom Jeong co-authored a 2024 Q1 paper in ACS Applied Polymer Materials (IF 4.5), featured in KHU Focus News."
+      },
+      "preset_topic": "optical-encoding"
+    },
+    {
+      "id": "puf-security",
+      "domain_route": "security-applications",
+      "tag": {
+        "ko": "광학 × 나노구조 × 암호 → 광학 보안·PUF",
+        "en": "Optics × Nanostructures → Optical Security · PUF"
+      },
+      "question": {
+        "ko": "만든 사람조차 똑같이 복제할 수 없는 ‘물리적 지문’으로 위조를 원천 차단할 수 있을까요?",
+        "en": "Can an unclonable physical fingerprint stop counterfeiting — even if the maker tries to copy it?"
+      },
+      "summary": {
+        "ko": "마이크로 주름과 무작위 물리 패턴이 만드는 예측 불가능성을 광학적으로 판독해 물리적 복제 방지 기능(PUF)을 구현합니다. 의약품·반도체·고가품 정품 인증 등 산업계 수요가 명확해 원천 특허와 기술사업화 가치가 매우 높은 융합 연구입니다.",
+        "en": "By optically reading natural micro-wrinkles and stochastic physical patterns, we build physically unclonable functions (PUFs) with direct industrial demand in anti-counterfeiting pharmaceuticals and high-value goods — ideal for high-impact patents."
+      },
+      "major_chips": {
+        "ko": [
+          "물리 보안 · PUF",
+          "프로그래머블 주름·소재",
+          "패턴 인식 알고리즘",
+          "산업 위조방지 IP"
+        ],
+        "en": [
+          "Physical security · PUF",
+          "Programmable wrinkling",
+          "Pattern recognition",
+          "Anti-counterfeiting IP"
+        ]
+      },
+      "first_milestone": {
+        "ko": "복제 불가능한 마이크로 패턴을 제작해 광학 영상으로 읽고 고유성·재현성 지표를 정량 검증하기",
+        "en": "Fabricate unclonable micro-patterns, capture optical readouts, and quantify uniqueness & bit-error metrics"
+      },
+      "real_outcome": {
+        "ko": "Nature Communications, Advanced Materials, ACS Nano 게재 및 한·미 특허 포트폴리오(30건)의 핵심 축을 이루는 주제입니다.",
+        "en": "Published in Nature Communications, Advanced Materials, and ACS Nano, forming a core pillar of our 30 U.S./Korean patents."
+      },
+      "preset_topic": "puf-security"
+    },
+    {
+      "id": "bio-microfluidics",
+      "domain_route": "bio-applications",
+      "tag": {
+        "ko": "미세유체 × 광학계측 × 바이오 → 차세대 진단",
+        "en": "Microfluidics × Optical Sensing → Rapid Diagnostics"
+      },
+      "question": {
+        "ko": "며칠 걸리던 감염균 항생제 검사를 손바닥 위 투명 마이크로칩에서 몇 시간 만에 끝낼 수 있을까요?",
+        "en": "Can a palm-sized transparent chip cut days-long antibiotic testing down to hours?"
+      },
+      "summary": {
+        "ko": "머리카락 굵기의 미세 채널 속에서 유체와 세포·시약을 정밀 제어하고 광학 신호로 변화를 읽어 신속 항생제 감수성 검사(AST)와 현장 진단(POCT)을 구현합니다. 바이오 배경이 없어도 유체·광학·데이터 해석에서 출발해 의료·진단 원천 특허에 도전할 수 있습니다.",
+        "en": "Precisely controlling droplets, cells, and reagents inside hair-thin channels with optical readout enables rapid antimicrobial susceptibility testing (AST) and point-of-care diagnostics — turning engineering design into clinical IP without prior bio background."
+      },
+      "major_chips": {
+        "ko": [
+          "마이크로유체 설계",
+          "광학 센싱 · 이미징",
+          "기계 · 화공 · 생명 융합",
+          "현장진단(POCT) 사업화"
+        ],
+        "en": [
+          "Microfluidic chip design",
+          "Optical sensing & imaging",
+          "ME · Chem · Bio convergence",
+          "POCT commercialization"
+        ]
+      },
+      "first_milestone": {
+        "ko": "직접 설계한 미세유체 칩을 제작해 미세 액적·채널 흐름을 제어하고 광학 반응 신호 측정하기",
+        "en": "Design and cast your own microfluidic chip, control micro-droplet flows, and measure optical assay signals"
+      },
+      "real_outcome": {
+        "ko": "2025 서울대 푸드테크 사업화 금상 및 2022 경희대 캡스톤디자인 대상(Solar PCR) 등 실전 사업화·발명 수상으로 입증된 분야입니다.",
+        "en": "Proven through the 2025 SNU FoodTech Commercialization Gold Prize and the 2022 KHU Capstone Grand Prize (Solar PCR)."
+      },
+      "preset_topic": "bio-microfluidics"
+    },
+    {
+      "id": "hydrogel-dna",
+      "domain_route": "bio-applications",
+      "tag": {
+        "ko": "정보부호화 × 하이드로젤 × 분자생물 → 다중진단 · DNA 저장",
+        "en": "Coding × Hydrogels × Molecules → Multiplex Assay & DNA Storage"
+      },
+      "question": {
+        "ko": "디지털 데이터를 DNA 분자에 저장하고, 한 방울의 시료에서 수십 종의 질병 표지를 동시에 읽을 수 있을까요?",
+        "en": "Can we store digital data in DNA molecules and read dozens of disease markers in a single drop?"
+      },
+      "summary": {
+        "ko": "3D 광프린팅 하이드로젤 입자와 정보 부호화 기술, 분자 반응을 결합해 고감도 다중 진단과 차세대 DNA 데이터 스토리지를 연구합니다. 아직 세계적으로 정답이 정해지지 않은 프런티어 영역이기에 AI가 답할 수 없는 독창적 지식과 원천 특허를 선점하기 가장 좋은 무대입니다.",
+        "en": "Combining 3D-photoprinted hydrogel particles, coding theory, and molecular assays unlocks multiplexed diagnostics and DNA digital storage — an wide-open frontier ideal for pioneering knowledge and patents AI cannot predict."
+      },
+      "major_chips": {
+        "ko": [
+          "정보 · 부호화 알고리즘",
+          "3D 하이드로젤 · 고분자",
+          "분자 · 바이오 응용",
+          "차세대 원천 특허"
+        ],
+        "en": [
+          "Information & coding",
+          "3D hydrogels & polymers",
+          "Molecular & bio assays",
+          "Frontier IP creation"
+        ]
+      },
+      "first_milestone": {
+        "ko": "코드화된 3D 하이드로젤 마이크로입자를 제작하고 다중 형광 신호를 정량 분석해 보기",
+        "en": "Fabricate encoded 3D hydrogel microparticles and quantify multiplexed fluorescence signals"
+      },
+      "real_outcome": {
+        "ko": "한국바이오칩학회 우수포스터상 및 Advanced Materials · Advanced Science · 미국/한국 등록특허로 이어진 대표 융합 주제입니다.",
+        "en": "Recognized with the Korean BioChip Society Outstanding Poster Award, top-tier SCI papers, and granted U.S./KR patents."
+      },
+      "preset_topic": "hydrogel-dna"
+    }
+  ],
+  "platforms_ko": {
+    "maskless-lithography": {
+      "title_ko": "마스크리스 리소그래피",
+      "description_ko": "물리적인 포토마스크 없이, 디지털로 제어되는 빛의 패턴을 광경화성 물질에 직접 투사해 마이크로 구조체를 제작하는 기술입니다. 패턴을 실시간으로 바꿀 수 있어 입자마다 서로 다른 형상과 코드를 새길 수 있습니다."
+    },
+    "photopatterned-microswimmer": {
+      "title_ko": "광패터닝 마이크로스위머",
+      "description_ko": "빛으로 형상과 구조를 패터닝해 만든, 유체 속을 움직이는 마이크로 구조체입니다. 설계한 형상에 따라 움직임이 달라지는 마이크로 크기의 기계를 연구합니다."
+    },
+    "programmable-wrinkling": {
+      "title_ko": "프로그래머블 주름 패터닝",
+      "description_ko": "마이크로 구조체 표면에 생기는 주름 패턴을 설계하고 제어하는 기술입니다. 주름이 가진 고유성과 설계 가능성을 보안·인코딩 응용의 기반으로 활용합니다."
+    },
+    "microsized-3d-hydrogel-printing": {
+      "title_ko": "마이크로 3D 하이드로젤 프린팅",
+      "description_ko": "마이크로미터 크기의 3차원 하이드로젤 구조체를 빛으로 프린팅하는 기술입니다. 물을 머금는 하이드로젤의 특성을 살려 바이오 응용으로 연결합니다."
+    }
+  },
+  "domains_ko": {
+    "optical-applications": {
+      "title_ko": "광학 응용",
+      "summary_ko": "빛으로 정보를 새기고 읽는 연구입니다. 렌즈 없는 이미징과 마이크로 입자 광학 인코딩을 다룹니다."
+    },
+    "security-applications": {
+      "title_ko": "보안 응용",
+      "summary_ko": "복제할 수 없는 물리적 패턴으로 진품을 증명하는 연구입니다. 위조방지 기술과 물리적 복제 방지 기능(PUF)을 다룹니다."
+    },
+    "bio-applications": {
+      "title_ko": "바이오 응용",
+      "summary_ko": "마이크로 플랫폼 기술을 생명·의료 문제에 적용하는 연구입니다. DNA 스토리지, 진단 마커 검출, 항생제 감수성 검사(AST)를 다룹니다."
+    }
+  },
+  "subtopics_ko": {
+    "lensless-imaging": {
+      "title_ko": "렌즈리스 이미징",
+      "summary_ko": "렌즈 없이 센서에 기록된 신호로부터 계산을 통해 영상을 복원하는 이미징 기술입니다."
+    },
+    "optical-encoding": {
+      "title_ko": "광학 인코딩",
+      "summary_ko": "빛의 패턴으로 마이크로 입자에 QR 코드와 같은 정보를 새기고 읽어 내는 기술입니다."
+    },
+    "anti-counterfeiting": {
+      "title_ko": "위조방지",
+      "summary_ko": "눈에 보이지 않는 마이크로 크기의 코드와 패턴으로 제품의 진위를 확인하는 기술입니다."
+    },
+    "puf": {
+      "title_ko": "물리적 복제 방지 기능 (PUF)",
+      "summary_ko": "제작 과정에서 생기는 예측 불가능한 물리적 패턴을 복제 불가능한 고유 키로 사용하는 보안 기술입니다."
+    },
+    "dna-storage": {
+      "title_ko": "DNA 스토리지",
+      "summary_ko": "디지털 데이터를 DNA 염기서열에 저장하는 차세대 정보 저장 기술입니다."
+    },
+    "diagnostic-marker": {
+      "title_ko": "진단 마커 검출",
+      "summary_ko": "코드화된 마이크로입자를 이용해 여러 질병 표지를 한 번에 구분해 검출하는 다중 진단 기술입니다."
+    },
+    "ast": {
+      "title_ko": "항생제 감수성 검사 (AST)",
+      "summary_ko": "감염균에 어떤 항생제가 효과가 있는지 확인하는 검사를 마이크로 기술로 구현하는 연구입니다."
+    }
+  },
+  "cohort_banner": {
+    "tag": {
+      "ko": "2026–2027 신입 코호트 · 오픈 워크벤치",
+      "en": "2026–2027 New Cohort · Open Workbench"
+    },
+    "title": {
+      "ko": "다음 SCI 논문의 제1저자, 다음 미국·한국 특허의 발명자를 찾습니다",
+      "en": "Looking for the First Author of Our Next Paper — and Co-Inventor of Our Next Patent"
+    },
+    "body": {
+      "ko": "현재 연구실은 박욱 교수와 연구실 출신 박사후연구원 멘토 2명(윤진식·배중현 박사), 전임 연구원 3명, 학부연구생 2명 등 총 8명의 탄탄한 상주 연구진 체제로 가동되고 있으며, 2026–2027 신입 석·박사 코호트 1기 주역 자리를 열어두고 있습니다. 합류 즉시 시니어 박사 멘토 2명과 지도교수의 밀착 코칭을 받으며 2026년 신규 수주한 한국연구재단(NRF) 6년 융합선도과제 등 대형 국책·산학 프로젝트의 핵심 주저자·발명자로 성장합니다.",
+      "en": "Our active 8-member in-lab team — Prof. Wook Park, two lab-grown Ph.D. postdoctoral mentors (Dr. Jinsik Yoon & Dr. Junghyun Bae), three research/admin staff, and two undergraduate interns — has opened dedicated workbenches for our incoming 2026–2027 M.S./Ph.D. cohort. Incoming graduate students receive direct 3:1 mentoring backed by multi-year national R&D grants including our newly awarded 6-year NRF Pioneering Convergence Program."
+    },
+    "image": "assets/images/recruiting/workbench_open_cohort.jpg",
+    "cta_label": {
+      "ko": "30초 커피챗·지원 문의",
+      "en": "Start Coffee Chat / Inquiry"
+    },
+    "steps": [
+      {
+        "num": "01",
+        "title": {
+          "ko": "커피챗 문의",
+          "en": "Send a coffee chat inquiry"
+        },
+        "desc": {
+          "ko": "관심 트랙과 주제만 골라 이메일을 보내세요. 연구계획서는 필요 없습니다.",
+          "en": "Pick a track and a topic, then send an email. No research proposal needed."
+        }
+      },
+      {
+        "num": "02",
+        "title": {
+          "ko": "연구 주제 · 지원 상담",
+          "en": "Talk through topics and support"
+        },
+        "desc": {
+          "ko": "교수님과 관심 분야, 진로, 지원 조건을 편하게 이야기합니다.",
+          "en": "Have a relaxed conversation with Prof. Park about your interests, career plans, and support."
+        }
+      },
+      {
+        "num": "03",
+        "title": {
+          "ko": "합류",
+          "en": "Join the lab"
+        },
+        "desc": {
+          "ko": "학부연구생으로 시작하거나, 경희대학교 대학원 입학 전형에 지원합니다.",
+          "en": "Start as an undergraduate intern, or apply through Kyung Hee University Graduate School admissions."
+        }
+      }
+    ],
+    "stipend_box": {
+      "title": {
+        "ko": "연구 지원, 특허 발명 권리, 그리고 투명한 보상",
+        "en": "Transparent Support, Co-Inventorship & Student Rights"
+      },
+      "body": {
+        "ko": "경제적 조건과 연구자 권리를 묻는 것은 당연합니다. 첫 상담에서 연구 방향과 함께 등록금·인건비 지원 조건, 논문 저자 및 특허 발명자 참여 원칙을 투명하게 안내합니다.",
+        "en": "Asking about financial support and researcher rights is completely natural. From our first conversation, we openly explain tuition/stipend support alongside SCI authorship and patent co-inventorship principles."
+      },
+      "bullets": {
+        "ko": [
+          "학부연구생: 매월 연구 인건비 지급 + 학기 중 수업 배려 + 학회·Q1 논문·사업화 경진대회 지원",
+          "석·박사/석박통합: 대형 국책과제(NRF 6년 과제 등)·산학과제 기반 등록금 및 매월 생활비성 연구장려금 기준을 첫 상담 시 과정별로 투명하게 안내",
+          "특허 발명권 보장: 기여도에 따른 미국(USPTO 16건)·한국(KIPO 14건) 원천 특허 공동발명자 등재 및 기술이전 보상 규정 준수",
+          "대학원생 권리장전 5개 조항으로 인격권 · 자율적 연구환경 · 공저자권 문서 보장"
+        ],
+        "en": [
+          "Undergraduate interns: monthly stipend, semester class accommodation, and full support for papers & competitions",
+          "M.S. / Ph.D. students: tuition support and monthly stipend ranges backed by multi-year NRF & industry grants shared transparently in your first chat",
+          "Co-inventorship: named inventor status on U.S. (16 USPTO) and Korean (14 KIPO) patents with university tech-transfer royalty sharing",
+          "5-Article Student Bill of Rights guaranteeing personal dignity, authorship protection, and fair lab hours"
+        ]
+      }
+    }
+  },
+  "charter_ko": [
+    {
+      "num": "01",
+      "heading": {
+        "ko": "인격권",
+        "en": "Personal Dignity"
+      },
+      "body": {
+        "ko": "모든 구성원은 인격적으로 존중받으며, 폭언·차별·괴롭힘이 없는 환경에서 연구할 권리가 있습니다.",
+        "en": "Every member has the right to be treated with dignity and to work in an environment free from abuse, discrimination, and harassment."
+      }
+    },
+    {
+      "num": "02",
+      "heading": {
+        "ko": "자기결정권",
+        "en": "Self-Determination"
+      },
+      "body": {
+        "ko": "자신의 학업과 진로를 스스로 결정할 권리가 있으며, 연구와 무관한 사적 업무나 잡무를 거부할 권리가 있습니다.",
+        "en": "Students have the right to make their own decisions about their studies and careers, including the right to refuse personal errands and chores unrelated to research."
+      }
+    },
+    {
+      "num": "03",
+      "heading": {
+        "ko": "학업 · 연구권",
+        "en": "Academic Research"
+      },
+      "body": {
+        "ko": "충실한 지도와 필요한 연구 자원을 제공받고, 학업과 연구에 전념할 권리가 있습니다.",
+        "en": "Students have the right to receive proper supervision and the resources they need, and to devote themselves to study and research."
+      }
+    },
+    {
+      "num": "04",
+      "heading": {
+        "ko": "공저자권 보호",
+        "en": "Co-Authorship Protection"
+      },
+      "body": {
+        "ko": "연구에 기여한 만큼 공정하게 저자로 인정받을 권리가 있으며, 기여한 사람이 저자에서 배제되어서는 안 됩니다.",
+        "en": "Students have the right to fair authorship credit in proportion to their contribution, and no contributor may be excluded from authorship."
+      }
+    },
+    {
+      "num": "05",
+      "heading": {
+        "ko": "공정한 근로조건",
+        "en": "Fair Labor Conditions"
+      },
+      "body": {
+        "ko": "연구 참여에 대해 정당한 보상을 받고, 합리적인 근무 조건과 휴식을 보장받을 권리가 있습니다.",
+        "en": "Students have the right to fair compensation for their research work and to reasonable working conditions and rest."
+      }
+    }
+  ],
+  "blog_ko": {
+    "1": {
+      "title_ko": "박사과정 학생 인터뷰",
+      "summary_ko": "박사과정 학생과 나눈 인터뷰를 통해 연구실에서의 대학원 생활을 들여다보는 글입니다.",
+      "summary_en": "An interview with a Ph.D. student that offers a look into graduate life in the lab."
+    },
+    "2": {
+      "title_ko": "나의 꿈",
+      "summary_ko": "박욱 교수가 연구자이자 교육자로서 품고 있는 꿈을 이야기합니다.",
+      "summary_en": "Prof. Park writes about the dream he holds as a researcher and educator."
+    },
+    "3": {
+      "title_ko": "MultiplexONian들에게",
+      "summary_ko": "연구실 구성원들에게 전하는 박욱 교수의 편지입니다.",
+      "summary_en": "A letter from Prof. Park to the members of the lab."
+    },
+    "4": {
+      "title_ko": "EiRIC 라이징 스타",
+      "summary_ko": "EiRIC Rising Star를 계기로 쓴 글입니다.",
+      "summary_en": "An essay written on the occasion of the EiRIC Rising Star feature."
+    },
+    "5": {
+      "title_ko": "학회에서의 고군분투",
+      "summary_ko": "학회에서 겪은 어려움과 그 경험에서 얻은 생각을 나눕니다.",
+      "summary_en": "Prof. Park shares a struggle at a conference and what he took from it."
+    },
+    "6": {
+      "title_ko": "Pister 교수의 철학",
+      "summary_ko": "Pister 교수의 연구 철학에서 배운 점을 소개합니다.",
+      "summary_en": "What Prof. Park learned from Prof. Pister's philosophy of research."
+    },
+    "7": {
+      "title_ko": "논문은 유기농 식품과 같다",
+      "summary_ko": "좋은 논문을 유기농 식품에 빗대어 연구와 글쓰기를 대하는 태도를 이야기합니다.",
+      "summary_en": "An essay comparing good papers to organic food, and what that means for how we approach research and writing."
+    },
+    "8": {
+      "title_ko": "정리의 열쇠",
+      "summary_ko": "연구자에게 정리가 왜 중요한지, 그 핵심을 이야기합니다.",
+      "summary_en": "On why organizing matters for researchers, and the key to doing it."
+    },
+    "9": {
+      "title_ko": "발표 전날 밤",
+      "summary_ko": "발표를 앞둔 전날 밤의 마음가짐과 준비를 이야기합니다.",
+      "summary_en": "On mindset and preparation the night before a presentation."
+    }
+  },
+  "student_highlights": [
+    {
+      "year": "2024–2025",
+      "badge": {
+        "ko": "미국·한국 특허 30건",
+        "en": "30 US & KR Patents"
+      },
+      "title": {
+        "ko": "학생·연구원이 공동발명자로 등재된 미국(16건)·한국(14건) 원천 특허",
+        "en": "Students & Lab Researchers Named Inventors Across 16 U.S. & 14 Korean Patents"
+      },
+      "detail": {
+        "ko": "U.S. Patent No. 12,493,028 (2025), No. 12,343,954 (2025) 등 최근 등록특허에 연구실 출신 박사(배중현·윤진식 박사)와 학생 연구원들이 공동발명자로 이름을 올렸습니다.",
+        "en": "Lab-grown Ph.D.s (Dr. Junghyun Bae, Dr. Jinsik Yoon) and student researchers are named co-inventors on granted U.S. patents including Nos. 12,493,028 and 12,343,954 (2025)."
+      }
+    },
+    {
+      "year": "2025",
+      "badge": {
+        "ko": "사업화 금상",
+        "en": "Commercialization Gold"
+      },
+      "title": {
+        "ko": "2025 서울대 푸드테크 사업화 프로그램 금상",
+        "en": "Gold Prize — 2025 SNU FoodTech Commercialization Program"
+      },
+      "detail": {
+        "ko": "학부연구생 조정빈(Jungbin Cho) 학생이 연구실 원천 플랫폼을 실전 산업 문제에 연결한 Swirlar 프로젝트로 금상과 발표상을 수상했습니다.",
+        "en": "Undergraduate researcher Jungbin Cho won the Gold Prize and Presentation Award by translating lab platform technology into real commercialization."
+      }
+    },
+    {
+      "year": "2024",
+      "badge": {
+        "ko": "학부생 Q1 SCI",
+        "en": "Undergrad Q1 SCI"
+      },
+      "title": {
+        "ko": "학부연구생 주저 참여 논문, ACS Applied Polymer Materials (Q1) 게재",
+        "en": "Undergraduate Paper Published in ACS Applied Polymer Materials (Q1)"
+      },
+      "detail": {
+        "ko": "학부연구생 정민겸(Mingyeom Jeong)의 이중 보안 QR 코드 마이크로입자 연구가 Q1 저널(IF 4.5)에 게재되고 경희대 Focus News에 조명되었습니다.",
+        "en": "Undergraduate researcher Mingyeom Jeong's dual-layer QR-coded microparticle work was published in ACS Applied Polymer Materials (IF 4.5, Q1)."
+      }
+    },
+    {
+      "year": "2022–2025",
+      "badge": {
+        "ko": "창업 CTO · 대상",
+        "en": "Startup CTO & Grand Prize"
+      },
+      "title": {
+        "ko": "바이오·테크 스타트업 CTO 배출 및 캡스톤디자인 대상·학회 수상",
+        "en": "Startup CTO Track Record, Capstone Grand Prize & BioChip Awards"
+      },
+      "detail": {
+        "ko": "졸업생이 스타트업 Bhome Gen CTO, 전북대 교수, KIST, 삼성전자, SK하이닉스 등으로 진출했으며 학생 팀이 경희대 캡스톤 대상(Solar PCR)을 수상했습니다.",
+        "en": "Alumni lead as startup CTO (Bhome Gen), university faculty, KIST researchers, and engineers at Samsung & SK hynix, alongside student Grand Prize wins."
+      }
+    }
+  ],
+  "recruiting_faq": [
+    {
+      "q": {
+        "ko": "전자공학과 소속인데 실제로 어떤 연구를 하나요? 타 전공이나 바이오 미경험자도 지원할 수 있나요?",
+        "en": "The lab is in Electronic Engineering — what kind of research do you actually do, and can other majors or bio beginners join?"
+      },
+      "a": {
+        "ko": "소속은 경희대학교 전자공학과이지만, 단일 전공의 틀에 머물지 않고 도메인과 도메인이 만나는 ‘융합 연구’를 수행합니다. 빛을 패터닝하는 광학 시스템, 신호·영상 알고리즘, 마이크로 제작 기술을 뼈대로 바이오 진단, 광학 보안(PUF), 스마트 하이드로젤, DNA 저장으로 확장합니다. 전자공학 전공자를 중심으로 물리·재료·기계·화공·생명·컴퓨터 등 공학·자연과학 전공자를 모두 환영하며, 필요한 바이오·융합 실험은 합류 후 기초부터 배웁니다.",
+        "en": "While our home department is Electronic Engineering at Kyung Hee University, our research goes far beyond single-discipline boundaries into domain-crossing convergence. Built on light-patterning optics, signal/image algorithms, and microfabrication, we tackle bio-diagnostics, optical security (PUF), smart hydrogels, and DNA storage. Alongside EE majors, we welcome physics, materials, mechanical, chemical, life science, and CS students; no prior bio wet-lab experience is needed."
+      }
+    },
+    {
+      "q": {
+        "ko": "학생도 실제 미국·한국 특허(IP) 발명자로 참여하나요? AI 시대에 왜 특허와 현장 경험이 중요한가요?",
+        "en": "Do students become named inventors on real U.S. and Korean patents — and why does that matter in the AI era?"
+      },
+      "a": {
+        "ko": "네. 연구실은 미국(USPTO) 18건, 대한민국(KIPO) 15건 등 총 33건의 특허 포트폴리오를 보유하고 있으며, U.S. Patent No. 12,493,028 (2025), No. 12,343,954 (2025) 등을 포함해 랩 출신 박사후연구원과 학생 연구원들이 실제 기여에 따라 공동발명자로 등재되어 있습니다. 남들이 다 알고 AI에게 물어보면 나오는 지식은 더 이상 경쟁력이 아닙니다. 직접 부딪혀 얻은 현장 데이터와 산업으로 연결되는 독점 특허야말로 AI 시대에 대체 불가능한 연구자의 진짜 무기입니다.",
+        "en": "Yes. MultiplexON holds 33 patent records — 18 U.S. (USPTO) and 15 Korean (KIPO), including 2025 granted U.S. Patent Nos. 12,493,028 and 12,343,954 — with lab-grown Ph.D.s and student researchers named as co-inventors based on contribution. Knowledge any AI can return on prompt no longer differentiates you; hands-on bench data and enforceable industrial IP are what make you irreplaceable."
+      }
+    },
+    {
+      "q": {
+        "ko": "연구 과정에서 AI 도구를 적극적으로 활용하나요?",
+        "en": "Do you actively use AI tools in daily research?"
+      },
+      "a": {
+        "ko": "물론입니다. 문헌 탐색, 코드 작성, 영상·신호 데이터 해석에서 AI를 강력하게 활용합니다. 다만 AI가 이미 알고 있는 답에서 멈추지 않고, 직접 설계한 광학·마이크로 시스템으로 세상에 없던 실험 데이터를 만들어 ‘AI를 넘어서는 지식’을 창출하는 것이 우리의 목표입니다. 미출원 특허 아이디어는 연구실 지식재산 보안 원칙에 따라 철저히 보호합니다.",
+        "en": "Absolutely — we use AI heavily for literature analysis, coding, and image/signal processing. The crucial difference is that we never stop where AI's training data ends: we build physical optical and micro-systems to generate brand-new experimental truths beyond AI, while safeguarding unfiled inventions under strict IP security."
+      }
+    },
+    {
+      "q": {
+        "ko": "연구계획서 없이 먼저 가볍게 커피챗만 신청해도 되나요?",
+        "en": "Can I request a casual coffee chat without a research proposal?"
+      },
+      "a": {
+        "ko": "네. 거창한 연구계획서나 확정된 주제는 필요 없습니다. 관심 트랙과 궁금한 점 한두 줄만 선택해 이메일을 보내 주세요. 아직 주제를 정하지 못했다면 ‘아직 미정 · 열린 탐색’을 고르시면 면담에서 함께 잘 맞는 융합 주제를 찾아갑니다.",
+        "en": "Yes — no formal proposal or fixed topic is needed. Pick your track, jot down a question or two, and choose 'Not sure yet · open to explore' if you want to discover your best-fit convergence topic together over a chat."
+      }
+    },
+    {
+      "q": {
+        "ko": "학부연구생도 정말 Q1 논문 저자나 사업화 수상자가 될 수 있나요?",
+        "en": "Can undergraduates really become Q1 paper authors or commercialization winners?"
+      },
+      "a": {
+        "ko": "실제 결과로 증명되어 있습니다. 학부연구생 정민겸 학생의 논문이 2024년 ACS Applied Polymer Materials (IF 4.5, Q1)에 게재되었고, 조정빈 학생은 2025 서울대 푸드테크 사업화 프로그램 금상을 수상했습니다. 성실히 몰입하는 학부연구생에게 논문 저자·학회 발표·특허 및 사업화 기회를 활짝 열어 둡니다.",
+        "en": "It already happens here: undergraduate Mingyeom Jeong published in ACS Applied Polymer Materials (IF 4.5, Q1, 2024), and undergraduate Jungbin Cho won the Gold Prize at the 2025 SNU FoodTech Commercialization Program."
+      }
+    },
+    {
+      "q": {
+        "ko": "학부연구생 근무 일정과 수업·시험기간 조율은 어떻게 하나요?",
+        "en": "How do undergraduate intern hours work around classes and exams?"
+      },
+      "a": {
+        "ko": "기본은 09:00–18:00 연구 몰입 일정이며 매월 인건비를 지원합니다. 학기 중 수강 시간표와 중간·기말고사 시험 일정은 사전 상담을 통해 합리적으로 조율합니다.",
+        "en": "The baseline is a 09:00–18:00 immersion schedule with monthly stipend support, and semester class/exam schedules are coordinated flexibly during consultation."
+      }
+    },
+    {
+      "q": {
+        "ko": "대학원생 등록금과 인건비 지원은 어떻게 이루어지나요?",
+        "en": "How are graduate tuition and stipends supported?"
+      },
+      "a": {
+        "ko": "과정(석사·박사·석박통합)과 참여 국가연구개발 과제 기준에 맞춰 지원하며, 첫 면담에서 연구 주제와 함께 등록금·인건비 지원 조건을 숨김없이 투명하게 안내합니다. 부담 없이 먼저 물어보셔도 좋습니다.",
+        "en": "Support is structured around your degree program and active R&D projects, and we explain tuition and stipend details openly during our very first meeting — feel free to ask upfront."
+      }
+    },
+    {
+      "q": {
+        "ko": "졸업생들은 어떤 분야로 진출했나요?",
+        "en": "Where do MultiplexON alumni build their careers?"
+      },
+      "a": {
+        "ko": "광학·알고리즘·마이크로 제작과 특허·논문 경험을 두루 갖추기 때문에 진로 폭이 매우 넓습니다. 전북대학교 교수, KIST 박사후연구원, KAIST·GIST 진학 등 학계·연구계는 물론 삼성전자, SK하이닉스, LG전자, 현대자동차, Onto Innovation 등 글로벌 산업계와 바이오·테크 스타트업 CTO(Bhome Gen)로 활약하고 있습니다.",
+        "en": "Because you master optics, algorithms, and microfabrication backed by papers and patents, career doors open broadly: university faculty (Jeonbuk Nat'l Univ.), KIST, KAIST/GIST, global tech leaders (Samsung, SK hynix, LG, Hyundai, Onto Innovation), and startup CTO leadership (Bhome Gen)."
+      }
+    },
+    {
+      "q": {
+        "ko": "외국인 지원자는 어떤 절차로 지원하면 되나요?",
+        "en": "What is the application process for international prospects?"
+      },
+      "a": {
+        "ko": "먼저 parkwook@khu.ac.kr로 간단한 자기소개·CV·관심 주제를 보내 연구 적합성과 지도 가능 여부를 사전 상담하세요. 이후 경희대학교 대학원 공식 외국인 입학 전형 일정에 맞춰 지원하면 되며, 연구 지도·논문·특허 작성 모두 영어로 소통 가능합니다.",
+        "en": "First email parkwook@khu.ac.kr with a brief introduction, CV, and interests for a pre-admission fit check, then apply via Kyung Hee University Graduate School's official admission track. Research mentoring, paper writing, and patent drafting are all supported in English."
+      }
+    }
+  ],
+  "composer": {
+    "recipient": "parkwook@khu.ac.kr",
+    "heading": {
+      "ko": "30초 만에 커피챗 문의 보내기",
+      "en": "Send a coffee chat inquiry in 30 seconds"
+    },
+    "subheading": {
+      "ko": "트랙과 관심 주제를 고르면 이메일 초안이 자동으로 만들어집니다.",
+      "en": "Pick a track and a topic, and we'll draft the email for you."
+    },
+    "tracks": [
+      {
+        "id": "undergrad",
+        "label": {
+          "ko": "학부연구생 · 인턴",
+          "en": "Undergraduate intern"
+        }
+      },
+      {
+        "id": "capstone",
+        "label": {
+          "ko": "캡스톤 · 졸업논문",
+          "en": "Capstone / graduation thesis"
+        }
+      },
+      {
+        "id": "graduate",
+        "label": {
+          "ko": "석사 · 박사 · 석박사통합",
+          "en": "M.S. / Ph.D. / Integrated"
+        }
+      },
+      {
+        "id": "international",
+        "label": {
+          "ko": "외국인 지원자",
+          "en": "International applicant"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "physical-ai",
+        "label": {
+          "ko": "Physical AI",
+          "en": "Physical AI"
+        }
+      },
+      {
+        "id": "optical-encoding",
+        "label": {
+          "ko": "광학 인코딩 · 구조광",
+          "en": "Optical encoding · structured light"
+        }
+      },
+      {
+        "id": "puf-security",
+        "label": {
+          "ko": "광학 보안 · PUF",
+          "en": "Optical security · PUF"
+        }
+      },
+      {
+        "id": "bio-microfluidics",
+        "label": {
+          "ko": "바이오 마이크로유체",
+          "en": "Bio-microfluidics"
+        }
+      },
+      {
+        "id": "hydrogel-dna",
+        "label": {
+          "ko": "하이드로젤 진단 · DNA 스토리지",
+          "en": "Hydrogel diagnostics · DNA storage"
+        }
+      },
+      {
+        "id": "open-explore",
+        "label": {
+          "ko": "아직 미정 · 열린 탐색",
+          "en": "Not sure yet · open to explore"
+        }
+      }
+    ],
+    "reassurance": {
+      "ko": "연구계획서도, 완벽한 성적표도 필요 없습니다. 궁금한 점 한 줄이면 충분합니다.",
+      "en": "No research proposal and no perfect transcript required. One line about what you're curious about is enough."
+    }
+  },
+  "manifesto": {
+    "eyebrow": {
+      "ko": "연구실 철학 — 도메인 융합 × Beyond AI × 산업 원천 특허",
+      "en": "Our Philosophy — Domain Convergence × Beyond AI × Industrial Patents"
+    },
+    "title": {
+      "ko": "AI에게 물어보면 나오는 지식은 더 이상 무기가 될 수 없습니다",
+      "en": "Knowledge Any AI Can Hand You Is No Longer Your Competitive Edge"
+    },
+    "paragraphs": [
+      {
+        "ko": "MultiplexON은 경희대학교 전자공학과 연구실입니다. 그러나 우리가 실제로 하는 연구는 한 전공의 울타리에 머물지 않는 ‘융합’입니다. 도메인과 도메인이 만나는 경계에서 남들이 발견하지 못하는 새로운 가치를 찾아냅니다. 빛을 패터닝하는 광학 시스템, 신호와 영상을 다루는 알고리즘, 반도체 공정을 닮은 마이크로 제작 기술이 우리 연구의 뼈대입니다. 바이오와 보안·스마트 소재는 그 기술이 향하는 응용 무대이며, 필요한 실험은 연구실에 와서 처음부터 배웁니다.",
+        "en": "MultiplexON belongs to the Department of Electronic Engineering at Kyung Hee University, yet the research we actually pursue is pure convergence beyond any single discipline. Where distinct domains collide, we uncover value others overlook. Optical systems that pattern light, algorithms that interpret signals and images, and semiconductor-inspired microfabrication form our backbone. Bio-diagnostics, security, and smart materials are where those tools point — and every experiment you need is learned hands-on after you join."
+      },
+      {
+        "ko": "지식만으로는 더 이상 살아남을 수 없습니다. 남들이 다 알고 있고 AI에게 물어보면 즉시 나오는 지식은 이미 가치를 잃었습니다. 끝까지 남는 무기는 직접 부딪히는 연구 현장에서의 경험, 그리고 산업과 연결되는 특허입니다. 우리는 AI의 도움을 적극 활용하되, 그 끝에서 AI를 넘어서는 새로운 지식을 창출하고 독점적 특허로 남깁니다. 그때 비로소 우리는 세상을 주도하는 자리에 서고, 우리 자신의 인생이 바뀔 수 있습니다.",
+        "en": "Textbook knowledge alone will no longer keep you ahead. What everyone already knows — and what any AI returns on demand — has lost its standalone value. What endures is lived experience at the research frontier and patents that connect discovery directly to industry. We use AI actively as a force multiplier, yet push past where AI runs out of answers to create original knowledge and lock it in as IP. That is when you lead the world — and change the trajectory of your own life."
+      }
+    ],
+    "major_fit_note": {
+      "ko": "전자공학 전공자를 중심으로 물리·재료·기계·화공·생명·컴퓨터 등 공학·자연과학 전공자를 폭넓게 환영합니다. 바이오 실험 경험은 필수가 아닙니다.",
+      "en": "Centered on electronic engineering majors, we warmly welcome physics, materials, mechanical, chemical, bio/life science, and computer science students. Prior bio wet-lab experience is not required."
+    },
+    "image": "assets/images/recruiting/pathway_domain_convergence.jpg",
+    "image_caption": {
+      "ko": "구조광 광학 · 계산 알고리즘 · 마이크로 제작 도메인이 교차하며 마이크로유체 진단, 하이드로젤 코드 입자, 광학 보안(PUF), DNA 저장 원천 특허로 확장됩니다.",
+      "en": "Streams of structured-light optics, computational algorithms, and microfabrication converge into microfluidic diagnostics, encoded hydrogels, optical PUFs, and DNA storage IP."
+    },
+    "pillars": [
+      {
+        "tag": {
+          "ko": "01 · 도메인 융합",
+          "en": "01 · Domain Convergence"
+        },
+        "title": {
+          "ko": "가치는 전공과 전공이 만나는 경계에 있습니다",
+          "en": "Breakthrough value lives where disciplines meet"
+        },
+        "body": {
+          "ko": "전통적인 단일 전공 문법에 머물지 않고 광학·알고리즘·마이크로 제작을 한 실험실 안에서 결합해, 바이오 진단·위조방지 보안·분자 데이터 저장이라는 새로운 시장을 엽니다.",
+          "en": "Rather than staying inside traditional single-major boundaries, we fuse optics, algorithms, and microfabrication under one roof to open new frontiers in bio-diagnostics, optical security, and molecular data storage."
+        }
+      },
+      {
+        "tag": {
+          "ko": "02 · Beyond AI 현장 경험",
+          "en": "02 · Beyond-AI Bench Experience"
+        },
+        "title": {
+          "ko": "검색되지 않는 데이터는 직접 만든 시스템에서 나옵니다",
+          "en": "Unsearchable data comes only from systems you build"
+        },
+        "body": {
+          "ko": "AI를 연구 도구로 영리하게 활용하되, 아직 세상에 측정된 적 없는 물리·광학·바이오 데이터를 현장에서 직접 만들어 AI가 도달하지 못한 지식을 창출합니다.",
+          "en": "We use AI smartly as an accelerator, then generate physical, optical, and biological data nobody has ever measured before — creating frontier knowledge AI cannot synthesize on its own."
+        }
+      },
+      {
+        "tag": {
+          "ko": "03 · 산업과 연결되는 특허",
+          "en": "03 · Industry-Connected Patents"
+        },
+        "title": {
+          "ko": "미국 16건 · 한국 14건, 총 30건의 검증된 특허 포트폴리오",
+          "en": "30 verified patent records: 16 U.S. (USPTO) & 14 Korean (KIPO)"
+        },
+        "body": {
+          "ko": "논문 발표에 그치지 않고 산업 현장에서 작동하는 독점 권리(IP)를 확보합니다. 연구실 출신 박사와 학생 연구원들이 미국·한국 특허의 공동발명자로 이름을 올리고 있습니다.",
+          "en": "We don't stop at academic papers — we secure enforceable industrial IP. Lab-grown Ph.D.s and student researchers are named co-inventors across our U.S. and Korean patent portfolio."
+        }
+      }
+    ],
+    "etymology": {
+      "tag": {
+        "ko": "랩 이름의 의미 · WHY MULTIPLEXON?",
+        "en": "NAMING ORIGIN · WHY MULTIPLEXON?"
+      },
+      "title": {
+        "ko": "MultiplexON — Multiplexed Optics & Nanosystems",
+        "en": "MultiplexON — Multiplexed Optics & Nanosystems"
+      },
+      "body": {
+        "ko": "전자공학과 광통신에서 멀티플렉싱(Multiplexing)은 서로 다른 여러 파장과 신호를 하나의 빛에 실어 보내는 핵심 원리입니다. MultiplexON은 빛을 설계하는 광학(Optics)과 정밀 나노시스템(Nanosystems) 위에 알고리즘·보안(PUF)·바이오·DNA 저장 도메인을 다중화(Multiplex)하고, 화면 속 지능을 실제 물리 세계의 소자로 켠다(Switch ON)는 뜻을 담고 있습니다. Photon(광자)·Electron(전자)처럼 도메인이 만나는 경계에서 새로운 발견을 여는 ‘융합의 기본 단위’입니다.",
+        "en": "In electronics and photonics, multiplexing unites multiple distinct signals into a single channel of light. MultiplexON (Multiplexed Optics & Nanosystems) reflects how we multiplex computational/AI algorithms, physical security (PUF), bio-diagnostics, and DNA storage onto engineered Optics and Nanosystems — switching ON intelligence in the physical world, echoing photon and electron as a fundamental unit of convergence."
+      }
+    }
+  },
+  "patent_spotlight": {
+    "eyebrow": {
+      "ko": "원천 특허 & 산업화 임팩트",
+      "en": "Frontier IP & Industrial Impact"
+    },
+    "title": {
+      "ko": "논문을 넘어 산업과 직결되는 특허로 연구의 가치를 증명합니다",
+      "en": "Beyond Papers: Proving Real-World Value Through U.S. & Korean Patents"
+    },
+    "lead": {
+      "ko": "AI 시대에 진짜 기술 주권은 산업 현장을 움직이는 원천 특허(IP)에서 나옵니다. MultiplexON에서는 학생과 연구원이 직접 만든 융합 기술을 국내외 특허 권리와 사업화 성과로 연결합니다.",
+      "en": "In the AI era, true technological sovereignty comes from original IP that moves industry. At MultiplexON, students and researchers turn hands-on convergence inventions into international patent rights and commercialization outcomes."
+    },
+    "metrics": [
+      {
+        "value": "30",
+        "label": {
+          "ko": "검증된 한·미 특허 포트폴리오",
+          "en": "Verified U.S. & KR Patent Portfolio"
+        }
+      },
+      {
+        "value": "16",
+        "label": {
+          "ko": "미국 등록·공개특허 (USPTO)",
+          "en": "U.S. USPTO Patents & Published Apps"
+        }
+      },
+      {
+        "value": "14",
+        "label": {
+          "ko": "대한민국 등록특허 (KIPO)",
+          "en": "Korean KIPO Registered Patents"
+        }
+      }
+    ],
+    "proof_points": [
+      {
+        "ko": "최근 미국 등록특허 연속 확보: U.S. Patent No. 12,493,028 (2025), No. 12,343,954 (2025), No. 12,121,974 (2024), No. 12,059,682 (2024), No. 11,987,693 (2024) 등 핵심 원천 IP 등록",
+        "en": "Recent granted U.S. patents: U.S. Patent No. 12,493,028 (2025), No. 12,343,954 (2025), No. 12,121,974 (2024), No. 12,059,682 (2024), and No. 11,987,693 (2024)"
+      },
+      {
+        "ko": "학생·연구원 공동발명자 참여: 연구실 출신 박사후연구원 멘토 윤진식 박사(US 12,059,682 · KR 10-2539615 등), 배중현 박사(US 12,343,954 · KR 10-2650328 등) 및 다수 학생 연구원이 실제 발명자로 등재",
+        "en": "Student & researcher co-inventorship: Lab-grown Ph.D. mentors Dr. Jinsik Yoon (US 12,059,682; KR 10-2539615) and Dr. Junghyun Bae (US 12,343,954; KR 10-2650328) alongside student co-inventors"
+      },
+      {
+        "ko": "특허에서 사업화·산업계로 연결: 2025 서울대 푸드테크 사업화 경진대회 금상(학부연구생 조정빈), 졸업생 바이오·테크 스타트업 CTO(Bhome Gen) 및 삼성전자·SK하이닉스·LG전자·Onto Innovation 진출",
+        "en": "From IP to industry & startups: 2025 SNU FoodTech Commercialization Gold Prize (undergrad Jungbin Cho), alumnus startup CTO (Bhome Gen), and careers at Samsung, SK hynix, LG, and Onto Innovation"
+      }
+    ],
+    "cta_patents": {
+      "ko": "미국·한국 특허 30건 카탈로그 보기 →",
+      "en": "Explore All 30 U.S. & KR Patents →"
+    },
+    "cta_chat": {
+      "ko": "다음 특허의 발명자로 합류 문의",
+      "en": "Inquire to Join as a Next Co-Inventor"
+    },
+    "cta_licensing": {
+      "ko": "기업 기술이전 · 라이선싱 · 산학공동연구 문의 ↗",
+      "en": "Inquire Tech-Transfer, Licensing & Industry R&D ↗"
+    }
+  },
+  "youtube_talks": {
+    "channel_url": "https://www.youtube.com/@꽁대교수",
+    "channel_canonical_url": "https://www.youtube.com/channel/UCnudiT9nT6WFF1oWLzVv1Gg",
+    "channel_handle": "@꽁대교수",
+    "eyebrow": "지도교수의 육성 · @꽁대교수 (공대교수 몰래녹화본)",
+    "title": "커피챗 전에 미리 들어보는 박욱 교수의 생각",
+    "lead": "글로는 다 담기지 않는 연구실의 진짜 온도가 있습니다. 제자들과의 식사·강의 현장에서 나눈 세 편 합쳐 3분의 육성 토크로 연구·특허·진로 철학을 먼저 만나보세요.",
+    "channel_cta": "@꽁대교수 채널에서 더 많은 토크 보기 ↗",
+    "play_cta": "바로 재생",
+    "watch_on_yt": "YouTube에서 열기 ↗",
+    "pi_button": {
+      "ko": "YouTube @꽁대교수 ↗",
+      "en": "YouTube (Korean Talks) ↗"
+    },
+    "footer_link": {
+      "ko": "YouTube · @꽁대교수 (공대교수 몰래녹화본) ↗",
+      "en": "YouTube · Korean Talks (@꽁대교수) ↗"
+    },
+    "cards": [
+      {
+        "id": "patent",
+        "youtube_id": "dVYJPO6eN2c",
+        "is_shorts": true,
+        "badge": "특허 · 기술이전",
+        "duration": "0:41 Shorts",
+        "title": "액자 속 등록증이 아니라, 산업에서 실제로 팔리는 특허",
+        "summary": "서랍 속에 남는 서류용 특허와 기업이 실제로 쓰는 원천 특허의 결정적 차이, 그리고 공동발명자인 학생 연구원에게 돌아가는 실질적 가치.",
+        "quote": "특허는 벽에 걸어 두는 것이 아니라 산업 현장에서 쓰이는 것입니다."
+      },
+      {
+        "id": "beyond-ai",
+        "youtube_id": "zEJmCtQcnbI",
+        "is_shorts": true,
+        "badge": "Beyond AI",
+        "duration": "0:35 Shorts",
+        "title": "AI가 답하는 지식 너머, 대체 불가능한 연구자의 무기",
+        "summary": "AI에게 물어보면 나오는 지식은 가치를 잃은 시대. 최고의 AI 도구를 아낌없이 레버리지하되, 그 끝에서 AI가 만들 수 없는 현장 기술을 만드는 자세.",
+        "quote": "AI 도구를 가장 잘 쓰는 사람이, 결국 AI가 못 하는 원천 가치를 만듭니다."
+      },
+      {
+        "id": "capstone",
+        "youtube_id": "9CucTZEZ_Rs",
+        "is_shorts": false,
+        "badge": "학부생 · 졸업연구",
+        "duration": "1:41 Talk",
+        "title": "4년의 학부 전공이 평생을 결정하지는 않습니다",
+        "summary": "완벽히 준비된 상태에서 시작하는 연구는 없습니다. 서툰 상태라도 직접 실험과 문제 해결에 부딪힌 경험이 진로의 변곡점이 되는 이유.",
+        "quote": "모든 준비가 끝나길 기다리지 말고, 연구 현장에서 먼저 부딪혀 보세요."
+      }
+    ]
+  }
+}

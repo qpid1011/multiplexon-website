@@ -1,0 +1,371 @@
+{
+  "media": [
+    {
+      "id": 1,
+      "date": "July 2025",
+      "year": 2025,
+      "title": "Our lab selected Happy & Smart Lab Certificate 1.0 program!",
+      "source": "KHU Graduate School · Newsis",
+      "summary": "",
+      "url": "",
+      "image": "assets/images/media/media_1.jpg",
+      "title_ko": "경희대학교 대학원 ‘행복한 연구실(Happy & Smart Lab) 인증제 1.0’ 우수 연구실 선정",
+      "paper_url": "https://doi.org/10.1002/advs.78505",
+      "paper_label": "Lab Culture & Recent Highlight"
+    },
+    {
+      "id": 2,
+      "date": "Oct 2024",
+      "year": 2024,
+      "title": "Prof. Wook Park and Prof. Sunkook Kim's team at Kyung Hee University and Sungkyunkwan University collaborate to develop next-generation anti-counterfeiting technology",
+      "source": "JoongBoo Ilbo",
+      "summary": "",
+      "url": "https://www.joongboo.com/news/articleView.html?idxno=363675770",
+      "image": "assets/images/media/media_2.jpg",
+      "title_ko": "경희대 박욱 교수·성균관대 김선국 교수 공동연구팀, 차세대 위조방지 보안 기술 개발"
+    },
+    {
+      "id": 3,
+      "date": "Oct 2024",
+      "year": 2024,
+      "title": "Professor Wook Park’s Research Team in the Department of Electronic Engineering Develops New Secure Micro-Particles",
+      "source": "KHU",
+      "summary": "",
+      "url": "https://research.khu.ac.kr/research/user/bbs/BMSR00040/view.do?menuNo=6400044&boardId=456531",
+      "image": "assets/images/media/media_3.jpg",
+      "title_ko": "전자공학과 박욱 교수 연구팀(학부생 정민겸 제1저자), 이중 보안 마이크로입자 기술 개발"
+    },
+    {
+      "id": 4,
+      "date": "Jul 2024",
+      "year": 2024,
+      "title": "A research team led by Professor Wook Park in the Department of Electronic Engineering developed the world’s first four-dimensional physical unclonable function (4D PUF) technology",
+      "source": "KHU",
+      "summary": "",
+      "url": "https://research.khu.ac.kr/research/user/bbs/BMSR00040/view.do?menuNo=6400044&boardId=414049",
+      "image": "assets/images/media/media_4.jpg",
+      "title_ko": "전자공학과 박욱 교수 연구팀, 세계 최초 4차원 물리적 복제 방지(4D PUF) 보안 기술 개발",
+      "paper_url": "https://doi.org/10.1021/acsnano.3c13142",
+      "paper_label": "ACS Nano Cover Paper (DOI)"
+    },
+    {
+      "id": 5,
+      "date": "Jan 2023",
+      "year": 2023,
+      "title": "A research team led by Prof. Seung-A Lee at Yonsei University, in collaboration with Prof. Wook Park's team at Kyung Hee University, has become the first in the world to develop a groundbreaking technology for mass-producing new optical components, a core element of lensless camera technology.",
+      "source": "CHOSUN Ilbo",
+      "summary": "",
+      "url": "https://lifenlearning.chosun.com/pan/site/data/html_dir/2023/01/18/2023011800910.html",
+      "image": "assets/images/media/media_5.jpg",
+      "title_ko": "경희대 박욱 교수·연세대 이승아 교수 공동연구팀, 초박형 렌즈리스 카메라용 위상마스크 단번 제작 기술 개발",
+      "paper_url": "https://doi.org/10.1364/OPTICA.476000",
+      "paper_label": "Optica Paper (DOI)"
+    },
+    {
+      "id": 6,
+      "date": "Oct 2021",
+      "year": 2021,
+      "title": "Professor Wook Park at the Department of Electronic Engineering and his research team developed a microscale intelligent robot.",
+      "source": "KHU",
+      "summary": "",
+      "url": "",
+      "image": "assets/images/media/media_6.jpg",
+      "title_ko": "전자공학과 박욱 교수 연구팀, 마랑고니 효과 응용 무전원 마이크로 지능형 로봇 개발 (Nature Comms)",
+      "paper_url": "https://doi.org/10.1038/s41467-021-24996-8",
+      "paper_label": "Nature Communications Paper (DOI)"
+    },
+    {
+      "id": 7,
+      "date": "Sep 2020",
+      "year": 2020,
+      "title": "Prof. Kwon and Dr. Bae at Seoul National University, in collaboration with Prof. Wook Park at Kyung Hee University and Dr. Choi at Harvard University, developed a next-generation DNA-Disk storage device",
+      "source": "VERITAS α",
+      "summary": "",
+      "url": "https://www.veritas-a.com/news/articleView.html?idxno=339205",
+      "image": "assets/images/media/media_7.jpg",
+      "title_ko": "경희대 박욱 교수·서울대 권성훈 교수·하버드대 공동연구팀, 하드디스크 대체 차세대 ‘DNA-디스크’ 개발",
+      "paper_url": "https://doi.org/10.1002/adma.202001249",
+      "paper_label": "Advanced Materials Paper (DOI)"
+    },
+    {
+      "id": 8,
+      "date": "May 2019",
+      "year": 2019,
+      "title": "Prof. Kwon at Seoul National University in collaboration with Prof. Wook Park at Kyung Hee University Develop World’s Most Cost-Effective DNA Memory Technology",
+      "source": "DHNEWS",
+      "summary": "",
+      "url": "http://www.dhnews.co.kr/news/articleView.html?idxno=101759",
+      "image": "assets/images/media/media_8.jpg",
+      "title_ko": "경희대 박욱 교수·서울대 권성훈 교수 공동연구팀, 세계 최고 가격경쟁력 DNA 메모리 기술 개발",
+      "paper_url": "https://doi.org/10.1038/s41598-019-43105-w",
+      "paper_label": "Scientific Reports Paper (DOI)"
+    },
+    {
+      "id": 9,
+      "date": "Aug 2017",
+      "year": 2017,
+      "title": "Security for Intellectual Property (IP) will become increasingly critical in the age of Industry 4.0",
+      "source": "KHU",
+      "summary": "",
+      "url": "",
+      "image": "assets/images/media/media_9.jpg",
+      "title_ko": "4차 산업혁명 시대, 물리적 위조방지와 지식재산(IP) 하드웨어 보안의 핵심 가치 조명"
+    },
+    {
+      "id": 10,
+      "date": "Mar 2015",
+      "year": 2015,
+      "title": "Researchers Develop Artificial Micro Fingerprint for Counterfeit Prevention",
+      "source": "Yonhap News",
+      "summary": "",
+      "url": "",
+      "image": "assets/images/media/media_10.jpg",
+      "title_ko": "복제 불가능한 ‘인공 미세지문(Micro-Fingerprint)’ 위조방지 원천기술 개발 (Adv. Mater. 표지)",
+      "paper_url": "https://doi.org/10.1002/adma.201405014",
+      "paper_label": "Advanced Materials Cover Paper (DOI)"
+    },
+    {
+      "id": 11,
+      "date": "Nov 2012",
+      "year": 2012,
+      "title": "Advanced Micro-Identifiers Revolutionize Counterfeit Drug Prevention",
+      "source": "Joongdo Ilbo",
+      "summary": "",
+      "url": "",
+      "image": "assets/images/media/media_11.jpg",
+      "title_ko": "위조 의약품 원천 차단 차세대 QR 마이크로 식별자 기술 개발 (Adv. Mater. 표지)",
+      "paper_url": "https://doi.org/10.1002/adma.201202220",
+      "paper_label": "Advanced Materials Cover Paper (DOI)"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": {
+        "ko": "교수님께 카카오톡이나 메신저로 연락드려도 되나요?",
+        "en": "Can I contact Prof. Park via KakaoTalk or messaging?"
+      },
+      "answer": {
+        "ko": "물론 가능합니다! 연구실 소통은 언제든 열려 있습니다. 다만 수강 중인 교과목 관련 공식 질의는 형평성을 위해 e-Campus 게시판을 이용해 주시고, 가정의 평화를 위해 가급적 정규 일과 시간 내에 메시지를 보내주시면 감사하겠습니다.",
+        "en": "Of course! However, please use the e-Campus course board (https://e-campus.khu.ac.kr/) for lecture-specific questions, and kindly message during regular working hours for domestic harmony."
+      }
+    },
+    {
+      "id": 2,
+      "question": {
+        "ko": "추천서(대학원 진학·유학·취업) 작성 기준은 어떻게 되나요?",
+        "en": "What is your Recommendation Letter policy?"
+      },
+      "answer": {
+        "ko": "학생의 도전을 돕는 것은 교육자의 당연한 역할입니다. 수업, 학부연구생 활동, 개별 면담 등을 통해 제가 학생의 역량과 성실함을 구체적으로 파악할 수 있는 경우 기꺼이 작성해 드립니다. 해외 대학원 유학 추천서의 경우 구체적인 연구 추천을 위해 최소 2개월 이상 학부연구생으로 함께 연구한 학생을 대상으로 작성합니다.",
+        "en": "Supporting students is a natural duty as an educator. I gladly write letters for students I know personally through courses, research, or mentoring. For overseas graduate school applications, letters are written for students who have conducted research in our lab for at least 2 months."
+      }
+    },
+    {
+      "id": 3,
+      "question": {
+        "ko": "캡스톤디자인(졸업논문) 신청 조건과 학기 중 시간 운영은 어떻게 되나요?",
+        "en": "How does the Graduation (Capstone) Project schedule work during semesters?"
+      },
+      "answer": {
+        "ko": "사전 커피챗 상담 후 학기당 2–3명을 선발해 학부연구생과 동일한 장비·멘토링 환경에서 진행합니다. 코어 연구 시간(09:00–18:00)을 지향하되 학기 중 본인 수강 과목·시험 일정은 100% 배려해 공강 중심으로 조율하며, 주간 진도 점검을 통해 학술대회 수상 및 SCI 논문 공저로 연결합니다.",
+        "en": "Selected in small cohorts (2–3 students) after a casual coffee chat, capstone students work alongside our research team. Core lab hours (09:00–18:00) are flexibly coordinated around your registered lecture and exam schedules, with weekly feedback aimed at conference awards and SCI co-authorship."
+      }
+    },
+    {
+      "id": 4,
+      "question": {
+        "ko": "교수님 면담이나 진로 상담은 어떻게 신청하나요?",
+        "en": "How can I schedule a consultation or office-hour meeting?"
+      },
+      "answer": {
+        "ko": "홈페이지 우측 상단의 ‘커피챗 신청’ 버튼을 이용하시거나 parkwook@khu.ac.kr 로 편한 시간대를 적어 메일을 보내주시면 빠르게 일정을 잡아 안내해 드립니다.",
+        "en": "Click the 'Coffee Chat' button in the top header or email parkwook@khu.ac.kr with your preferred times to schedule an in-person or online chat."
+      }
+    },
+    {
+      "id": 5,
+      "question": {
+        "ko": "수강 정원이 마감된 전공 과목의 추가 수강(증원)이 가능한가요?",
+        "en": "Full Enrollment: Can I request course over-enrollment?"
+      },
+      "answer": {
+        "ko": "강의실 수용 인원 범위 내에서 최대 10% 내외의 증원이 가능할 수 있습니다. 희망 학생은 개강 첫 수업 전까지 수강 사유와 간단한 자기소개를 이메일로 보내주시고 첫 수업에 반드시 참석해 주세요.",
+        "en": "Within classroom capacity limits, up to ~10% additional enrollment may be permitted. Please email your rationale before the first lecture and attend the first class session."
+      }
+    },
+    {
+      "id": 6,
+      "question": {
+        "ko": "수업 내용이나 회로·전공 개념 질문은 어디로 하면 좋나요?",
+        "en": "How should I ask technical questions about course lectures?"
+      },
+      "answer": {
+        "ko": "e-Campus Q&A 게시판, 수업 직후 질의응답, 또는 지정 오피스아워를 적극 활용해 주세요. 수식과 회로도가 필요한 심화 개념은 문자나 카톡보다 대면 또는 e-Campus에서 훨씬 정확하게 설명해 드릴 수 있습니다.",
+        "en": "Please use the e-Campus Q&A board, ask right after lecture, or visit during office hours so circuit diagrams and equations can be explained thoroughly."
+      }
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "An Interview with Ph.D. Student Wook Park During His Doctoral Studies",
+      "date": "2024",
+      "content": "Finding Joy in Research, Even Late in the Game\nThis past April, I experienced a deeply moving moment that made me feel grateful for my decision to return to academia. I received news that the results of my research would be published in Nature Materials, a prestigious journal in the field of materials science, after less than two years of effort. In that instant, I let out a quiet exclamation to m...",
+      "paragraphs": [
+        "Finding Joy in Research, Even Late in the Game\nThis past April, I experienced a deeply moving moment that made me feel grateful for my decision to return to academia. I received news that the results of my research would be published in Nature Materials, a prestigious journal in the field of materials science, after less than two years of effort. In that instant, I let out a quiet exclamation to myself: \"Ah, I did it!\"\nWhen I graduated from university in 2002, South Korea was in the midst of a venture boom. Thinking, \"I should take on this challenge, too,\" I joined a startup founded by one of my senior classmates, nurturing dreams of becoming a future CTO. But five years later, that dream collapsed. The harsh realities of the world proved insurmountable. I was left wondering: What should I do now?\nAround that time, Professor Sunghoon Kwon joined the university and sent out an email recruiting students to conduct research in his lab. The email included his profile. Professor Kwon wasn’t much older than me—how had he already achieved enough to become a professor?\nWhen I met him for the first time, I boldly asked questions like, \"How did you manage to become a professor?\" and \"What’s your greatest strength?\" I can’t remember exactly what he said in response, but now I know the answer: dreams and passion.\nTalking to Professor Kwon reignited the dreams I had long forgotten and rekindled the passion I had buried while compromising with reality. When I shared my aspiration of becoming an exceptional scholar, Professor Kwon focused not on the 99% chance that I might fail but on the 1% possibility that I could succeed. He helped me see that possibility and gave me the confidence to restart my academic journey.\nBut at the beginning, there was nothing. The lab was just two empty rooms, and the only other member was my junior, Sueun Jung. There was hardly anything we could do at first. However, when you work with passion, it seems that people around you start to notice and offer help. Professor Kap-Yang Seo in the Department of Mechanical Engineering lent us equipment, and Professor Young June Park from the Department of Nano Systems Engineering supported us in every way he could.\nAfter a semester, things started to fall into place. Fourth-year undergraduates joined the lab to work on their graduation projects, and the lab suddenly became a large family. We aimed to create the best lab in the world, taking an interest in one another’s research, debating, and offering feedback. We shared knowledge, motivated each other, and encouraged one another to pursue our dreams. Every evening after dinner, we’d gather in the lab, chatting for an hour about both our personal lives and our research, naturally fostering a close and vibrant atmosphere.\nThe idea for the paper published in Nature Materials emerged during one of those casual conversations in April of last year. Professor Kwon suggested applying the concept of train tracks to microchannels. At first, none of us thought this idea would ever make it into a cover paper. But as we pursued it with passion, the outlines of the project became clear about a year later. If we had hesitated or dismissed the idea with a \"Will this even work?\" mindset, we wouldn’t have achieved such a great result.\nWook Park"
+      ],
+      "youtube_embed": "https://www.youtube.com/embed/UnAEGsYNOhQ"
+    },
+    {
+      "id": 2,
+      "title": "My Dream",
+      "date": "2024",
+      "content": "This is a post I wrote for the BINEL bulletin board (http://binel.snu.ac.kr) at the suggestion of Professor Sunghoon Kwon, who asked us to write about our dreams as part of a relay.\nLet me talk about dreams.\n\nFor me, dreams were nothing more than a convenient answer when someone asked, \"What do you want to be?\" When I was young, I think I said I wanted to be a scientist. Perhaps it was because I l...",
+      "paragraphs": [
+        "This is a post I wrote for the BINEL bulletin board (http://binel.snu.ac.kr) at the suggestion of Professor Sunghoon Kwon, who asked us to write about our dreams as part of a relay.\nLet me talk about dreams.",
+        "For me, dreams were nothing more than a convenient answer when someone asked, \"What do you want to be?\" When I was young, I think I said I wanted to be a scientist. Perhaps it was because I loved robot cartoons like Astro Boy, Mazinger Z, and Tetsujin 28-go. But I don’t think those dreams influenced me profoundly. Maybe it was just that I enjoyed science classes and, whenever I went to a bookstore, I naturally gravitated toward the science section.\nIf you studied hard in middle and high school, they called you a fool at Seoul National University. Believe it or not, I was one of those kids who did pretty well academically back then. My \"dream\" at the time? To get into a good university. Specifically, to get into SNU. Looking back now, that wasn’t really a dream—it was just a short-term goal. I studied hard with the vague belief that getting into a prestigious school would guarantee a good life, and I eventually achieved it.\nBut reality was harsh. My grades were at rock bottom, and I couldn’t find a way to improve. The only thing I had going for me was my involvement in SIGMA, a hardware club, where I tinkered with random projects, and the skills I picked up as a network and computer assistant in the computer lab. I’d entered SNU with a vague thought that becoming a professor would be nice, but the moment I saw my grades, I gave up on that idea entirely. There were simply too many peers and seniors ahead of me. Adding up their numbers, I realized there wouldn’t be any professor positions left for someone like me.\nAfter graduation, I decided to leverage my strengths and joined Elesign, a startup founded by my seniors, as something like an early member. There were four seniors who had launched it, and I joined in the first year of its establishment. I think I worked hard and had fun. I felt proud when a product I planned was manufactured, sold, and even generated revenue. It was deeply rewarding to see my ideas reflected in the product and to watch it perform well. During this time, I also met Hosuk and Sangkwon.\nBut after a promising start in the first couple of years, the company began to struggle. By the fifth year, there were months with no revenue at all, and eventually, the company closed. I was left with a critical life decision: Should I leverage my five years of experience and join Samsung SDS as a mid-career hire, or should I go back to graduate school? I chose graduate school without much hesitation. My reasoning? I figured I could earn a master’s degree and then join KT, which seemed like a comfortable and stable place to work based on my visits to their research labs during my startup days.\nThat’s when I joined BINEL. I initially planned to pursue communications-related research, but I applied to Professor Sunghoon Kwon’s new lab as a backup, just in case. It turned out that Professor Kwon was a junior to one of my seniors at Elesign, and he’d even asked about me before the interview. And so, through this connection, I started working at BINEL.\nAt the time, dreams were still just something I would mention if asked—something I didn’t truly believe I was allowed to pursue. When Professor Kwon first asked me about my dream, I said I wanted to become a professor. Not because it was a lie, but because I felt like I needed something to say. I’d never truly believed my entire life had to revolve around that one goal. Saying it out loud, though, felt a little embarrassing.\nBut Professor Kwon listened carefully and said it was possible. He even painted a plausible scenario for me: graduating and becoming a professor right away. When I initially shared my dream, it seemed like a modest and improbable vase, but after hearing his encouragement and perspective, it felt like he handed it back to me filled with flowers. Suddenly, it didn’t seem so impossible. As we continued to talk about my dream throughout my doctoral program, those flowers grew fuller, and I began to see it as a genuine, tangible vision of the future.\nLet me shift gears for a moment. Beware of people who say, \"Have a dream, and it will come true,\" or ads that claim the same. Dreams don’t come true just because you have them. People who fail to achieve their dreams didn’t fail because they lacked dreams. The world isn’t that simple.\nI consider myself incredibly lucky. The reason I’ve been able to conduct research and become a professor isn’t just because I had a dream. It’s largely because I joined BINEL—90%, or maybe even 95%, of my success is due to that. The world is full of hardworking, capable, and talented people. There are plenty of people who have dreams, work hard, and excel. I am here because I was lucky.\nEven so, I believe having a dream is important. Without a dream, you don’t imagine. And without imagination, you’re left only with reality—a reality that is often cold and bleak. But when you dream, you start to imagine, and imagination brings joy to reality. When reality becomes enjoyable, you can work hard. The work we do is like running a marathon, not a sprint. It’s about experimenting over and over again, often without immediate results, until the craftmanship brings something meaningful to light. If you don’t enjoy it, you won’t last. And if you don’t work hard, you might miss the rare opportunities that luck brings your way.\nBINEL brought me that luck. And I believe that luck is like a seed that will grow. I hope each of you at BINEL will take out your own small dreams and let them see the light. Let’s help each other nurture those dreams into something real and meaningful. And may we work hard together to be ready for the moments when luck knocks on our doors."
+      ],
+      "youtube_embed": ""
+    },
+    {
+      "id": 3,
+      "title": "To the MultiplexONians I’ve shared this past year with as a professor",
+      "date": "2024",
+      "content": "Dear MultiplexONians,\nIt’s hard to believe that nearly a year has passed since I began this journey as a professor. The title of “professor,” which once felt distant and abstract, still feels unfamiliar to me. Especially as I continue to divide my time between Seoul National University and Kyung Hee University, I often feel like I’m living a dual life. At SNU, I sometimes feel like I’m still a gra...",
+      "paragraphs": [
+        "Dear MultiplexONians,\nIt’s hard to believe that nearly a year has passed since I began this journey as a professor. The title of “professor,” which once felt distant and abstract, still feels unfamiliar to me. Especially as I continue to divide my time between Seoul National University and Kyung Hee University, I often feel like I’m living a dual life. At SNU, I sometimes feel like I’m still a graduate student, while at Kyung Hee, I’m reminded of my role as a professor. Yet, this duality isn’t unpleasant—it keeps me grounded and reflective.\nThis winter feels different compared to last summer. Perhaps it’s because, for the first time, I have graduate students of my own. It brings back memories of my early days in the lab with Professor Sunghoon Kwon at SNU. I remember the first semester with my classmate, Su Eun, and how, during the following winter break, we welcomed our first junior members—Hyoki, Junhoi, and Seonghwan. I can still picture their wide-eyed expressions as they introduced themselves and looked to the professor for guidance, brimming with both curiosity and uncertainty. I even remember how our very first lab meeting ran for over three hours, leaving Sueun utterly drained, and how we all headed to dinner afterward, exhausted but excited.\nLooking back, I realize that the reason I’ve made it to where I am today is not because I possessed extraordinary abilities from the beginning. Rather, it’s because I was given opportunities to grow and develop the skills and qualities a professor should have. Having juniors join the lab in those early days—when I still knew so little myself—pushed me to strive to be a better role model, to teach, and to learn alongside them. That sense of responsibility, combined with the fear of falling short, became the driving force that shaped me and gradually brought me to where I stand today.\nAs MultiplexONians, when the time comes for you to complete this journey, you, too, will find yourselves transformed. But don’t settle for vague hopes like, “Things will just somehow be different” or “I’ll improve, won’t I?” Instead, I encourage you to envision your dreams more concretely and actively expand the metaphorical bag that will hold them. Don’t let fear of the unknown or uncertainty about how to proceed hold you back. Take a moment to reflect on the reasons you’ve put off chasing your dreams and the purpose of your life. Imagine the vessel that will hold your aspirations and ambitions, and consider how you can shape and fill it.\nWhile we are here together as MultiplexONians, let’s support one another and do our utmost to ensure that each of us can achieve as much as we aspire to. Let’s help each other grow and push the boundaries of what we think is possible, both individually and as a team."
+      ],
+      "youtube_embed": ""
+    },
+    {
+      "id": 4,
+      "title": "EiRIC Rising Star Interview",
+      "date": "2024",
+      "content": "▶ Please introduce yourself.\nHello, my name is Wook Park, and I am currently a professor in the Department of Electronic Engineering at Kyung Hee University. I am a purely domestically trained researcher without any overseas experience. I graduated from the Department of Electrical Engineering at Seoul National University and worked at a venture company founded by my senior colleagues for five yea...",
+      "paragraphs": [
+        "▶ Please introduce yourself.\nHello, my name is Wook Park, and I am currently a professor in the Department of Electronic Engineering at Kyung Hee University. I am a purely domestically trained researcher without any overseas experience. I graduated from the Department of Electrical Engineering at Seoul National University and worked at a venture company founded by my senior colleagues for five years, carrying big dreams of success. Despite the passion and enthusiasm of the young employees, the company unfortunately had to close. I decided to return to school to further my studies and completed my master’s and doctoral programs under the supervision of Professor Sunghoon Kwon in the Department of Electrical and Computer Engineering at Seoul National University. Afterward, I was fortunate to receive an excellent opportunity to join Kyung Hee University, where I have been working ever since.\n▶ Please introduce your main research areas.\nI am working on creating micro-patterns and structures using 3D printing technology based on MEMS (Micro-Electro-Mechanical Systems) technology in the micro domain. These are utilized as tools for various applications, particularly in information processing. Primarily, my research focuses on creating micro-sized barcodes and QR codes that are applied to multiplex diagnostics in the biofield. I am also exploring a DNA storage platform where DNA clusters are used to enable data indexing and storage.\n▶ You are recognized as a global authority in DNA-based memory technology, achieving outstanding results in this field. Can you tell us more about your research?\nThe amount of data produced globally is increasing exponentially, with most of it generated in the last five years. This data needs to be stored, as it is not consumed immediately. Data centers manage such data efficiently by categorizing less frequently used but long-term data as \"cold data.\" Developing next-generation storage technologies to replace hard disk drives (HDDs) has become crucial for storing vast amounts of data. In the U.S., Microsoft, Harvard University, and the University of Washington, among others, have formed government-led consortia to develop DNA memory technologies.\nDNA memory is a technology that converts binary digital data (0s and 1s) into quaternary data composed of A, G, T, and C, and stores it in DNA biochemical molecules. This next-generation technology can store all the data produced globally in just 1 kg of powdered DNA. My research focuses on the essential device technologies required for DNA memory, which have not yet been fully developed.\n▶ What are your personal reflections from your research journey so far?\nResearch remains challenging and feels endless, much like running a marathon. I often question whether I am doing well and if I am suited for research. This pressure may stem from the need to perform well and achieve good results. Viewing colleagues as competitors in a race can make the journey feel lonely and isolating. While such pressure can bring out one's inner strength, it can also lead to burnout. Instead, I try to view it as a battle with myself, running as far as I want to go and seeing those around me as companions on this journey. Without these companions, I wouldn’t be able to go as far, and even if I did, it would feel empty.\n▶ Beyond DNA memory, you have worked on anti-counterfeiting technology and other areas vital in the age of big data and AI. Do you have any new research directions or aspirations?\nIn reality, research often demands short-term results, making it hard to focus on areas that require significant time and effort but yield slower outcomes. While I will continue to work on DNA memory, anti-counterfeiting technology, and big data, I am also interested in fundamental areas seemingly unrelated to my field, such as addressing food security or male hair loss.\n▶ Is there a figure or researcher who has greatly influenced you?\nThe person who influenced me the most is my doctoral advisor, Professor Sunghoon Kwon of Seoul National University. When he joined the university, he recruited his first group of lab students, and I was fortunate to work with him. At just 32 years old, he was only three years older than me, yet he exuded passion and confidence in research. I never felt much of an age difference working with him. Even now, when I reach out to him, he continues to inspire me with his constant growth in research and tech entrepreneurship.\n▶ Do you have a specific paper that holds a special place in your career?\nOne paper that stands out for me is \"Guided and fluidic self-assembly of microstructures using railed microfluidic channels,\" published in Nature Materials in 2008, where I was the lead author. At that time, publishing in major journals like Nature or its sister journals from the field of electronic engineering was rare enough to make headlines. Our lab was less than two years old, and we didn’t even have all the necessary equipment. We relied heavily on support from neighboring labs, which made the experience all the more memorable.\n▶ What advice would you give to students aspiring to pursue this field?\nBoundaries between fields are rapidly disappearing. Popular disciplines and departments are shifting, and new ones emerge daily. During such times, it is important to build a solid foundation and approach new fields with an open mind and a willingness to learn continuously. The era of relying on knowledge learned once throughout a lifetime is over. We now live in a time where we must constantly learn and adapt, even until the day we retire.\n▶ Lastly, what are your future plans?\nI aim to connect with experts from various fields to identify hidden problems in the world and work toward solving meaningful challenges. I believe it’s time to go beyond lab-level research and strive to apply our technologies in real-life contexts, turning ideas into tangible solutions for everyday life."
+      ],
+      "youtube_embed": ""
+    },
+    {
+      "id": 5,
+      "title": "I Don’t Understand Anything at the Conference!",
+      "date": "2024",
+      "content": "KMEMS and BioChip were the academic conferences I regularly attended during my graduate school years. Especially BioChip—it was a fledgling conference at the time, though I didn’t realize it back then.\nI still remember my first time attending; it was held at KAIST in Daejeon. At that point, I knew so little about bio-related topics that I couldn’t even understand the titles of papers unless they w...",
+      "paragraphs": [
+        "KMEMS and BioChip were the academic conferences I regularly attended during my graduate school years. Especially BioChip—it was a fledgling conference at the time, though I didn’t realize it back then.\nI still remember my first time attending; it was held at KAIST in Daejeon. At that point, I knew so little about bio-related topics that I couldn’t even understand the titles of papers unless they were about microfluidics or micro-lithography.\nFor several years, I kept attending those conferences. Even now, I don’t fully understand everything, but I continue to study and strive to grasp the material.\nWhen you attend a conference, don’t be afraid of unfamiliar terms or concepts. That’s precisely why you’re there—to recognize what you don’t know and learn about it. However, don’t ignore or gloss over these unfamiliar concepts. Even if you avoid them temporarily, you will encounter them again. If you’re reluctant to study them the next time, they will remain a minefield in your intellectual landscape.\nThese “mines” represent your gaps in knowledge. Ignorance left unaddressed becomes a fear that prevents your brain from exploring the boundless possibilities of imagination. Don’t settle for vague guesses—seek to fully understand these concepts and turn them into your weapons.\nThere’s no shame in not knowing something. Not knowing simply means you have an empty jar waiting to be filled with knowledge. Each jar you fill becomes a lifelong asset—a piece of intellectual property that will stay with you forever.\nWhat’s truly shameful is not knowing what you don’t know or, worse, refusing to make an effort to learn when you do know. Don’t boast with the loud clanging of a few half-filled jars. Such noise doesn’t align with the dignity and character of a true scholar.\nInstead, embrace the journey of learning. Fill those jars with knowledge, one by one, and carry them with quiet pride as your lasting treasures."
+      ],
+      "youtube_embed": ""
+    },
+    {
+      "id": 6,
+      "title": "Professor Pister's Philosophy on Research",
+      "date": "2024",
+      "content": "Collaboration, idea sharing, and open communication are essential in research. Discuss your ideas openly, help your peers solve their problems, and pay close attention to what others are working on. Reflect on whether there’s something you can learn or contribute to their work.\nDon’t approach your doctoral studies with the ordinary goal of just obtaining a degree. You’ve entered graduate school to...",
+      "paragraphs": [
+        "Collaboration, idea sharing, and open communication are essential in research. Discuss your ideas openly, help your peers solve their problems, and pay close attention to what others are working on. Reflect on whether there’s something you can learn or contribute to their work.\nDon’t approach your doctoral studies with the ordinary goal of just obtaining a degree. You’ve entered graduate school to become a pioneer of knowledge. Achieving this requires the generation and validation of new ideas. You won’t be able to execute every idea you come up with. However, the ideas you discard might be exactly what one of your peers has been desperately searching for.\nHuman nature often inclines us to hoard our ideas, keeping them hidden away. Overcoming this tendency is vital. Similarly, people are often quick to dismiss the ideas of others. The deeper we delve into a field, the more our minds instinctively try to find faults in others’ ideas. While challenging, we must also rise above this inclination.\nIn academia, you’ll encounter individuals who succumb to darker tendencies—what we might call \"intellectual thieves.\" These researchers rarely share their work openly. Instead, they rely on vague, ambiguous descriptions. They specialize in pointing out flaws in the work of their peers. Such researchers often present grand ideas but leave out critical details that prevent others from replicating or building on their work. They are like one-way valves for knowledge—information flows in but rarely comes back out.\nThese individuals replace the core purpose of discovery and publication with self-serving motives, focusing on empire-building or competing for fleeting recognition.\nIn contrast, you should embrace transparency in your work. Be honest about what you’ve achieved and what you haven’t. Even when engaging with such \"intellectual thieves,\" resist the temptation to hide your ideas out of fear they might be stolen. Show patience and openness—these qualities can serve as a remedy for the darker tendencies that sometimes plague our field.\nBy openly sharing your work, you contribute to a research culture that fosters collaboration, trust, and genuine progress. In the long run, this approach builds a legacy far more impactful than hoarded ideas or hidden agendas."
+      ],
+      "youtube_embed": ""
+    },
+    {
+      "id": 7,
+      "title": "Papers Are Like Organic Food",
+      "date": "2024",
+      "content": "These days, many of you are working hard reading research papers. At times, you may wonder: \"Why do I need to read papers?\" or \"How should I approach reading them?\" As you wrestle with a paper, you might find yourself thinking: \"Why am I so bad at reading these? Is there even a point to this?\" Rest assured, you’re not alone. I’ve been through the same struggles, and even now, reading papers is no ...",
+      "paragraphs": [
+        "These days, many of you are working hard reading research papers. At times, you may wonder: \"Why do I need to read papers?\" or \"How should I approach reading them?\" As you wrestle with a paper, you might find yourself thinking: \"Why am I so bad at reading these? Is there even a point to this?\" Rest assured, you’re not alone. I’ve been through the same struggles, and even now, reading papers is no easy task for me.\nLet’s start by discussing the value of research papers and why they are worth reading. Academic papers are among the most logical, creative, and useful forms of writing in the world. Yet, I wonder if we truly appreciate the value of these papers, which we download so easily every day. The papers you’re reading are carefully vetted and selected by experts in the field. They go through a rigorous peer-review process to earn a place in respected journals. In short, they are validated both in content and form.\nConsider why you chose to attend graduate school, perhaps hoping to learn from excellent professors or use state-of-the-art equipment. Why? Because given the time and effort you’ll invest, you naturally want to study in the most selective and high-quality environment possible. Our time is finite, so it makes sense to aim for optimal conditions for research within the time we have.\nNow think about what it takes to become the best athlete. You need to consume food rich in nutrients, avoiding instant or junk food. In the same way, the papers you read are like nutritious, high-quality food for your mind.\nBy reading research papers—the foundational sources of knowledge—you’re gaining insights not from second-hand summaries, translations, or fragmented sources like blogs, but directly from the original, unfiltered material. This is akin to consuming the best, most nutritious food available in your field of study. Whether you’re at MIT, Harvard, or anywhere else, students in top institutions are reading these same papers to learn and grow.\nFor those of you engaged in paper studies, particularly analyzing cutting-edge research hot off the press, you’re actually ahead of many research groups. It might sound surprising, but by reading papers that have only just been accepted or are available online pre-publication, you’re accessing some of the most current and advanced information in the world.\nI am genuinely proud of you for diving into this effort—exploring preprints and acquiring knowledge straight from the forefront of your field.\nOf course, there are many other benefits to reading papers, but we’ll save those for another discussion. For now, remember that reading papers is like feeding your mind with organic, high-quality nutrients essential for your intellectual growth and success.\nReading Papers Is Not Enough;"
+      ],
+      "youtube_embed": ""
+    },
+    {
+      "id": 8,
+      "title": "Organizing Them Is Key",
+      "date": "2024",
+      "content": "I have shared my thoughts on the significance of academic papers. Being able to access valuable research papers is a privilege, one you should appreciate. The hefty tuition fees you pay contribute to subscription licenses that grant you access to these papers, so make the most of this right.\nOn my laptop, I store countless files and data. If I were to choose the most important among them, I’d say ...",
+      "paragraphs": [
+        "I have shared my thoughts on the significance of academic papers. Being able to access valuable research papers is a privilege, one you should appreciate. The hefty tuition fees you pay contribute to subscription licenses that grant you access to these papers, so make the most of this right.\nOn my laptop, I store countless files and data. If I were to choose the most important among them, I’d say it’s the collection of papers I’ve organized over the years. Even though my research career has been relatively short, these papers, gathered one by one since the days when I knew little, are one of my most treasured assets.\nNow, if you ask me whether I remember every paper I’ve read, I can confidently tell you:",
+        "\"No, not at all. Most are a blur.\"",
+        "It’s impossible to read every paper in detail. In fact, I can count on one hand the number of papers I’ve fully read word for word. Most of the time, I skim through them, focusing on key points. Yet, whether I read a paper thoroughly or skimmed it, every paper I’ve encountered leaves a certain impression. These impressions can sometimes be brief and clear, while other times, they are hazy, like a vague cloud.\nLater on, these impressions may resurface, helping you recall old papers or past ideas. Perhaps you’ll remember the title of a paper, look it up, and read it from the beginning again. With some luck, you might even reconnect with the ideas you had when you first read it.\nLet me shift gears a bit. Imagine you’re an hour away from an important exam. What would you do?\nSkim through the highlighted parts of your textbook or review your summary notes.\nStart reading a new textbook from the beginning.\nIn my case, the papers I’ve read and saved contain highlighted sections, notes about the ideas I had, and questions that came to mind while reading. These traces are like the impressions left on the papers. Going back to these papers is like stepping into a time machine, revisiting the moment when I first read them. It’s as if the past and present versions of myself are collaborating to read the paper together. Your previous impressions create new ones, and these fresh impressions prepare you for the future. At some point, these impressions could spark an idea—a spark that, through various stages, could lead to something meaningful in the world.\nBut is it enough to simply leave impressions on papers?\nUnorganized impressions, no matter how brilliant, are like scattered sticky notes lying around. When you first write something on a sticky note, it might feel like important information. But if it ends up floating around your desk or stuck between books, it becomes impossible to find when you actually need it. You’ll only stumble across it later during a desk cleanup.\nThat’s why organization is crucial.\nJust as a well-arranged store display commands higher prices than a messy stall, your intellectual impressions need to be collected and organized. These curated impressions become your invaluable intellectual property.\nTake the time to organize your notes and ideas. Turn the fleeting impressions into a systematized collection of your intellectual journey. This is the foundation of your personal treasure trove of knowledge."
+      ],
+      "youtube_embed": ""
+    },
+    {
+      "id": 9,
+      "title": "The Night Before an Important Presentation",
+      "date": "2024",
+      "content": "\"The final exam will be replaced with a presentation of your project.\"\n\"Mr. Kim, you need to prepare a company introduction for the client tomorrow.\"\n\"The first round of professor recruitment is document screening; the second round is an open lecture.\"\n\"Project evaluations will be based on the research leader's 30-minute presentation.\"\nThe clock is ticking, and the pressure is on. How do you start...",
+      "paragraphs": [
+        "\"The final exam will be replaced with a presentation of your project.\"\n\"Mr. Kim, you need to prepare a company introduction for the client tomorrow.\"\n\"The first round of professor recruitment is document screening; the second round is an open lecture.\"\n\"Project evaluations will be based on the research leader's 30-minute presentation.\"\nThe clock is ticking, and the pressure is on. How do you start preparing in such situations? Reflecting on your previous less-than-stellar presentation experiences, what do you prioritize first? Do you recall a particularly impressive PPT you once saw and start hunting for a similar template or design? Maybe you scour the internet for stylish templates or sample slides, thinking they’ll help you deliver a dazzling presentation.\nBut after all that effort, do you sometimes feel dissatisfied—like wearing a suit that doesn’t quite fit? Do you catch yourself blaming the template or your design skills, wishing you were better at creating visuals?\nLet’s explore the path to an effective presentation, starting with you, the presenter.\nImagine yourself as a medieval knight setting off to rescue a princess tomorrow. With so little time to prepare, what would you do first? You’d probably visit a weapon shop to buy a good sword. But remember, having a powerful weapon doesn’t guarantee victory. The stronger the sword, the heavier and harder it is to wield. The key is to find a weapon you can handle effectively. If you’re tempted by an exceptional weapon, you must first develop the skills and strength to wield it. When your abilities align with the weapon’s potential, you become a knight capable of rescuing the princess from a fearsome monster.\nIn this metaphor, your presentation materials are the weapon, and you are the knight.\nIf you have a presentation to give tomorrow, don’t waste time chasing after new and fancy tools. Instead, focus on reviewing and practicing with the materials you already have. Test your slides, rehearse your delivery, and read through your script repeatedly.\nNow, if you have plenty of time before your presentation, you can aim to enhance your skills and find better tools. In that case, seek out stronger weapons, sharpen their edges, and build the skills and stamina to wield them effectively. Together, we can explore ways to become better presenters and elevate your presentations to the next level. Of course, having a good sword—or in this case, well-designed slides—is still important.\nWhen the day arrives, you’ll step into your battlefield, which might be a small meeting room or a grand auditorium. Take a moment to assess your surroundings. In smaller venues, there might not even be a podium, but larger spaces typically have one. Look around—beside or behind the podium, there will usually be a screen for your slides, varying in size depending on the venue.\nIf there’s a large screen, you’ll likely stand beside a podium or onstage if there isn’t one. Many describe presentations as a form of \"integrated art.\" They require planning, design skills to express your ideas, and effective delivery on stage. To better understand this \"integrated art,\" let’s break the presentation process into two main components:\nThe materials projected on the screen\nYou, the presenter on stage\nTo put it simply, the presentation materials resemble a film, while the presenter is more like a theater actor.\nWhile we’ll delve deeper into the cinematic aspects of presentation materials in a later discussion, this segment will focus on you as the presenter. Let’s explore how to bring out your best performance on stage.\nCopyright © MultiplexON (Multiplexed Optics & Nanosystems) Lab. All Rights Reserved"
+      ],
+      "youtube_embed": ""
+    }
+  ],
+  "rights": {
+    "title": {
+      "ko": "경희대학교 대학원생 권리장전 (인권 헌장 전문)",
+      "en": "Graduate Student Bill of Rights"
+    },
+    "intro": {
+      "ko": "경희대학교 대학원의 인권 보호와 건전하고 수평적인 연구문화 정착을 위한 교수·대학원생 공동 선언문입니다.",
+      "en": "Joint Declaration by Faculty and Students for the Protection of Human Rights and the Improvement of Research Culture at the Graduate School of Kyung Hee University."
+    },
+    "articles": [
+      {
+        "heading": {
+          "ko": "1. 인격권 (Right to Personal Dignity)",
+          "en": "1. Right to Personal Dignity"
+        },
+        "body": {
+          "ko": "대학원생은 학문 공동체와 사회의 동등한 구성원으로서 존중받으며, 신체적·언어적·성적 폭력과 모든 형태의 차별로부터 보호받을 권리를 가진다.",
+          "en": "Students must be respected as members of the social and academic community, free from physical, verbal, and sexual violence, and free from discrimination."
+        }
+      },
+      {
+        "heading": {
+          "ko": "2. 자기결정권 (Right to Self-Determination)",
+          "en": "2. Right to Self-Determination"
+        },
+        "body": {
+          "ko": "대학원생은 사생활의 자유, 사상의 자유, 건강권과 가정생활의 권리를 가지며, 교육 및 연구와 무관한 부당한 사적 업무를 거부할 권리를 가진다.",
+          "en": "Students have the right to personal privacy, freedom of thought, health, and family life, and the right to refuse tasks unrelated to research or education."
+        }
+      },
+      {
+        "heading": {
+          "ko": "3. 학업 및 연구권 (Right to Academic Research)",
+          "en": "3. Right to Academic Research"
+        },
+        "body": {
+          "ko": "대학원생은 공정한 교육·연구 기회와 투명하고 합리적인 평가를 받을 권리를 가지며, 부당한 학업 중단으로부터 보호받는다.",
+          "en": "Students are entitled to equitable education and research opportunities, transparent evaluations, and protection from academic interruption."
+        }
+      },
+      {
+        "heading": {
+          "ko": "4. 저작자권 (Right to Authorship)",
+          "en": "4. Right to Authorship"
+        },
+        "body": {
+          "ko": "연구에 실질적으로 기여한 대학원생은 정당한 공저자 표시와 지식재산권·저작권 보호를 받으며, 이에 따른 어떠한 불이익도 받지 않는다.",
+          "en": "Substantial research contributions entitle students to co-authorship and copyright protection without retaliation."
+        }
+      },
+      {
+        "heading": {
+          "ko": "5. 공정한 근로조건의 권리 (Right to Fair Labor Conditions)",
+          "en": "5. Right to Fair Labor Conditions"
+        },
+        "body": {
+          "ko": "연구 참여 시간, 역할, 연구장려금(인건비) 기준은 국가 노동 기준 및 대학 규정에 부합하게 사전에 명확하고 투명하게 안내되어야 한다.",
+          "en": "Clear information regarding hours, duties, and wages must be provided in accordance with national labor and university standards."
+        }
+      }
+    ],
+    "appendix": {
+      "ko": "본 선언은 유엔글로벌콤팩트(UNGC) 대학 공동체 10대 원칙을 준수하며 상호 신뢰와 존중의 연구실 문화를 실현하기 위해 제정되었습니다.",
+      "en": "The Declaration seeks to foster mutual understanding and normative responsibilities, upholding the 10 Principles of the UN Global Compact."
+    },
+    "raw_text": "학부연구생 모집 공지사항\n \nRights\nGraduate Student Bill of Rights\nJoint Declaration by Faculty and Students for the Protection of Human Rights and the Improvement of Research Culture at the Graduate School of Kyung Hee University\nKyung Hee University continues to advance toward becoming a world-class research-oriented university. In the course of achieving remarkable quantitative and qualitative growth, issues surrounding the human rights of graduate students have surfaced, as well as the persistence of outdated research practices. Faculty members and graduate students of Kyung Hee University collectively recognize the urgent need to reform the human rights conditions and research culture at the graduate school to befit a leading global institution.\nRecently, the protection of graduate students’ rights and the improvement of research environments have emerged as nationwide concerns. In October 2014, the Presidential Committee on Young Generation, together with the student councils of 14 major universities, proclaimed the \"Graduate Students' Bill of Rights,\" prompting universities to conduct human rights surveys, establish human rights centers, and adopt their own charters of rights.\nAt the end of 2014, an internal survey at Kyung Hee University revealed considerable instances of human rights violations against graduate students. Consequently, the Kyung Hee University Faculty Senate and the General Graduate Student Council jointly issue the \"Joint Declaration for the Protection of Human Rights and the Improvement of Research Culture at the Graduate School of Kyung Hee University,\" committing to continuous innovation in these areas.\nThis Declaration aims to uphold and advance the basic human rights enshrined in the 10 Principles of the University Community outlined by the UN Global Compact (UNGC) in 2012. The scope of rights primarily follows the standard of the \"Graduate Students' Bill of Rights\" declared by the Young Generation Committee, while also directly addressing frequent human rights violations through specific provisions. Moreover, by specifying not only students' rights but also their responsibilities as members of the academic community, the Declaration seeks to foster a more ethical and progressive research culture at Kyung Hee University.\nGraduate students' rights include the following: the right to personal dignity, the right to self-determination, the right to academic research, the right to authorship, and the right to fair labor conditions.\nRight to Personal Dignity: Students have the right to be respected as members of the social and academic community, to be free from physical, verbal, and sexual violence, and to be protected against discrimination based on social differences such as gender, nationality, or political beliefs.\n\nRight to Self-Determination: Students have the right to personal privacy, freedom of thought, and political and religious beliefs, ensuring that academic pursuits do not override their health, safety, or family life. They also have the right to refuse tasks unrelated to their education or research.\n\nRight to Academic Research: Students are entitled to equitable opportunities in education and research, free from unjust academic suspension, undue project workloads, or the misuse of research funds. They have the right to fair assessment and evaluation in all scholarly activities.\n\nRight to Authorship: Students deserve rightful recognition for their substantial contributions to research and publication. They have the right to be credited as authors or co-authors, and to protect their intellectual property without suffering retaliation.\n\nRight to Fair Labor Conditions: Students engaged in academic and research-related labor must receive clear information about working hours, duties, and wages, in accordance with national labor standards and university regulations.\n\nGraduate students are also entrusted with the following responsibilities:\nComprehensive Responsibility for Research and Learning: Students must be aware of degree requirements, commit sufficient time and effort to coursework and research, and uphold academic integrity and ethical standards in all scholarly activities.\n\nResponsibility for Professionalism within the Academic Community: Students must engage responsibly with faculty and peers, contribute to research and intellectual advancement, and acknowledge and respect the contributions of others.\n\nResponsibility to Recognize and Respect the Role of Professors: Students must acknowledge professors' educational authority, respect their academic decisions, and avoid distorting academic processes through inappropriate means such as gifts or hospitality.\n\nResponsibility to Respect Human Rights among Students: Students must ensure that no violations of rights occur among their peers, actively counteracting practices such as excessive hierarchical demands, verbal abuse, or unjust labor expectations.\n\nWe hope that this Declaration, as a follow-up to the \"Kyung Hee Members’ Future Agreement\" adopted in 2011, will serve as a foundation for institutional and cultural development through the clear recognition of the rights and responsibilities outlined herein by all members of the Kyung Hee University graduate community.\nKyung Hee University Faculty Senate\n Kyung Hee University Seoul Campus General Graduate Student Council\n Kyung Hee University Global Campus General Graduate Student Council\n\nAppendix\n1. Purpose\nThe \"Joint Declaration for the Protection of Human Rights and the Improvement of Research Culture at the Graduate School of Kyung Hee University\" seeks to protect and promote the fundamental human rights of all graduate community members.\nIt aims to present not only graduate students’ rights but also their normative responsibilities, fostering a more advanced research community.\nBy articulating both rights and responsibilities, it promotes mutual understanding and raises awareness to improve the university’s research culture.\nThis Declaration is a continuation of the \"Kyung Hee Members’ Future Agreement\" of 2011, aiming to establish a culture of mutual respect within the academic community.\n\n2. Duties of University Members\nAll graduate school members must recognize, respect, and realize the rights and responsibilities outlined in this Declaration.\nThe graduate school shall regularly conduct human rights education, including the contents of this Declaration.\nGraduate students' rights and responsibilities must not be disregarded simply because they are not exhaustively listed herein.\n\nGraduate Students' Rights\n1. Right to Personal Dignity\nStudents must be respected as members of the social and academic community.\n\nThey have the right to study, research, and work in a safe environment free from physical, verbal, and sexual violence, including:\nFreedom from physical assault or maltreatment,\nFreedom from verbal abuse and coercive or humiliating language,\nFreedom from sexual harassment, molestation, and assault.\nNo discrimination based on gender, academic background, nationality, race, age, disability, religion, or political beliefs shall be tolerated.\n\n2. Right to Self-Determination\nStudents have the right to personal privacy, freedom of thought, political belief, and religious faith. Academic and research obligations shall not take precedence over their right to health, safety, marriage, maternity protection, or family life.\nStudents have the right to refuse any duties unrelated to their education or research, including personal errands, unpaid labor, summons, and forced accompaniment.\n\n3. Right to Academic Research\nStudents must not be unfairly deprived of educational or research opportunities and must not have their studies interrupted without just cause.\nThey have the right to resist excessive project workloads, misappropriation of research funds, and inappropriate demands linked to thesis guidance (e.g., demands for gifts, meals, or monetary compensation).\nStudents must have free consultation regarding major selection or advisor changes.\nEssential access to classrooms, laboratories, lecture opportunities, proper research and clinical experience, and fair, transparent, written evaluations must be ensured.\nStudents may appeal research and academic evaluations and have the right to demand academically sufficient, objective explanations.\n\n4. Right to Authorship\nStudents who make substantial contributions to research ideas and processes have the right to be listed as co-authors.\nStudents retain copyright as principal authors for their original research ideas and methodologies.\nAllegations regarding copyright violations must not negatively affect their academic or research rights.\n\n5. Right to Fair Labor Conditions\nStudents involved as teaching or research assistants must be provided clear information regarding working hours, duties, and wages, in compliance with national and university standards.\n\nGraduate Students' Responsibilities\n1. Comprehensive Responsibility for Research and Learning\nStudents must be aware of degree requirements and invest sufficient time and effort.\nThey must be diligent in coursework, assignments, and maintain ethical conduct in all academic activities.\nStudents must uphold honesty in research, scholarship, and financial use.\n\n2. Responsibility for Professionalism within the Academic Community\nStudents must treat all members of the university community with professional courtesy.\nThey must actively engage in scholarly activities, share research updates, and maintain responsible communication.\nStudents must acknowledge contributions from professors and peers appropriately.\n\n3. Responsibility to Recognize and Respect the Role of Professors\nStudents must recognize and respect professors' rights in teaching, curriculum planning, textbook selection, content organization, evaluation, and student guidance.\nStudents must not distort the academic process through inappropriate gestures such as gifts or hospitality.\n\n4. Responsibility to Respect Human Rights among Students\nStudents must prevent human rights violations among fellow students.\nThey must strive to eliminate exploitative, hierarchical, or abusive practices within departments and laboratories.\nCopyright © MULTIPLatform EXplorer On Nanobiotechnology Lab. All Rights Reserved\n접기"
+  }
+}

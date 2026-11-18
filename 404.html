@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting — MultiplexON Lab</title>
+  <meta name="robots" content="noindex">
+  <script>
+    (function () {
+      var p = (window.location.pathname || '/').replace(/\/+$/, '') || '/';
+      var q = window.location.search || '';
+      var map = {
+        '/home': '#home',
+        '/notice_research-intern': '#notice/research-intern',
+        '/notice_graduate-project': '#notice/graduate-project',
+        '/member_1': '#members',
+        '/member_1/current': '#members/current',
+        '/member_1/alumni': '#members/alumni',
+        '/member_1/professor': '#members/professor',
+        '/research': '#research',
+        '/research/optical-applications': '#research/optical-applications',
+        '/research/security-applications': '#research/security-applications',
+        '/research/bio-applications': '#research/bio-applications',
+        '/publications_1': '#publications',
+        '/publications_1/journals': '#publications/journals',
+        '/publications_1/conferences': '#publications/conferences',
+        '/publications_1/patents': '#publications/patents',
+        '/document_1/gallery': '#life/gallery',
+        '/document_1/rights': '#rights',
+        '/document_1/blog': '#life/blog',
+        '/document_1/faq': '#faq',
+        '/document_1/media': '#media',
+        '/news': '#news',
+        '/class': '#class',
+        '/contact': '#contact'
+      };
+      var lower = p.toLowerCase();
+      var target = map[lower];
+      if (!target) {
+        if (lower.indexOf('/research/') === 0) target = '#research/' + lower.slice(10).split('/')[0];
+        else if (lower.indexOf('/publications_1/') === 0) target = '#publications/' + lower.slice(16).split('/')[0];
+        else if (lower.indexOf('/member_1/') === 0) target = '#members/' + lower.slice(10).split('/')[0];
+        else if (lower.indexOf('/document_1/gallery/') === 0) target = '#life/gallery/' + lower.slice(20).split('/')[0];
+        else if (lower.indexOf('/document_1/') === 0) target = '#life';
+        else target = '#home';
+      }
+      window.location.replace('/' + q + target);
+    })();
+  </script>
+</head>
+<body>
+  <p>MultiplexON Lab 페이지로 이동 중입니다… <a href="https://www.multiplexon.com/">바로가기</a></p>
+</body>
+</html>
