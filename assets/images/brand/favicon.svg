@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="512" height="512" fill="none" role="img" aria-label="MultiplexON Monogram">
+  <rect x="3" y="3" width="90" height="90" rx="18" fill="#0F172A"/>
+  <path d="M 9.97 36.25 A 19.69 19.69 0 1 1 9.97 43.52 L 18.65 43.52 A 11.28 11.28 0 1 0 18.65 36.25 Z" fill="#FFFFFF"/>
+  <path d="M53.22 59.00V20.78H59.65L62.42 28.54V59.00ZM79.59 59.00 57.17 30.44 59.65 20.78 82.07 49.33ZM79.59 59.00 77.17 51.13V20.78H86.37V59.00Z" fill="#60A5FA"/>
+  <line x1="9.63" y1="70.50" x2="86.37" y2="70.50" stroke="#38BDF8" stroke-width="3.6"/>
+</svg>

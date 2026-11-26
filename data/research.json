@@ -1,0 +1,181 @@
+{
+  "intro": "MultiplexON (Multiplexed Optics & Nanosystems) Laboratory at the Department of Electronic Engineering, Kyung Hee University develops programmable optical, microfluidic, and smart-material platforms across computational imaging, physical unclonable security (PUF), rapid bio-diagnostics, and DNA digital storage.",
+  "overview_images": [
+    "assets/images/research/overview_1.gif",
+    "assets/images/research/overview_2.gif"
+  ],
+  "platforms": [
+    {
+      "id": "maskless-lithography",
+      "title": "Maskless lithography system",
+      "description": "Optofluidic maskless lithography technique dynamically synthesizes free-floating polymeric microstructures inside microfluidic channels by selectively polymerizing photocurable resin with high-speed two-dimensional spatial light modulators. Programmable optical projection precisely controls timing and location for microstructure fabrication in high throughput.",
+      "image": "assets/images/research/platform_maskless_lithography.gif"
+    },
+    {
+      "id": "photopatterned-microswimmer",
+      "title": "Photopatterned Microswimmer",
+      "description": "Highly programmable Marangoni microswimmers driven by the Marangoni effect self-propel on water surfaces without external power sources. Photopatterning introduces multiple functional parts, distinct material properties, and pre-programmed autonomous trajectories.",
+      "image": "assets/images/research/platform_microswimmer.gif"
+    },
+    {
+      "id": "programmable-wrinkling",
+      "title": "Programmable Wrinkling",
+      "description": "A self-organization approach constructing microstructures with periodic and ordered yet pseudo-random architecture like mazes. Transforming planar surfaces using controlled wrinkling enables ridge-guiding structures analogous to origami creases.",
+      "image": "assets/images/research/platform_wrinkling.png"
+    },
+    {
+      "id": "microsized-3d-hydrogel-printing",
+      "title": "Microsized 3D hydrogel printing",
+      "description": "A micro 3D printing platform combining PDMS microfluidic channels and a single-axis stepper motor to control multi-material layer thicknesses. Enables continuous fabrication of complex 3D hydrogel microstructures with cellular functionality.",
+      "image": "assets/images/research/platform_hydrogel_printing.jpg"
+    }
+  ],
+  "domains": [
+    {
+      "id": "optical-applications",
+      "title": "Optical Applications",
+      "summary": "Exploring ultra-thin lensless imaging cameras and high-capacity optical encoding structures using programmable wavefront shaping and micro-optics.",
+      "image": "assets/images/research/domain_optical.png",
+      "subtopics": [
+        {
+          "id": "lensless-imaging",
+          "title": "Lensless imaging",
+          "summary": "Lensless imaging offers a revolutionary solution to the limitations of traditional lens-based cameras, such as high cost and physical size constraints. By replacing lenses with thin phase masks, this technology enables ultra-compact, low-cost camera modules ideal for modern imaging demands. Unlike conventional lenses, lensless systems use a phase mask to modulate light, creating a point spread function (PSF) that encodes the scene's information. Computational algorithms then reconstruct the image from this encoded data. Recent advancements, including high-throughput fabrication techniques like gray-scale lithography, have made it possible to design custom PSFs tailored for specific imaging tasks. This approach not only reduces production costs but also enhances the scalability of lensless cameras for applications such as optical fingerprinting and high-speed imaging. By combining precise PSF design and efficient mask fabrication, lensless imaging systems achieve exceptional flexibility and performance, making them a promising technology for future imaging applications across diverse fields.",
+          "paragraphs": [
+            "Lensless imaging offers a revolutionary solution to the limitations of traditional lens-based cameras, such as high cost and physical size constraints. By replacing lenses with thin phase masks, this technology enables ultra-compact, low-cost camera modules ideal for modern imaging demands. Unlike conventional lenses, lensless systems use a phase mask to modulate light, creating a point spread function (PSF) that encodes the scene's information. Computational algorithms then reconstruct the image from this encoded data. Recent advancements, including high-throughput fabrication techniques like gray-scale lithography, have made it possible to design custom PSFs tailored for specific imaging tasks. This approach not only reduces production costs but also enhances the scalability of lensless cameras for applications such as optical fingerprinting and high-speed imaging. By combining precise PSF design and efficient mask fabrication, lensless imaging systems achieve exceptional flexibility and performance, making them a promising technology for future imaging applications across diverse fields.",
+            "Our ongoing research integrates single-shot edge-tuned grayscale photolithography with physics-informed deep reconstruction networks to co-optimize custom phase masks and end-to-end optical decoding.",
+            "Lee, K. C., Bae, J., Baek, N., Jung, J., Park, W., & Lee, S. A. (2023). Design and single-shot fabrication of lensless cameras with arbitrary point spread functions. Optica, 10(1), 72-80."
+          ],
+          "images": [
+            "assets/images/research/subtopic_lensless_imaging_1.png"
+          ],
+          "links": []
+        },
+        {
+          "id": "optical-encoding",
+          "title": "Optical encoding",
+          "summary": "Conventional data encoding technologies often face limitations in scalability, cost, and complexity, restricting their adaptability in advanced applications. To address these challenges, we developed a novel optical encoding method utilizing structured microtags with fluorescent properties. These microtags integrate precise structural designs and grayscale fluorescence encoding, enabling them to store and retrieve data efficiently. Our approach leverages maskless lithography to fabricate free-floating 3D microstructures with customized morphology and embedded fluorescent patterns. These microtags can be read under specific illumination, ensuring secure and accurate decoding. The grayscale encoding provides higher information density and flexibility by modulating fluorescence intensity across multiple levels. Furthermore, the method is highly scalable and cost-effective, capable of producing large volumes of encoded tags for diverse applications. This innovative technology enables robust data encoding and authentication, applicable in anti-counterfeiting, biomedical research, and secure data management. By combining optical properties with advanced fabrication techniques, it opens new possibilities for efficient and scalable data encoding systems.",
+          "paragraphs": [
+            "Conventional data encoding technologies often face limitations in scalability, cost, and complexity, restricting their adaptability in advanced applications. To address these challenges, we developed a novel optical encoding method utilizing structured microtags with fluorescent properties. These microtags integrate precise structural designs and grayscale fluorescence encoding, enabling them to store and retrieve data efficiently. Our approach leverages maskless lithography to fabricate free-floating 3D microstructures with customized morphology and embedded fluorescent patterns. These microtags can be read under specific illumination, ensuring secure and accurate decoding. The grayscale encoding provides higher information density and flexibility by modulating fluorescence intensity across multiple levels. Furthermore, the method is highly scalable and cost-effective, capable of producing large volumes of encoded tags for diverse applications. This innovative technology enables robust data encoding and authentication, applicable in anti-counterfeiting, biomedical research, and secure data management. By combining optical properties with advanced fabrication techniques, it opens new possibilities for efficient and scalable data encoding systems.",
+            "Yoon, J., & Park, W. (2022). Omni-and unidirectional data unit photolithography for high similarity and multiple angular segment display-based encoded microparticle fabrication. Optics Letters, 47(11), 2682-2685.",
+            "Kim, H., Choi, Y., Lee, A. C., Bae, J., Yoon, J., Kim, K., ... & Park, W. (2022). Ampoule‐Like Microvolume Containers with Transparent Code for Easy‐to‐Use and Space‐Saving Storage of Small‐Volume Biospecimens. Advanced Materials Technologies, 7(7), 2101266.",
+            "Kim, H., Kwon, G., Park, C., You, J., & Park, W. (2022). Anti-counterfeiting tags using flexible substrate with gradient micropatterning of silver nanowires. Micromachines, 13(2), 168.",
+            "Song, S. H., Kim, K., Choi, S. E., Han, S., Lee, H. S., Kwon, S., & Park, W. (2014). Fine-tuned grayscale optofluidic maskless lithography for three-dimensional freeform shape microstructure fabrication. Optics letters, 39(17), 5162-5165."
+          ],
+          "images": [
+            "assets/images/research/subtopic_optical_encoding_1.png",
+            "assets/images/research/subtopic_optical_encoding_2.png"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "security-applications",
+      "title": "Security Applications",
+      "summary": "Pioneering physical unclonable functions (PUFs) and multi-level anti-counterfeiting microtaggants with stochastic structural entropy.",
+      "image": "assets/images/research/domain_security.png",
+      "subtopics": [
+        {
+          "id": "anti-counterfeiting",
+          "title": "Anti-counterfeiting",
+          "summary": "Traditional anti-counterfeiting technologies, such as deterministic coding mechanisms, face challenges like predictability and susceptibility to replication. To address these limitations, we use a new tag technologies using biomimetic microfingerprints and QR-coded microparticles. These tags leverage non-deterministic encoding methods, making each tag unique and resistant to cloning. Biomimetic microfingerprints, inspired by human fingerprints, create randomly wrinkled silica-coated polymer particles, offering high individuality and configurability by adjusting wrinkle patterns. Similarly, QR-coded microparticles integrate visible and invisible data layers, allowing dual-functionality for enhanced security. Fluorescent properties enable secure authentication, while mass production scalability ensures practical application. These innovations significantly improve anti-counterfeiting measures by combining high security, adaptability, and cost-effective production. With applications ranging from luxury goods to pharmaceuticals, these tags provide a versatile platform for authentication and traceability, ensuring better protection against counterfeit threats and paving the way for future advancements in secure tagging technologies.",
+          "paragraphs": [
+            "Traditional anti-counterfeiting technologies, such as deterministic coding mechanisms, face challenges like predictability and susceptibility to replication. To address these limitations, we use a new tag technologies using biomimetic microfingerprints and QR-coded microparticles. These tags leverage non-deterministic encoding methods, making each tag unique and resistant to cloning. Biomimetic microfingerprints, inspired by human fingerprints, create randomly wrinkled silica-coated polymer particles, offering high individuality and configurability by adjusting wrinkle patterns. Similarly, QR-coded microparticles integrate visible and invisible data layers, allowing dual-functionality for enhanced security. Fluorescent properties enable secure authentication, while mass production scalability ensures practical application. These innovations significantly improve anti-counterfeiting measures by combining high security, adaptability, and cost-effective production. With applications ranging from luxury goods to pharmaceuticals, these tags provide a versatile platform for authentication and traceability, ensuring better protection against counterfeit threats and paving the way for future advancements in secure tagging technologies.",
+            "Jeong, M., Park, C., Kim, K., Bae, J., & Park, W. (2024). Visible Frame QR-Coded Microparticles Integrated with an Invisible Layer for Unlocking Hidden Data via Fluorescence. ACS Applied Polymer Materials, 6(13), 7751-7758.",
+            "Bae, H. J., Bae, S., Park, C., Han, S., Kim, J., Kim, L. N., ... & Kwon, S. (2015). Biomimetic microfingerprints for anti-counterfeiting strategies. Advanced Materials (Deerfield Beach, Fla.), 27(12), 2083-2089."
+          ],
+          "images": [
+            "assets/images/research/subtopic_anti_counterfeiting_1.jpg",
+            "assets/images/research/subtopic_anti_counterfeiting_2.png"
+          ],
+          "links": []
+        },
+        {
+          "id": "puf",
+          "title": "Physical Unclonable Functions",
+          "summary": "Counterfeiting has become a critical challenge in modern industries, causing economic losses and threatening security systems. Traditional PUF technologies often face limitations such as complex fabrication methods and vulnerabilities to replication. These challenges hinder their wide adoption in real-world applications. To address these concerns, we are developing innovative solutions in physically unclonable functions (PUFs). To overcome these obstacles, we have introduced two novel PUF technologies. The first utilizes a laser ablation technique to create random crater patterns on silicon-based materials. This method is rapid, cost-effective, and scalable, producing high-randomness tags ideal for authentication and encryption. The second innovation employs time-varying phosphorescent patterns based on MoS2 atomic seeds and organic phosphors. These 4D PUFs generate dynamic, unpredictable responses over time, offering enhanced security and countless unique challenge-response pairs. Our technologies provide practical solutions to existing limitations in PUF systems. They promise widespread applicability in anti-counterfeiting, IoT device authentication, and secure data encryption, paving the way for next-generation security technologies.",
+          "paragraphs": [
+            "Counterfeiting has become a critical challenge in modern industries, causing economic losses and threatening security systems. Traditional PUF technologies often face limitations such as complex fabrication methods and vulnerabilities to replication. These challenges hinder their wide adoption in real-world applications. To address these concerns, we are developing innovative solutions in physically unclonable functions (PUFs). To overcome these obstacles, we have introduced two novel PUF technologies. The first utilizes a laser ablation technique to create random crater patterns on silicon-based materials. This method is rapid, cost-effective, and scalable, producing high-randomness tags ideal for authentication and encryption. The second innovation employs time-varying phosphorescent patterns based on MoS2 atomic seeds and organic phosphors. These 4D PUFs generate dynamic, unpredictable responses over time, offering enhanced security and countless unique challenge-response pairs. Our technologies provide practical solutions to existing limitations in PUF systems. They promise widespread applicability in anti-counterfeiting, IoT device authentication, and secure data encryption, paving the way for next-generation security technologies.",
+            "Kim, K., Oh, S., Suh, B. L., Bae, J., Namkoong, M., Kim, Y., ... & Cho, H. (2025). In Situ Programmable, Active, and Interactive Crystallization by Localized Polymerization. Advanced Materials, 37(6), 2404092.",
+            "Park, C., Lee, M., Kim, H., Lee, D., Choi, J., Choi, Y., & Park, W. (2024). Iris‐Inspired Microparticles with a Two‐Factor Authentication Security Feature for Wet‐Phase Enhanced Anti‐Counterfeiting Strategies. Advanced Materials Technologies, 9(23), 2400566.",
+            "Bae, J., Yoon, J., Oh, S., Kim, K., Kim, H., Hur, K., ... & Park, W. (2024). Self-assembly by anti-repellent structures for programming particles with momentum. Nature Communications, 15(1), 10794.",
+            "Im, H., Yoon, J., So, B., Choi, J., Park, D. H., Kim, S., & Park, W. (2024). Four-Dimensional Physical Unclonable Functions and Cryptographic Applications Based on Time-Varying Chaotic Phosphorescent Patterns. ACS nano, 18(18), 11703-11716."
+          ],
+          "images": [
+            "assets/images/research/subtopic_puf_1.jpg",
+            "assets/images/research/subtopic_puf_2.jpg"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "bio-applications",
+      "title": "Bio Applications",
+      "summary": "Developing ultra-dense DNA-based digital storage discs, automated diagnostic biomarker platforms, and rapid single-cell antimicrobial susceptibility testing (AST).",
+      "image": "assets/images/research/domain_bio.png",
+      "subtopics": [
+        {
+          "id": "dna-storage",
+          "title": "DNA storage",
+          "summary": "DNA-based data storage stands as a groundbreaking response to the escalating demand for information preservation, offering unparalleled data density and longevity. However, the high costs of current DNA synthesis and sequencing hinder its widespread adoption. Our research focuses on enhancing the feasibility of DNA as a storage medium through innovative approaches. One key solution is the integration of degenerate DNA bases, expanding the encoding alphabet and significantly reducing the quantity of DNA required for storage. Additionally, DNA micro-disks present a revolutionary advancement, enabling Write-Once-Read-Many (WORM) functionality. These disks preserve data integrity during repeated access and allow for efficient random data retrieval by compartmentalizing stored information. Together, these technologies address the primary barriers of cost and practicality, paving the way for DNA storage to become a scalable and sustainable solution for future data needs. These advancements signify a major leap toward the realization of DNA's full potential in the information age.",
+          "paragraphs": [
+            "DNA-based data storage stands as a groundbreaking response to the escalating demand for information preservation, offering unparalleled data density and longevity. However, the high costs of current DNA synthesis and sequencing hinder its widespread adoption. Our research focuses on enhancing the feasibility of DNA as a storage medium through innovative approaches. One key solution is the integration of degenerate DNA bases, expanding the encoding alphabet and significantly reducing the quantity of DNA required for storage. Additionally, DNA micro-disks present a revolutionary advancement, enabling Write-Once-Read-Many (WORM) functionality. These disks preserve data integrity during repeated access and allow for efficient random data retrieval by compartmentalizing stored information. Together, these technologies address the primary barriers of cost and practicality, paving the way for DNA storage to become a scalable and sustainable solution for future data needs. These advancements signify a major leap toward the realization of DNA's full potential in the information age.",
+            "Choi, Y., Bae, H. J., Lee, A. C., Choi, H., Lee, D., Ryu, T., ... & Kwon, S. (2020). DNA micro‐disks for the management of DNA‐based data storage with index and write‐once–read‐many (WORM) memory features. Advanced Materials, 32(37), 2001249.",
+            "Choi, Y., Ryu, T., Lee, A. C., Choi, H., Lee, H., Park, J., ... & Kwon, S. (2019). High information capacity DNA-based data storage with augmented encoding characters using degenerate bases. Scientific reports, 9(1), 6582."
+          ],
+          "images": [
+            "assets/images/research/subtopic_dna_storage_1.png",
+            "assets/images/research/subtopic_dna_storage_2.png"
+          ],
+          "video": {
+            "src": "assets/videos/dna_storage_platform.mp4",
+            "poster": "assets/images/research/dna_storage_video_poster.jpg",
+            "duration": "0:39",
+            "title": {
+              "ko": "차세대 DNA 저장장치 플랫폼 연구단 (2026 한국연구재단 6년 융합선도과제)",
+              "en": "Next-Generation DNA Digital Storage Platform (2026 NRF 6-Year Pioneering Convergence Program)"
+            },
+            "caption": {
+              "ko": "🎬 공식 연구 소개 영상 (0:39) — 0과 1의 디지털 데이터를 초고밀도 DNA 분자에 기록·보존하는 차세대 스토리지 플랫폼",
+              "en": "🎬 Official 39s Research Showcase (Prof. Wook Park, Korean narration) — encoding digital 0s and 1s into ultra-dense DNA molecules"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": "diagnostic-marker",
+          "title": "Diagnostic Marker",
+          "summary": "Innovative biomarker technologies address limitations in traditional systems, such as low sensitivity, poor reproducibility, and complex protocols. Rod-shaped magnetic particles (RSMPs) and encoded viral micropatches have emerged as transformative solutions. RSMPs enable automation in immunoassays, offering precision and eliminating human errors. These systems facilitate multiplex diagnostics with low limits of detection (LOD), rivaling molecular techniques like PCR, and allow rapid testing for diseases such as Influenza and COVID-19. Encoded viral micropatches enhance gene delivery and multiplexed cellular assays, reducing cross-contamination through localized delivery and shape-coded designs. Their compatibility with high-content imaging systems advances drug discovery and cellular research. Together, these technologies improve the efficiency and scalability of diagnostics while supporting diverse applications in clinical and research settings. By overcoming the drawbacks of conventional biomarkers, these advancements enable rapid, precise, and cost-effective solutions, driving progress in the fields of diagnostics and biomedicine.",
+          "paragraphs": [
+            "Innovative biomarker technologies address limitations in traditional systems, such as low sensitivity, poor reproducibility, and complex protocols. Rod-shaped magnetic particles (RSMPs) and encoded viral micropatches have emerged as transformative solutions. RSMPs enable automation in immunoassays, offering precision and eliminating human errors. These systems facilitate multiplex diagnostics with low limits of detection (LOD), rivaling molecular techniques like PCR, and allow rapid testing for diseases such as Influenza and COVID-19. Encoded viral micropatches enhance gene delivery and multiplexed cellular assays, reducing cross-contamination through localized delivery and shape-coded designs. Their compatibility with high-content imaging systems advances drug discovery and cellular research. Together, these technologies improve the efficiency and scalability of diagnostics while supporting diverse applications in clinical and research settings. By overcoming the drawbacks of conventional biomarkers, these advancements enable rapid, precise, and cost-effective solutions, driving progress in the fields of diagnostics and biomedicine.",
+            "Yoon, J., Kim, J., Lim, S., Choi, H., Bae, J., Kim, K., ... & Jung, Y. G. (2024). All‐in‐one platform: Versatile, Easy, and User‐friendly System (VEUS) based on automated and expert‐independent antibody immobilization and immunoassay by utilizing customized movement of magnetic particles. Biotechnology Journal, 19(6), 2400074.",
+            "Song, S. H., Lim, S., Choi, H. Y., Kim, J. H., Jung, Y. G., & Park, W. (2020). New precision engineering methods for low‐cost mass production of functional giant magnetic glass‐coated particles as immune biomarkers. Advanced Engineering Materials, 22(6), 2000060.",
+            "Han, S., Bae, H. J., Kim, S. D., Park, W., & Kwon, S. (2017). An encoded viral micropatch for multiplex cell-based assays through localized gene delivery. Lab on a Chip, 17(14), 2435-2442."
+          ],
+          "images": [
+            "assets/images/research/subtopic_diagnostic_marker_1.png",
+            "assets/images/research/subtopic_diagnostic_marker_2.png"
+          ],
+          "links": []
+        },
+        {
+          "id": "ast",
+          "title": "Antimicrobial Susceptibility Test",
+          "summary": "Conventional AST methods, such as microdilution and disk diffusion, are labor-intensive and require extensive time to deliver results, often delaying critical treatment decisions. To address these limitations, innovative AST solutions utilizing markers and well-based structures have been developed. These technologies enable rapid, precise, and cost-effective testing of antibiotic susceptibility. Our μWELLplug system leverages a hydrogel-based microwell structure within a standard 96-well plate. It isolates bacterial cells and facilitates morphological analysis under antibiotics, significantly reducing testing time to 3-4 hours compared to the conventional 18-24 hours. This stress-free environment ensures high accuracy and compatibility with various cell types. Similarly, a gradient nib marker pen device introduces a concentration gradient of antibiotics directly onto bacterial cultures, eliminating repetitive dilution steps. This device generates precise inhibition zones, visualized and quantified using grayscale imaging, streamlining AST on a laboratory scale. These advancements improve efficiency and accessibility in clinical and research environments, supporting timely and accurate antibiotic stewardship.",
+          "paragraphs": [
+            "Conventional AST methods, such as microdilution and disk diffusion, are labor-intensive and require extensive time to deliver results, often delaying critical treatment decisions. To address these limitations, innovative AST solutions utilizing markers and well-based structures have been developed. These technologies enable rapid, precise, and cost-effective testing of antibiotic susceptibility. Our μWELLplug system leverages a hydrogel-based microwell structure within a standard 96-well plate. It isolates bacterial cells and facilitates morphological analysis under antibiotics, significantly reducing testing time to 3-4 hours compared to the conventional 18-24 hours. This stress-free environment ensures high accuracy and compatibility with various cell types. Similarly, a gradient nib marker pen device introduces a concentration gradient of antibiotics directly onto bacterial cultures, eliminating repetitive dilution steps. This device generates precise inhibition zones, visualized and quantified using grayscale imaging, streamlining AST on a laboratory scale. These advancements improve efficiency and accessibility in clinical and research environments, supporting timely and accurate antibiotic stewardship.",
+            "Yoon, J., Kim, Y., Suh, J. W., Jin, Y. Y., Jung, Y. G., & Park, W. (2020). Bacterial isolation microwell-plug (μWELLplug) for rapid antibiotic susceptibility testing using morphology analysis. ACS Applied Bio Materials, 3(8), 4798-4808.",
+            "Jung, Y. G., Yun, Y. R., Song, S. H., & Park, W. (2018). Marker Pen Device with Concentration Gradient Nib for Antibiotic Susceptibility Testing. Journal of Korean Medical Science, 33(33)."
+          ],
+          "images": [
+            "assets/images/research/subtopic_ast_1.jpg",
+            "assets/images/research/subtopic_ast_2.jpg"
+          ],
+          "links": []
+        }
+      ]
+    }
+  ]
+}

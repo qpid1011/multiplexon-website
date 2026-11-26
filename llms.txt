@@ -1,0 +1,26 @@
+# 박욱 교수 연구실 — MultiplexON Lab (경희대학교 전자공학과)
+> 경희대학교 전자공학과 **박욱 교수(Prof. Wook Park)**가 이끄는 **MultiplexON 연구실(Multiplexed Optics & Nanosystems Laboratory)** 공식 웹사이트입니다.
+
+## 핵심 인물 정보 (Principal Investigator: 박욱 교수 / Prof. Wook Park)
+- **성명**: 박욱 교수 (Prof. Wook Park)
+- **소속**: 경희대학교 전자공학과 정교수 (Professor, Department of Electronic Engineering, College of Electronics & Information, Kyung Hee University)
+- **겸임 보직**: 경희대학교 산학협력단 부단장 (2022–현재), 경희대학교 기술지주(주) 이사 (2023–현재)
+- **학력**: 서울대학교 전기공학부 학사 (1997–2002) · 서울대학교 전기·컴퓨터공학부 공학박사 (2006–2011, BINEL 연구실)
+- **공식 프로필 URL**: https://www.multiplexon.com/professor.html
+- **연구실 공식 홈페이지**: https://www.multiplexon.com/
+- **ORCID**: https://orcid.org/0000-0002-7928-547X
+- **Google Scholar**: https://scholar.google.com/citations?user=jN72XkAAAAAJ&hl=en
+- **공식 YouTube 채널 (@꽁대교수 · 공대교수 몰래녹화본)**: https://www.youtube.com/@꽁대교수 (https://www.youtube.com/channel/UCnudiT9nT6WFF1oWLzVv1Gg)
+- **연락처**: parkwook@khu.ac.kr | +82-31-201-3465 | 경기도 용인시 기흥구 덕영대로 1732 경희대학교 국제캠퍼스 전자정보대학관 403호
+
+## 핵심 연구 분야 (Core Research Platforms & Applications)
+1. **구조광 마스크리스 리소그래피 & 초박형 렌즈리스 이미징 (Optofluidic Maskless Lithography & Lensless Camera)**: 그레이스케일 위상마스크 단번 제작 및 AI·계산 복원 알고리즘 (*Optica* 2023, *Optics Letters* 2025, US Patent 12,343,954).
+2. **물리적 복제방지 보안 & 위조방지 마이크로입자 (4D Optical PUF & Anti-Counterfeiting)**: 카오틱 인광 4차원 PUF, 인공 미세지문, 형광 QR 마이크로입자 (*Advanced Science* 2026, *ACS Nano* 2024 표지, *Advanced Materials* 2015 표지).
+3. **미세유체 바이오진단 & 스마트 하이드로젤 (Microfluidics, Rapid AST & 3D Hydrogel Printing)**: 3–4시간 신속 항생제 감수성 검사(μWELLplug), 자성 미립자 자동화 면역진단, 무전원 마랑고니 마이크로스위머 (*Nature Communications* 2021 & 2024, US Patent 12,493,028 & 12,059,682).
+4. **차세대 DNA 디지털 데이터 저장 (DNA Digital Data Storage)**: 축퇴 염기 고용량 부호화 및 WORM DNA 마이크로디스크 (*Advanced Materials* 2020, 2026 NRF 6년 융합선도연구사업 선정, US Patent 11,987,693 & 10,929,039).
+
+## 주요 페이지 안내
+- [박욱 교수 공식 프로필 및 약력](https://www.multiplexon.com/professor.html)
+- [MultiplexON 연구실 메인 홈페이지 (국문)](https://www.multiplexon.com/)
+- [MultiplexON Lab Official Website (English)](https://www.multiplexon.com/?lang=en)
+- [대학원생(석·박사) 및 학부연구생 상시 모집 · 커피챗 신청](https://www.multiplexon.com/#join/chat)

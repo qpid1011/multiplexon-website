@@ -1,0 +1,705 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "date": "2026.11",
+      "year": 2026,
+      "text": "(2026.11) Our collaborative paper on Multiband Optical Physical Unclonable Functions published in Advanced Science .",
+      "links": [
+        {
+          "text": "collaborative paper",
+          "url": "https://doi.org/10.1002/advs.78505"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 2,
+      "date": "2026.10",
+      "year": 2026,
+      "text": "(2026.10) Siyoung joins MultiplexON as an undergraduate student. Welcome!",
+      "links": [],
+      "is_new": true
+    },
+    {
+      "id": 3,
+      "date": "2026.09",
+      "year": 2026,
+      "text": "(2026.09) Chae ryeong joins MultiplexON as an undergraduate student. Welcome!",
+      "links": [],
+      "is_new": true
+    },
+    {
+      "id": 4,
+      "date": "2026.07",
+      "year": 2026,
+      "text": "(2026.07) We won the Pioneering Convergence Science and Technology Development Program from NRF. The grant will support our research on DNA storage for up to 6 years.",
+      "links": [],
+      "is_new": true
+    },
+    {
+      "id": 5,
+      "date": "2026.06",
+      "year": 2026,
+      "text": "(2026.06) Dr. Bae 's paper on Harnessing Stochastic Collisions ... is published in ACS Materials Letters .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1021/acsmaterialslett.6c00469"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6,
+      "date": "2026.04",
+      "year": 2026,
+      "text": "(2026.04) Yoonseol joins MultiplexON as a research intern . Welcome!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 7,
+      "date": "2026.03",
+      "year": 2026,
+      "text": "(2026.03) We got the Happy & Smart Lab Certificate from Kyung Hee University !",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 8,
+      "date": "2026.01",
+      "year": 2026,
+      "text": "(2026.01) Youngmin joins MultiplexON as an undergraduate student. Welcome!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 9,
+      "date": "2026.01",
+      "year": 2026,
+      "text": "(2026.01) Jihyun joins MultiplexON as an undergraduate student for the winter vacation. Welcome aboard!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 10,
+      "date": "2026.01",
+      "year": 2026,
+      "text": "(2026.01) Happy New Year!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 11,
+      "date": "2025.11",
+      "year": 2025,
+      "text": "(2025.11) Dr. Bae gave poster presentation at the μTAS 2025 Conference in Adelaide, Australia.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 12,
+      "date": "2025.10",
+      "year": 2025,
+      "text": "(2025.10) Jungbin won the Gold prize in SNU FoodTech Commercialization Program!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 13,
+      "date": "2025.10",
+      "year": 2025,
+      "text": "(2025.10) Dr. Yoon's paper on Advanced three-dimensional single-shot photolithography ... is accepted in Optics letters .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1364/OL.576230"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 14,
+      "date": "2025.09",
+      "year": 2025,
+      "text": "(2025.09) Dr. Yoon gave poster presentation at the Nano today Conference in Singrapore.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 15,
+      "date": "2025.07",
+      "year": 2025,
+      "text": "(2025.07) Collaborative review paper \"on Multiplex Optical Unclonable Functions: published in ACS Nano .\"",
+      "links": [
+        {
+          "text": "review paper",
+          "url": "https://pubs.acs.org/doi/10.1021/acsnano.5c01917"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 16,
+      "date": "2025.07",
+      "year": 2025,
+      "text": "(2025.07) Chaeyoung joins MultiplexON as an undergraduate student . Welcome!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 17,
+      "date": "2025.07",
+      "year": 2025,
+      "text": "(2025.07) Dr. Yoon's paper on Moisture-thermo dual-responsive hydrogel structure... is accepted in Sensors and Actuators Reports .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1016/j.snr.2025.100356"
+        },
+        {
+          "text": "Sensors and Actuators Reports",
+          "url": "https://www.sciencedirect.com/journal/sensors-and-actuators-reports"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 18,
+      "date": "2025.06",
+      "year": 2025,
+      "text": "(2025.06) We are selected for Kyung Hee University's Happy & Smart Lab Certificate 1.0 program!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 19,
+      "date": "2025.05",
+      "year": 2025,
+      "text": "(2025.05) MultiplexON presented 4 posters at the Korean BioChip Society Spring 2025 Conference in Yeosu, Korea.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 20,
+      "date": "2025.03",
+      "year": 2025,
+      "text": "(2025.03) Jungbin has joined MultiplexON as an undergraduate student . Welcome aboard!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 21,
+      "date": "2025.02",
+      "year": 2025,
+      "text": "(2025.02) MultiplexON presented 4 posters at the ICCCP 2025 Conference in Okinawa, Japan.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 22,
+      "date": "2025.02",
+      "year": 2025,
+      "text": "(2025.02) Our L ab introduction video has been uploaded to the Kyung Hee University Industry-University-Research Cooperation Foundation YouTube channel!",
+      "links": [
+        {
+          "text": "ab introduction video",
+          "url": "https://youtu.be/AlTlMce7oL8?si=2sElKWob71zbHows"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 23,
+      "date": "2025.02",
+      "year": 2025,
+      "text": "(2025.02) Prof. Park won the Best paper Award at KICS winter c onference . Congratulations!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 24,
+      "date": "2025.01",
+      "year": 2025,
+      "text": "(2025.01) Dr. Park, a graduate of our lab, has been appointed as an Assistant Professor at Jeonbuk National University. Congratulations!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 25,
+      "date": "2024.12",
+      "year": 2024,
+      "text": "(2024.12) Paper on In Situ Programmable, Active, and Interactive Crystallization collaborate with Dr. Kim is published in Advanced Materials .",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://doi.org/10.1002/adma.202404092"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 26,
+      "date": "2024.12",
+      "year": 2024,
+      "text": "(2024.12) Dr. Bae and Dr. Yoon's pape r on Self-Assembly by Anti-Repellent Structures for Programming Particles with Momentum is published in Nature Communications .",
+      "links": [
+        {
+          "text": "pape r",
+          "url": "https://doi.org/10.1038/S41467-024-54976-7"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 27,
+      "date": "2024.11",
+      "year": 2024,
+      "text": "(2024.11) MultiplexON presented 2 posters at the μTAS 2024 Conference in Montréal, Canada.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 28,
+      "date": "2024.09",
+      "year": 2024,
+      "text": "(2024.09) Lam Cam Tu joins MultiplexON as a M.S. student . Welcome aboard!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 29,
+      "date": "2024.09",
+      "year": 2024,
+      "text": "(2024.09) MultiplexON initiate Startup Growth Technology Development Program supported by MSS with Bhome Gen.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 30,
+      "date": "2024.09",
+      "year": 2024,
+      "text": "(2024.09) Dr. Bae and Dr.Yoon won the Supporting the Next Generation of Researchers - Post-doc Growth Joint Research from NRF. The grant will support their research for the next 3 years.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 31,
+      "date": "2024.08",
+      "year": 2024,
+      "text": "(2024.08) Dr. Yoon's paper on random laser ablated tags for anticounterfeiting is published in Nature Communications .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://www.nature.com/articles/s41467-024-51756-1"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 32,
+      "date": "2024.07",
+      "year": 2024,
+      "text": "(2024.07) Paper on Iris-Inspired Microparticles for anticounterfeiting collaborate with Dr. Park is published in Advanced Materials Technologies .",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202400566"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 33,
+      "date": "2024.06",
+      "year": 2024,
+      "text": "(2024.06) Research intern Mingyeom , Dr. Bae, and collaborate with Dr. Park's paper on Visible Frame QR-Coded Microparticle for anticounterfeiting is published in ACS Applied Polymer Materials .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://pubs.acs.org/doi/full/10.1021/acsapm.4c01177"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 34,
+      "date": "2024.06",
+      "year": 2024,
+      "text": "(2024.06) Dr. Yoon's paper on All-in-one platform for antibody immobilization and immunoassay is published in Biotechnology Journal .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/biot.202400074"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 35,
+      "date": "2024.05",
+      "year": 2024,
+      "text": "(2024.05) MultiplexON presented 4 posters at Korean BioChip Society Spring 2024 Conference in Gyeongju, Korea.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 36,
+      "date": "2024.05",
+      "year": 2024,
+      "text": "(2024.05) Dr. Yoon's paper is featured as a cover article for the May, Volume 18, Issue 18 of ACS Nano !",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://pubs.acs.org/doi/full/10.1021/acsnano.3c12432"
+        },
+        {
+          "text": "cover article",
+          "url": "https://pubs.acs.org/cms/10.1021/ancac3.2024.18.issue-18/asset/ancac3.2024.18.issue-18.xlargecover-3.jpg"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 37,
+      "date": "2024.04",
+      "year": 2024,
+      "text": "(2024.04) Dr. Yoon's paper on Time-Varying Chaotic Phosphorescent Patterns for Four-Dimensional Physical Unclonable Functions is published ACS Nano .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://pubs.acs.org/doi/full/10.1021/acsnano.3c12432"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 38,
+      "date": "2024.03",
+      "year": 2024,
+      "text": "(2024.03) Dr. Bae re-joins MultiplexON as a postdoctora l Fellow. Welcome aboard!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 39,
+      "date": "2024.02",
+      "year": 2024,
+      "text": "(2024.02) MultiplexON presented 2 oral presentation at KICS Winter Conference 2024 in Pyeongchang , Korea.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 40,
+      "date": "2024.02",
+      "year": 2024,
+      "text": "(2024.02) MultiplexON presented 2 posters at Winter annual conference of the Korean Vacuum Society in Pyeongchang , Korea.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 41,
+      "date": "2024.02",
+      "year": 2024,
+      "text": "(2024.02) Prof. Park has been promoted from Associate Professor to Professor. Congratulations!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 42,
+      "date": "2023.11",
+      "year": 2023,
+      "text": "(2023.11) Multiplexon presented 1 posters at the μTAS 202 3 C onference in Katowice, Poland .",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 43,
+      "date": "2023.08",
+      "year": 2023,
+      "text": "(2023.08) Dr. Kim has been appointed as the CTO at Bhome Gen after completing her doctoral studies. Congratulations!",
+      "links": [
+        {
+          "text": "Bhome Gen",
+          "url": "https://bhomegen.com/"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 44,
+      "date": "2023.01",
+      "year": 2023,
+      "text": "(2023.01) Junghyun's paper is featured as a cover article for the January issue of Optica !",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1364/OPTICA.466072"
+        },
+        {
+          "text": "cover",
+          "url": "https://opg.optica.org/optica/journal/optica/toc/cover-optica-10-1.pdf"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 45,
+      "date": "2023.01",
+      "year": 2023,
+      "text": "(2023.01) Yeonju joins MultiplexON as a Research Staff . Welcome aboard!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 46,
+      "date": "2022.12",
+      "year": 2022,
+      "text": "(2022.12) Multiplexon presented 1 oral presentation at the 2022 MRS Fall Meeting C onference in Boston, USA.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 47,
+      "date": "2022.11",
+      "year": 2022,
+      "text": "(2022.11) Junghyun 's paper collaborate with OISL at Yonsei University on the design and fabrication of phase masks is accepted for publication in Optica .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1364/OPTICA.466072"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 48,
+      "date": "2022.11",
+      "year": 2022,
+      "text": "(2022.11) Junghyun wins an excellence prize at the 14th Electronics Times Paper Awards (in collaboration with OISL@YU). Congratulations!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 49,
+      "date": "2022.11",
+      "year": 2022,
+      "text": "(2022.11) Prof. Park received the Bronze Prize, Industry-Academia Cooperation Contribution Award in the The Korean BioChip Society. Congratulations!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 50,
+      "date": "2022.07",
+      "year": 2022,
+      "text": "(2022.07) Research interns Seokjun and Euigwan received the Grand Prize in the 2022 Spring Semester Capstone Design Competition in KHU . Congratulations!",
+      "links": [
+        {
+          "text": "Grand Prize",
+          "url": "https://wzine.kr/khu_capstone/award/index_202201.html"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 51,
+      "date": "2022.05",
+      "year": 2022,
+      "text": "(2022.05) Research interns Seokjun and Uigwan won the Best Poster Presentation Award, while Hyeli and Yeomin received the Outstanding Poster Presentation Award. Congratulations! MultiplexON presented five posters at the Korean BioChip Society Spring 2023 Conference in Busan, Korea.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 52,
+      "date": "2022.05",
+      "year": 2022,
+      "text": "(2022.05) Jinsik 's paper on Omni- and unidirectional data unit is published Optics Letters .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1364/OL.456581"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 53,
+      "date": "2022.02",
+      "year": 2022,
+      "text": "(2022.02) Junghyun wins a silver prize at the Samsung Humantech Paper Awards (in collaboration with OISL@YU) . Congratulations!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 54,
+      "date": "2022.02",
+      "year": 2022,
+      "text": "(2022.02) MultiplexON presented 1 oral presentation at the KICS winter conference 2022 in Pyeongchang , Korea .",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 55,
+      "date": "2022.02",
+      "year": 2022,
+      "text": "(2022.02) MultiplexON presented 2 posters online at the KSLOE conference 2022 .",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 56,
+      "date": "2022.02",
+      "year": 2022,
+      "text": "(2022.02) Hyeli 's paper collaboration with Nano Convergence Green Material Lab on Anti-counterfeiting tags using flexible substrate is published Micromachines .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.3390/mi13020168"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 57,
+      "date": "2021.12",
+      "year": 2021,
+      "text": "(2021.12) Hyeli's paper collaboration with NDS@GIST and BINEL@SNU on Ampoule-Like Microvolume Containers is published Advanced Materials Technologies .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1002/admt.202101266"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 58,
+      "date": "2021.11",
+      "year": 2021,
+      "text": "(2021.11) Jinsik's paper collaboration with MFNB@SKKU is featured as a cover article for the Nov , Volume 33 , Issue 44 of Advanced Materials !",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1002/adma.202102542"
+        },
+        {
+          "text": "cover article",
+          "url": "https://doi.org/10.1002/adma.202170344"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 59,
+      "date": "2021.10",
+      "year": 2021,
+      "text": "(2021.10) MultiplexON presented 3 posters at the μTAS 202 1 C onference in Palm Springs , USA .",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 60,
+      "date": "2021.09",
+      "year": 2021,
+      "text": "(2021.09) Soojung joins MultiplexON as a Administrative Staff. Welcome aboard!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 61,
+      "date": "2021.09",
+      "year": 2021,
+      "text": "(2021.09) Jinsik 's paper collaboration with MFNB @ SKKU on Chaotic Organic Crystal Phosphorescent Patterns is published Advanced Materials .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1002/adma.202102542"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 62,
+      "date": "2021.08",
+      "year": 2021,
+      "text": "(2021.08) Cheolheon's paper collaboration with BINEL @S NU on Photopatterned microswimmers is published Nature Communications .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1038/s41467-021-24996-8"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 63,
+      "date": "2021.07",
+      "year": 2021,
+      "text": "(2021.07) Dr.Song 's paper on Quantifying and dispensing of magnetic particles is published Journal of Magnetism and Magnetic Materials .",
+      "links": [
+        {
+          "text": "paper",
+          "url": "https://doi.org/10.1016/j.jmmm.2021.168341"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 64,
+      "date": "2021.06",
+      "year": 2021,
+      "text": "(2021.06) MultiplexON presented 5 posters at the Summer Annual Conference of IEIE 2021 in Jeju Island, Korea.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 65,
+      "date": "2021.03",
+      "year": 2021,
+      "text": "(2021.03) Minhyuk joins MultiplexON as a M.S. student. Welcome aboard!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 66,
+      "date": "2014.03",
+      "year": 2014,
+      "text": "(2014.03) Dr.Song joins MultiplexON as a Postdoctoral Fellow . Welcome aboard!",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 67,
+      "date": "2014.03",
+      "year": 2014,
+      "text": "(2014.03) Cheolheon started an M.S. course, and Kibeom started a Ph.D. integrated course at MultiplexON.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 68,
+      "date": "2013.10",
+      "year": 2013,
+      "text": "(2013.10) MultiplexON presented 3 posters at Korean BioChip Society Fall 201 3 in Kangwon National University , Korea.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 69,
+      "date": "2013.03",
+      "year": 2013,
+      "text": "(2013.03) Youngran started M.S. student course at MultiplexON.",
+      "links": [],
+      "is_new": false
+    },
+    {
+      "id": 70,
+      "date": "2012.03",
+      "year": 2012,
+      "text": "(2012.03) Wook Park joins Department of Electronic and Radio Engineering at Kyung Hee University as a Assistant Professor .",
+      "links": [],
+      "is_new": false
+    }
+  ]
+}

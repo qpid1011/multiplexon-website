@@ -1,0 +1,2150 @@
+{
+  "covers": [
+    {
+      "id": 1,
+      "title": "Time-Varying Chaotic Phosphorescent Patterns for 4D PUFs",
+      "journal": "ACS Nano",
+      "year": 2024,
+      "image": "assets/images/covers/cover_2024_acs_nano.jpg",
+      "url": "https://pubs.acs.org/doi/full/10.1021/acsnano.3c12432"
+    },
+    {
+      "id": 2,
+      "title": "Optofluidic Maskless Lithography System and Optical Encoding",
+      "journal": "Optica",
+      "year": 2023,
+      "image": "assets/images/covers/cover_2023_optica.png",
+      "url": "https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-1-72&id=525050"
+    },
+    {
+      "id": 3,
+      "title": "Photopatterned Microswimmers with Programmable Motion",
+      "journal": "Advanced Materials",
+      "year": 2021,
+      "image": "assets/images/covers/cover_2021_adv_mat.jpg",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202102542"
+    },
+    {
+      "id": 4,
+      "title": "Self-organization of maze-like structures via guided wrinkling",
+      "journal": "Lab on a Chip",
+      "year": 2017,
+      "image": "assets/images/covers/cover_2017_lab_chip.jpg",
+      "url": "https://doi.org/10.1039/C7LC00372B"
+    },
+    {
+      "id": 5,
+      "title": "Reconfigurable and Encoded Hydrogel Microparticles",
+      "journal": "Advanced Materials",
+      "year": 2015,
+      "image": "assets/images/covers/cover_2015_adv_mat.jpg",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/adma.201405483"
+    },
+    {
+      "id": 6,
+      "title": "High-throughput synthesis of encoded microparticles",
+      "journal": "Advanced Materials",
+      "year": 2012,
+      "image": "assets/images/covers/cover_2012_adv_mat.png",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201201486"
+    }
+  ],
+  "journals": [
+    {
+      "num": 1,
+      "year": 2026,
+      "title": "Multiband Optical Physical Unclonable Functions Based on Mixed-Phase Multilevel Emissive Perovskites",
+      "authors": "Seungbeom Park, Jiyoun Kim, Jiyoung Boo, Giho Kim, Jinsik Yoon, Junghyun Bae, Sangeun Cho, Wook Park, Dong Hyuk Park, and Healin Im.",
+      "journal_info": "Advanced Science, e78505",
+      "citation": "Seungbeom Park, Jiyoun Kim, Jiyoung Boo, Giho Kim, Jinsik Yoon, Junghyun Bae, Sangeun Cho, Wook Park, Dong Hyuk Park, and Healin Im. (2026) Multiband Optical Physical Unclonable Functions Based on Mixed-Phase Multilevel Emissive Perovskites. Advanced Science, e78505",
+      "url": "https://doi.org/10.1002/advs.78505",
+      "is_cover": false
+    },
+    {
+      "num": 2,
+      "year": 2026,
+      "title": "Harnessing Stochastic Collisions for Deterministic Dry Assembly via Viscoelastic Microtraps",
+      "authors": "Junghyun Bae, Sujeong Lim, Jinsik Yoon, Kibeom Kim, and Wook Park.",
+      "journal_info": "ACS Materials Letters ASAP",
+      "citation": "Junghyun Bae, Sujeong Lim, Jinsik Yoon, Kibeom Kim, and Wook Park. (2026) Harnessing Stochastic Collisions for Deterministic Dry Assembly via Viscoelastic Microtraps. ACS Materials Letters ASAP",
+      "url": "https://doi.org/10.1021/acsmaterialslett.6c00469",
+      "is_cover": false
+    },
+    {
+      "num": 3,
+      "year": 2026,
+      "title": "Biochemical and Mechanical Signal Differentially Contribute to Survival in Surface-Modified Cell Model",
+      "authors": "Jang, S., Oh, T. I., Park, W., & Lee, E.",
+      "journal_info": "Tissue Engineering and Regenerative Medicine, 1-11.",
+      "citation": "Jang, S., Oh, T. I., Park, W., & Lee, E. (2026). Biochemical and Mechanical Signal Differentially Contribute to Survival in Surface-Modified Cell Model. Tissue Engineering and Regenerative Medicine, 1-11.",
+      "url": "https://doi.org/10.1007/s13770-026-00800-w",
+      "is_cover": false
+    },
+    {
+      "num": 4,
+      "year": 2025,
+      "title": "Cell flocculation and phase-separation support macro-scale tissue slab construction in a scaffold-free manner",
+      "authors": "Jang, S., Gil, J. J., Choi, B. K., Kim, Y., Song, Y., Kim, H., Kim, M. S., Song, B., Oh, T. I., Park, W., & Lee, E.",
+      "journal_info": "Materials Today Bio, 31, 102739 (2025)",
+      "citation": "Jang, S. ,Gil, J.J., Choi, B. K., Kim, Y., Song, Y., Kim, H., Kim, M. S., Song, B., Oh, T. I., Park, W., Lee E., (2025). Cell flocculation and phase-separation support macro-scale tissue slab construction in a scaffold-free manner, Materials Today Bio, 102739",
+      "url": "https://doi.org/10.1016/j.mtbio.2025.102739",
+      "is_cover": false
+    },
+    {
+      "num": 5,
+      "year": 2025,
+      "title": "Triaxial Asymmetry Driven Rotational Dynamics and Lateral Equilibrium Position in Inertial Flow",
+      "authors": "Suzuki, T., Stephenson, A. B., Yoon, J., Bae, J., Choi, S. E., Son, K., ... & Hur, S. C.",
+      "journal_info": "arXiv preprint arXiv:2511.11955.",
+      "citation": "Suzuki, T., Stephenson, A. B., Yoon, J., Bae, J., Choi, S. E., Son, K., ... & Hur, S. C. (2025). Triaxial Asymmetry Driven Rotational Dynamics and Lateral Equilibrium Position in Inertial Flow. arXiv preprint arXiv:2511.11955.",
+      "url": "https://doi.org/10.48550/arXiv.2511.11955",
+      "is_cover": false
+    },
+    {
+      "num": 6,
+      "year": 2025,
+      "title": "Advanced three-dimensional single-shot photolithography technique for fine microstructure printing based on an edge-tuned grayscale photomask",
+      "authors": "Yoon, J., & Park, W.",
+      "journal_info": "Optics Letters, 50(21), 6863–6866 (2025)",
+      "citation": "Yoon, Jinsik, and Wook Park. \"Advanced three-dimensional single-shot photolithography technique for fine microstructure printing based on an edge-tuned grayscale photomask.\" Optics Letters 50.21 (2025): 6863-6866.",
+      "url": "https://doi.org/10.1364/OL.576230",
+      "is_cover": false
+    },
+    {
+      "num": 7,
+      "year": 2025,
+      "title": "Multiplex Optical Unclonable Functions: Advances and Perspectives in Optics and Photonics for Hardware Security",
+      "authors": "Gandla, S., Moon, C., Leem, J. W., Yoon, J., Yun, H. S., Kim, M. S., Kim, D., Lee, S., Yao, Y., Alexandropoulos, D., Song, Y. M., Yoon, D. K., Park, W., Kim, Y. L., & Kim, S.",
+      "journal_info": "ACS nano.",
+      "citation": "Gandla, S., Moon, C., Leem, J. W., Yoon, J., Yun, H. S., Kim, M. S., Kim, D., Lee, S., Yao, Y., Alexandropoulos, D., Song, Y. M., Yoon, D. K., Park, W., Kim, Y. L., & Kim, S. (2025). Multiplex Optical Unclonable Functions: Advances and Perspectives in Optics and Photonics for Hardware Security. ACS nano.",
+      "url": "https://pubs.acs.org/doi/10.1021/acsnano.5c01917",
+      "is_cover": false
+    },
+    {
+      "num": 8,
+      "year": 2025,
+      "title": "Moisture-thermo dual-responsive hydrogel structure for liquid composition change detection and programmed actuation via vertical crosslinking gradient based defocusing photolithography",
+      "authors": "Yoon, J., Kim, K., Bae, J., & Park, W.",
+      "journal_info": "Sensors and Actuators Reports, 100356.",
+      "citation": "Yoon, J., Kim, K., Bae, J., & Park, W. (2025). Moisture-thermo dual-responsive hydrogel structure for liquid composition change detection and programmed actuation via vertical crosslinking gradient based defocusing photolithography. Sensors and Actuators Reports, 100356.",
+      "url": "https://doi.org/10.1016/j.snr.2025.100356",
+      "is_cover": false
+    },
+    {
+      "num": 9,
+      "year": 2024,
+      "title": "Self-assembly by anti-repellent structures for programming particles with momentum",
+      "authors": "Bae, J., Yoon, J., Oh, S., Kim, K., Kim, H., Hur, K., Cho, H., & Park, W.",
+      "journal_info": "Nature Communications, 15(1), 10794.",
+      "citation": "Bae, J., Yoon, J., Oh, S., Kim, K., Kim, H., Hur, K., Cho, H., & Park, W. (2024). Self-assembly by anti-repellent structures for programming particles with momentum. Nature Communications, 15(1), 10794.",
+      "url": "https://doi.org/10.1038/s41467-024-54976-7",
+      "is_cover": false
+    },
+    {
+      "num": 10,
+      "year": 2024,
+      "title": "In Situ Programmable, Active, and Interactive Crystallization by Localized Polymerization",
+      "authors": "Kim, K., Oh, S., Suh, B. L., Bae, J., Namkoong, M., Kim, Y., Yoon, J., Kim, H., Lim, S., Kim, I. S., Lee, I.-G., Moon, M.-W., Hur, K., Park, W., & Cho, H.",
+      "journal_info": "Advanced Materials, Early View.",
+      "citation": "Kim, K., Oh, S., Suh, B. L., Bae, J., Namkoong, M., Kim, Y., Yoon, J., Kim, H., Lim, S., Kim, I. S., Lee, I.-G., Moon, M.-W., Hur, K., Park, W., & Cho, H. (2024) In Situ Programmable, Active, and Interactive Crystallization by Localized Polymerization. Advanced Materials, Early View.",
+      "url": "https://doi.org/https://doi.org/10.1002/adma.202404092",
+      "is_cover": false
+    },
+    {
+      "num": 11,
+      "year": 2024,
+      "title": "Random laser ablated tags for anticounterfeiting purposes and towards physically unclonable functions",
+      "authors": "Gandla, S., Yoon, J., Yang, C. W., Lee, H., Park, W., & Kim, S.",
+      "journal_info": "Nature communications, 15(1), 7592.",
+      "citation": "Gandla, S., Yoon, J., Yang, C. W., Lee, H., Park, W., & Kim, S. (2024). Random laser ablated tags for anticounterfeiting purposes and towards physically unclonable functions. Nature communications, 15(1), 7592.",
+      "url": "https://www.nature.com/articles/s41467-024-51756-1",
+      "is_cover": false
+    },
+    {
+      "num": 12,
+      "year": 2024,
+      "title": "An Iron Oxide and Polyaniline Composite-Based Triboelectric Nanogenerator for Intrusion Detection Sensor",
+      "authors": "Kim, I., Park, J., Chun, S., Yun, J., Lee, M., Goh, T. S., ... & Kim, D.",
+      "journal_info": "Chemosensors, 12(8), 162.",
+      "citation": "Kim, I., Park, J., Chun, S., Yun, J., Lee, M., Goh, T. S., ... & Kim, D. (2024). An Iron Oxide and Polyaniline Composite-Based Triboelectric Nanogenerator for Intrusion Detection Sensor. Chemosensors, 12(8), 162.",
+      "url": "https://www.mdpi.com/2227-9040/12/8/162",
+      "is_cover": false
+    },
+    {
+      "num": 13,
+      "year": 2024,
+      "title": "Visible Frame QR-Coded Microparticles Integrated with an Invisible Layer for Unlocking Hidden Data via Fluorescence",
+      "authors": "Jeong, M., Park, C., Kim, K., Bae, J., & Park, W.",
+      "journal_info": "ACS Applied Polymer Materials, 6(13), 7751-7758.",
+      "citation": "Jeong, M., Park, C., Kim, K., Bae, J., & Park, W. (2024). Visible Frame QR-Coded Microparticles Integrated with an Invisible Layer for Unlocking Hidden Data via Fluorescence. ACS Applied Polymer Materials, 6(13), 7751-7758.",
+      "url": "https://pubs.acs.org/doi/10.1021/acsapm.4c01177",
+      "is_cover": false
+    },
+    {
+      "num": 14,
+      "year": 2024,
+      "title": "All‐in‐one platform: Versatile, Easy, and User‐friendly System (VEUS) based on automated and expert‐independent antibody immobilization and immunoassay by utilizing customized movement of magnetic particles",
+      "authors": "Yoon, J., Kim, J., Lim, S., Choi, H., Bae, J., Kim, K., ... & Jung, Y. G.",
+      "journal_info": "Biotechnology Journal, 19(6), 2400074.",
+      "citation": "Yoon, J., Kim, J., Lim, S., Choi, H., Bae, J., Kim, K., ... & Jung, Y. G. (2024). All‐in‐one platform: Versatile, Easy, and User‐friendly System (VEUS) based on automated and expert‐independent antibody immobilization and immunoassay by utilizing customized movement of magnetic particles. Biotechnology Journal, 19(6), 2400074.",
+      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202400074",
+      "is_cover": false
+    },
+    {
+      "num": 15,
+      "year": 2024,
+      "title": "Four-Dimensional Physical Unclonable Functions and Cryptographic Applications Based on Time-Varying Chaotic Phosphorescent Patterns",
+      "authors": "Im, H., Yoon, J., So, B., Choi, J., Park, D. H., Kim, S., & Park, W.",
+      "journal_info": "ACS nano, 18(18), 11703-11716.  (Cover Article)",
+      "citation": "Im, H., Yoon, J., So, B., Choi, J., Park, D. H., Kim, S., & Park, W. (2024). Four-Dimensional Physical Unclonable Functions and Cryptographic Applications Based on Time-Varying Chaotic Phosphorescent Patterns. ACS nano, 18(18), 11703-11716.  (Cover Article)",
+      "url": "https://pubs.acs.org/doi/10.1021/acsnano.3c12432",
+      "is_cover": true
+    },
+    {
+      "num": 16,
+      "year": 2024,
+      "title": "Time-traceable micro-taggants for anti-counterfeiting and secure distribution of food and medicines",
+      "authors": "Park, C., Jeong, Y., Yeom, H., Song, S. W., Park, W., & Lee, D.",
+      "journal_info": "Biomicrofluidics, 18(2).",
+      "citation": "Park, C., Jeong, Y., Yeom, H., Song, S. W., Park, W., & Lee, D. (2024). Time-traceable micro-taggants for anti-counterfeiting and secure distribution of food and medicines. Biomicrofluidics, 18(2).",
+      "url": "https://pubs.aip.org/aip/bmf/article-abstract/18/2/024109/3282827/Time-traceable-micro-taggants-for-anti?redirectedFrom=fulltext",
+      "is_cover": false
+    },
+    {
+      "num": 17,
+      "year": 2024,
+      "title": "Iris‐Inspired Microparticles with a Two‐Factor Authentication Security Feature for Wet‐Phase Enhanced Anti‐Counterfeiting Strategies",
+      "authors": "Park, C., Lee, M., Kim, H., Lee, D., Choi, J., Choi, Y., & Park, W.",
+      "journal_info": "Advanced Materials Technologies, 2400566.",
+      "citation": "Park, C., Lee, M., Kim, H., Lee, D., Choi, J., Choi, Y., & Park, W. (2024). Iris‐Inspired Microparticles with a Two‐Factor Authentication Security Feature for Wet‐Phase Enhanced Anti‐Counterfeiting Strategies. Advanced Materials Technologies, 2400566.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/admt.202400566",
+      "is_cover": false
+    },
+    {
+      "num": 18,
+      "year": 2023,
+      "title": "A robust triboelectric impact sensor with carbon dioxide precursor-based calcium carbonate layer for slap match application",
+      "authors": "Kim, I., Cho, H., Kitchamsetti, N., Yun, J., Lee, J., Park, W., & Kim, D.",
+      "journal_info": "Micromachines, 14(9), 1778.",
+      "citation": "Kim, I., Cho, H., Kitchamsetti, N., Yun, J., Lee, J., Park, W., & Kim, D. (2023). A robust triboelectric impact sensor with carbon dioxide precursor-based calcium carbonate layer for slap match application. Micromachines, 14(9), 1778.",
+      "url": "https://www.mdpi.com/2072-666X/14/9/1778",
+      "is_cover": false
+    },
+    {
+      "num": 19,
+      "year": 2023,
+      "title": "FeV LDH coated on sandpaper as an electrode material for high-performance flexible energy storage devices",
+      "authors": "Park, J., Kim, Y., Kitchamsetti, N., Jo, S., Lee, S., Song, J., ... & Kim, D.",
+      "journal_info": "Polymers, 15(5), 1136.",
+      "citation": "Park, J., Kim, Y., Kitchamsetti, N., Jo, S., Lee, S., Song, J., ... & Kim, D. (2023). FeV LDH coated on sandpaper as an electrode material for high-performance flexible energy storage devices. Polymers, 15(5), 1136.",
+      "url": "https://www.mdpi.com/2073-4360/15/5/1136",
+      "is_cover": false
+    },
+    {
+      "num": 20,
+      "year": 2023,
+      "title": "Design and single-shot fabrication of lensless cameras with arbitrary point spread functions",
+      "authors": "Lee, K. C., Bae, J., Baek, N., Jung, J., Park, W., & Lee, S. A.",
+      "journal_info": "Lee, K. C., Bae, J., Baek, N., Jung, J., Park, W., & Lee, S. A. (2023). Design and single-shot fabrication of lensless cameras with arbitrary point spread functions. Optica, 10(1), 72-80. , 10(1), 72-80.  (Cover Article)",
+      "citation": "Lee, K. C., Bae, J., Baek, N., Jung, J., Park, W., & Lee, S. A. (2023). Design and single-shot fabrication of lensless cameras with arbitrary point spread functions. Lee, K. C., Bae, J., Baek, N., Jung, J., Park, W., & Lee, S. A. (2023). Design and single-shot fabrication of lensless cameras with arbitrary point spread functions. Optica, 10(1), 72-80. , 10(1), 72-80.  (Cover Article)",
+      "url": "https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-1-72&id=525050",
+      "is_cover": false
+    },
+    {
+      "num": 21,
+      "year": 2023,
+      "title": "Enhanced performance of a photodetector based on a graphene/CVD-grown dendritic ReS 2/Ta 2 O 5 vertical heterojunction",
+      "authors": "Ryu, H., Kim, D., Choi, Y., Kadyrov, A., Park, W., & Lee, S.",
+      "journal_info": "Journal of Materials Chemistry C, 11(27), 9245-9251.",
+      "citation": "Ryu, H., Kim, D., Choi, Y., Kadyrov, A., Park, W., & Lee, S. (2023). Enhanced performance of a photodetector based on a graphene/CVD-grown dendritic ReS 2/Ta 2 O 5 vertical heterojunction. Journal of Materials Chemistry C, 11(27), 9245-9251.",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2023/tc/d3tc00351e",
+      "is_cover": false
+    },
+    {
+      "num": 22,
+      "year": 2022,
+      "title": "Ampoule‐Like Microvolume Containers with Transparent Code for Easy‐to‐Use and Space‐Saving Storage of Small‐Volume Biospecimens",
+      "authors": "Kim, H., Choi, Y., Lee, A. C., Bae, J., Yoon, J., Kim, K., ... & Park, W.",
+      "journal_info": "Advanced Materials Technologies, 7(7), 2101266.",
+      "citation": "Kim, H., Choi, Y., Lee, A. C., Bae, J., Yoon, J., Kim, K., ... & Park, W. (2022). Ampoule‐Like Microvolume Containers with Transparent Code for Easy‐to‐Use and Space‐Saving Storage of Small‐Volume Biospecimens. Advanced Materials Technologies, 7(7), 2101266.",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202101266",
+      "is_cover": false
+    },
+    {
+      "num": 23,
+      "year": 2022,
+      "title": "Omni-and unidirectional data unit photolithography for high similarity and multiple angular segment display-based encoded microparticle fabrication",
+      "authors": "Yoon, J., & Park, W.",
+      "journal_info": "Optics Letters, 47(11), 2682-2685.",
+      "citation": "Yoon, J., & Park, W. (2022). Omni-and unidirectional data unit photolithography for high similarity and multiple angular segment display-based encoded microparticle fabrication. Optics Letters, 47(11), 2682-2685.",
+      "url": "https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-11-2682&id=472976",
+      "is_cover": false
+    },
+    {
+      "num": 24,
+      "year": 2022,
+      "title": "Anti-counterfeiting tags using flexible substrate with gradient micropatterning of silver nanowires",
+      "authors": "Kim, H., Kwon, G., Park, C., You, J., & Park, W.",
+      "journal_info": "Micromachines, 13(2), 168.",
+      "citation": "Kim, H., Kwon, G., Park, C., You, J., & Park, W. (2022). Anti-counterfeiting tags using flexible substrate with gradient micropatterning of silver nanowires. Micromachines, 13(2), 168.",
+      "url": "https://www.mdpi.com/2072-666X/13/2/168",
+      "is_cover": false
+    },
+    {
+      "num": 25,
+      "year": 2021,
+      "title": "Quantifying and dispensing of magnetic particles in a self-assembled magnetic particle array",
+      "authors": "Song, S. H., Yoon, J., Jeong, Y., Jung, Y. G., Abelmann, L., & Park, W.",
+      "journal_info": "Journal of Magnetism and Magnetic Materials, 539, 168341.",
+      "citation": "Song, S. H., Yoon, J., Jeong, Y., Jung, Y. G., Abelmann, L., & Park, W. (2021). Quantifying and dispensing of magnetic particles in a self-assembled magnetic particle array. Journal of Magnetism and Magnetic Materials, 539, 168341.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030488532100617X?casa_token=NFp0-oTuP8UAAAAA:WAFwy9_1q8dcI2MtWEWkd3_ZNkOj7DYVqq2JtEE1Q6gcRZtYuXBsoLU2AjgDmfJAUE2WYc90JA",
+      "is_cover": false
+    },
+    {
+      "num": 26,
+      "year": 2021,
+      "title": "Chaotic organic crystal phosphorescent patterns for physical unclonable functions",
+      "authors": "Im, H., Yoon, J., Choi, J., Kim, J., Baek, S., Park, D. H., ... & Kim, S.",
+      "journal_info": "Advanced Materials, 33(44), 2102542.  (Cover Article)",
+      "citation": "Im, H., Yoon, J., Choi, J., Kim, J., Baek, S., Park, D. H., ... & Kim, S. (2021). Chaotic organic crystal phosphorescent patterns for physical unclonable functions. Advanced Materials, 33(44), 2102542.  (Cover Article)",
+      "url": "https://doi.org/10.1002/adma.202102542",
+      "is_cover": true
+    },
+    {
+      "num": 27,
+      "year": 2021,
+      "title": "Photopatterned microswimmers with programmable motion without external stimuli",
+      "authors": "Choi, Y., Park, C., Lee, A. C., Bae, J., Kim, H., Choi, H., ... & Park, W.",
+      "journal_info": "Nature Communications, 12(1), 4724.",
+      "citation": "Choi, Y., Park, C., Lee, A. C., Bae, J., Kim, H., Choi, H., ... & Park, W. (2021). Photopatterned microswimmers with programmable motion without external stimuli. Nature Communications, 12(1), 4724.",
+      "url": "https://doi.org/10.1038/s41467-021-24996-8",
+      "is_cover": false
+    },
+    {
+      "num": 28,
+      "year": 2021,
+      "title": "Gradient-wrinkled microparticle with grayscale lithography controlling the cross-linking densities for high security level anti-counterfeiting strategies",
+      "authors": "Park, C., Bae, H. J., Yoon, J., Song, S. W., Jeong, Y., Kim, K., ... & Park, W.",
+      "journal_info": "ACS omega, 6(3), 2121-2126.",
+      "citation": "Park, C., Bae, H. J., Yoon, J., Song, S. W., Jeong, Y., Kim, K., ... & Park, W. (2021). Gradient-wrinkled microparticle with grayscale lithography controlling the cross-linking densities for high security level anti-counterfeiting strategies. ACS omega, 6(3), 2121-2126.",
+      "url": "https://doi.org/10.1021/acsomega.0c05207",
+      "is_cover": false
+    },
+    {
+      "num": 29,
+      "year": 2020,
+      "title": "Shear stress-triggered deformation of microparticles in a tapered microchannel",
+      "authors": "Park, C., Bae, J., Choi, Y., & Park, W.",
+      "journal_info": "Polymers, 13(1), 55.",
+      "citation": "Park, C., Bae, J., Choi, Y., & Park, W. (2020). Shear stress-triggered deformation of microparticles in a tapered microchannel. Polymers, 13(1), 55.",
+      "url": "https://doi.org/10.3390/polym13010055",
+      "is_cover": false
+    },
+    {
+      "num": 30,
+      "year": 2020,
+      "title": "Microsized 3D hydrogel printing system using microfluidic maskless lithography and single axis stepper motor",
+      "authors": "Yoon, J., & Park, W.",
+      "journal_info": "BioChip Journal, 14(3), 317-325.",
+      "citation": "Yoon, J., & Park, W. (2020). Microsized 3D hydrogel printing system using microfluidic maskless lithography and single axis stepper motor. BioChip Journal, 14(3), 317-325.",
+      "url": "https://doi.org/10.1007/s13206-020-4310-4",
+      "is_cover": false
+    },
+    {
+      "num": 31,
+      "year": 2020,
+      "title": "DNA micro‐disks for the management of DNA‐based data storage with index and write‐once–read‐many (WORM) memory features",
+      "authors": "Choi, Y., Bae, H. J., Lee, A. C., Choi, H., Lee, D., Ryu, T., ... & Kwon, S.",
+      "journal_info": "Advanced Materials, 32(37), 2001249.",
+      "citation": "Choi, Y., Bae, H. J., Lee, A. C., Choi, H., Lee, D., Ryu, T., ... & Kwon, S. (2020). DNA micro‐disks for the management of DNA‐based data storage with index and write‐once–read‐many (WORM) memory features. Advanced Materials, 32(37), 2001249.",
+      "url": "https://doi.org/10.1002/adma.202001249",
+      "is_cover": false
+    },
+    {
+      "num": 32,
+      "year": 2020,
+      "title": "Bacterial isolation microwell-plug (μWELLplug) for rapid antibiotic susceptibility testing using morphology analysis",
+      "authors": "Yoon, J., Kim, Y., Suh, J. W., Jin, Y. Y., Jung, Y. G., & Park, W.",
+      "journal_info": "ACS Applied Bio Materials, 3(8), 4798-4808.",
+      "citation": "Yoon, J., Kim, Y., Suh, J. W., Jin, Y. Y., Jung, Y. G., & Park, W. (2020). Bacterial isolation microwell-plug (μWELLplug) for rapid antibiotic susceptibility testing using morphology analysis. ACS Applied Bio Materials, 3(8), 4798-4808.",
+      "url": "https://doi.org/10.1021/acsabm.0c00317",
+      "is_cover": false
+    },
+    {
+      "num": 33,
+      "year": 2020,
+      "title": "New precision engineering methods for low‐cost mass production of functional giant magnetic glass‐coated particles as immune biomarkers",
+      "authors": "Song, S. H., Lim, S., Choi, H. Y., Kim, J. H., Jung, Y. G., & Park, W.",
+      "journal_info": "Advanced Engineering Materials, 22(6), 2000060.",
+      "citation": "Song, S. H., Lim, S., Choi, H. Y., Kim, J. H., Jung, Y. G., & Park, W. (2020). New precision engineering methods for low‐cost mass production of functional giant magnetic glass‐coated particles as immune biomarkers. Advanced Engineering Materials, 22(6), 2000060.",
+      "url": "https://doi.org/10.1002/adem.202000060",
+      "is_cover": false
+    },
+    {
+      "num": 34,
+      "year": 2019,
+      "title": "Generation of 3D microparticles in microchannels with non-rectangular cross sections",
+      "authors": "Nam, S. M., Kim, K., Kang, I. S., Park, W., & Lee, W.",
+      "journal_info": "BioChip Journal, 13, 226-235.",
+      "citation": "Nam, S. M., Kim, K., Kang, I. S., Park, W., & Lee, W. (2019). Generation of 3D microparticles in microchannels with non-rectangular cross sections. BioChip Journal, 13, 226-235.",
+      "url": "https://doi.org/10.1007/s13206-019-3308-2",
+      "is_cover": false
+    },
+    {
+      "num": 35,
+      "year": 2019,
+      "title": "Microfluidic‐Printed Microcarrier for In Vitro Expansion of Adherent Stem Cells in 3D Culture Platform",
+      "authors": "Park, W., Jang, S., Kim, T. W., Bae, J., Oh, T. I., & Lee, E.",
+      "journal_info": "Macromolecular bioscience, 19(8), 1900136.",
+      "citation": "Park, W., Jang, S., Kim, T. W., Bae, J., Oh, T. I., & Lee, E. (2019). Microfluidic‐Printed Microcarrier for In Vitro Expansion of Adherent Stem Cells in 3D Culture Platform. Macromolecular bioscience, 19(8), 1900136.",
+      "url": "https://doi.org/10.1002/mabi.201900136",
+      "is_cover": false
+    },
+    {
+      "num": 36,
+      "year": 2019,
+      "title": "High information capacity DNA-based data storage with augmented encoding characters using degenerate bases",
+      "authors": "Choi, Y., Ryu, T., Lee, A. C., Choi, H., Lee, H., Park, J., ... & Kwon, S.",
+      "journal_info": "Scientific reports, 9(1), 6582.",
+      "citation": "Choi, Y., Ryu, T., Lee, A. C., Choi, H., Lee, H., Park, J., ... & Kwon, S. (2019). High information capacity DNA-based data storage with augmented encoding characters using degenerate bases. Scientific reports, 9(1), 6582.",
+      "url": "https://doi.org/10.1038/s41598-019-43105-w",
+      "is_cover": false
+    },
+    {
+      "num": 37,
+      "year": 2019,
+      "title": "Functional microparticle R&D for IVD and cell therapeutic technology: large-scale commercialized products",
+      "authors": "Song, S. H., Lee, J. H., Yoon, J., & Park, W.",
+      "journal_info": "BioChip Journal, 13(1), 95-104.",
+      "citation": "Song, S. H., Lee, J. H., Yoon, J., & Park, W. (2019). Functional microparticle R&D for IVD and cell therapeutic technology: large-scale commercialized products. BioChip Journal, 13(1), 95-104.",
+      "url": "https://doi.org/10.1007/s13206-019-3107-9",
+      "is_cover": false
+    },
+    {
+      "num": 38,
+      "year": 2018,
+      "title": "Marker Pen Device with Concentration Gradient Nib for Antibiotic Susceptibility Testing",
+      "authors": "Jung, Y. G., Yun, Y. R., Song, S. H., & Park, W.",
+      "journal_info": "Journal of Korean Medical Science, 33(33).",
+      "citation": "Jung, Y. G., Yun, Y. R., Song, S. H., & Park, W. (2018). Marker Pen Device with Concentration Gradient Nib for Antibiotic Susceptibility Testing. Journal of Korean Medical Science, 33(33).",
+      "url": "https://doi.org/10.3346/jkms.2018.33.e224",
+      "is_cover": false
+    },
+    {
+      "num": 39,
+      "year": 2018,
+      "title": "Addition of degenerate bases to DNA-based data storage for increased information capacity",
+      "authors": "Choi, Y., Ryu, T., Lee, A. C., Choi, H., Lee, H., Park, J., ... & Kwon, S.",
+      "journal_info": "bioRxiv, 367052. ,",
+      "citation": "Choi, Y., Ryu, T., Lee, A. C., Choi, H., Lee, H., Park, J., ... & Kwon, S. (2018). Addition of degenerate bases to DNA-based data storage for increased information capacity. bioRxiv, 367052. ,",
+      "url": "https://doi.org/10.1101/367052",
+      "is_cover": false
+    },
+    {
+      "num": 40,
+      "year": 2018,
+      "title": "Hierarchical shape-by-shape assembly of microparticles for micrometer-scale viral delivery of two different genes",
+      "authors": "Lee, D., Lee, A. C., Han, S., Bae, H. J., Song, S. W., Jeong, Y., ... & Kwon, S.",
+      "journal_info": "Biomicrofluidics, 12(3).",
+      "citation": "Lee, D., Lee, A. C., Han, S., Bae, H. J., Song, S. W., Jeong, Y., ... & Kwon, S. (2018). Hierarchical shape-by-shape assembly of microparticles for micrometer-scale viral delivery of two different genes. Biomicrofluidics, 12(3).",
+      "url": "https://doi.org/10.1063/1.5030597",
+      "is_cover": false
+    },
+    {
+      "num": 41,
+      "year": 2017,
+      "title": "Modulated grayscale UV pattern for uniform photopolymerization based on a digital micromirror device system",
+      "authors": "Yoon, J., Kim, K., & Park, W.",
+      "journal_info": "Applied Physics Letters, 111(3).",
+      "citation": "Yoon, J., Kim, K., & Park, W. (2017). Modulated grayscale UV pattern for uniform photopolymerization based on a digital micromirror device system. Applied Physics Letters, 111(3).",
+      "url": "https://doi.org/10.1063/1.4986393",
+      "is_cover": false
+    },
+    {
+      "num": 42,
+      "year": 2017,
+      "title": "Self-organization of maze-like structures via guided wrinkling",
+      "authors": "Bae, H. J., Bae, S., Yoon, J., Park, C., Kim, K., Kwon, S., & Park, W.",
+      "journal_info": "Science advances, 3(6), e1700071.",
+      "citation": "Bae, H. J., Bae, S., Yoon, J., Park, C., Kim, K., Kwon, S., & Park, W. (2017). Self-organization of maze-like structures via guided wrinkling. Science advances, 3(6), e1700071.",
+      "url": "https://doi.org/10.1126/sciadv.1700071",
+      "is_cover": false
+    },
+    {
+      "num": 43,
+      "year": 2017,
+      "title": "An encoded viral micropatch for multiplex cell-based assays through localized gene delivery",
+      "authors": "Han, S., Bae, H. J., Kim, S. D., Park, W., & Kwon, S.",
+      "journal_info": "Lab on a Chip, 17(14), 2435-2442.  (Cover Article)",
+      "citation": "Han, S., Bae, H. J., Kim, S. D., Park, W., & Kwon, S. (2017). An encoded viral micropatch for multiplex cell-based assays through localized gene delivery. Lab on a Chip, 17(14), 2435-2442.  (Cover Article)",
+      "url": "https://doi.org/10.1039/c7lc00372b",
+      "is_cover": true
+    },
+    {
+      "num": 44,
+      "year": 2016,
+      "title": "Lithographic resolution enhancement of a maskless lithography system based on a wobulation technique for flow lithography",
+      "authors": "Kim, K., Han, S., Yoon, J., Kwon, S., Park, H. K., & Park, W.",
+      "journal_info": "Applied Physics Letters, 109(23).",
+      "citation": "Kim, K., Han, S., Yoon, J., Kwon, S., Park, H. K., & Park, W. (2016). Lithographic resolution enhancement of a maskless lithography system based on a wobulation technique for flow lithography. Applied Physics Letters, 109(23).",
+      "url": "https://doi.org/10.1063/1.4967373",
+      "is_cover": false
+    },
+    {
+      "num": 45,
+      "year": 2015,
+      "title": "Biomimetic microfingerprints for anti-counterfeiting strategies",
+      "authors": "Bae, H. J., Bae, S., Park, C., Han, S., Kim, J., Kim, L. N., ... & Kwon, S.",
+      "journal_info": "Advanced Materials (Deerfield Beach, Fla.), 27(12), 2083-2089.  (Cover Article)",
+      "citation": "Bae, H. J., Bae, S., Park, C., Han, S., Kim, J., Kim, L. N., ... & Kwon, S. (2015). Biomimetic microfingerprints for anti-counterfeiting strategies. Advanced Materials (Deerfield Beach, Fla.), 27(12), 2083-2089.  (Cover Article)",
+      "url": "https://doi.org/10.1002/adma.201405483",
+      "is_cover": true
+    },
+    {
+      "num": 46,
+      "year": 2015,
+      "title": "Error-Free Thumbnail Image Generation from Intra-Coded Bit Stream",
+      "authors": "Tran, H. N., Oh, H., Kim, W., & Park, W.",
+      "journal_info": "IEICE Transactions on Communications, 98(2), 379-386.",
+      "citation": "Tran, H. N., Oh, H., Kim, W., & Park, W. (2015). Error-Free Thumbnail Image Generation from Intra-Coded Bit Stream. IEICE Transactions on Communications, 98(2), 379-386.",
+      "url": "https://doi.org/10.1587/transcom.E98.B.379",
+      "is_cover": false
+    },
+    {
+      "num": 47,
+      "year": 2014,
+      "title": "Fabrication of Free-floating Nanohybrid Microparticles with ZnO Nanowire Surfaces",
+      "authors": "Song, S. H., & Park, W.",
+      "journal_info": "Bulletin of the Korean Chemical Society, 35(12).",
+      "citation": "Song, S. H., & Park, W. (2014). Fabrication of Free-floating Nanohybrid Microparticles with ZnO Nanowire Surfaces. Bulletin of the Korean Chemical Society, 35(12).",
+      "url": "https://doi.org/10.5012/bkcs.2014.35.12.3425",
+      "is_cover": false
+    },
+    {
+      "num": 48,
+      "year": 2014,
+      "title": "A alpha-Si: H Thin-Film Phototransistor for a Near-Infrared Touch Sensor",
+      "authors": "Lee, Y., Omkaram, I., Park, J., Kim, H. S., Kyung, K. U., Park, W., & Kim, S.",
+      "journal_info": "IEEE Electron Device Letters, 36(1), 41-43.",
+      "citation": "Lee, Y., Omkaram, I., Park, J., Kim, H. S., Kyung, K. U., Park, W., & Kim, S. (2014). A alpha-Si: H Thin-Film Phototransistor for a Near-Infrared Touch Sensor. IEEE Electron Device Letters, 36(1), 41-43.",
+      "url": "https://doi.org/10.1109/LED.2014.2367118",
+      "is_cover": false
+    },
+    {
+      "num": 49,
+      "year": 2014,
+      "title": "Fine-tuned grayscale optofluidic maskless lithography for three-dimensional freeform shape microstructure fabrication",
+      "authors": "Song, S. H., Kim, K., Choi, S. E., Han, S., Lee, H. S., Kwon, S., & Park, W.",
+      "journal_info": "Optics letters, 39(17), 5162-5165.",
+      "citation": "Song, S. H., Kim, K., Choi, S. E., Han, S., Lee, H. S., Kwon, S., & Park, W. (2014). Fine-tuned grayscale optofluidic maskless lithography for three-dimensional freeform shape microstructure fabrication. Optics letters, 39(17), 5162-5165.",
+      "url": "https://doi.org/10.1364/OL.39.005162",
+      "is_cover": false
+    },
+    {
+      "num": 50,
+      "year": 2014,
+      "title": "Concentration and penetration depth dependent tunable emissions from Eu 3+ co-doped SrY 2 O 4: Dy 3+ nanocrystalline phosphor",
+      "authors": "Pavitra, E., Raju, G. S. R., Park, W., & Yu, J. S.",
+      "journal_info": "New Journal of Chemistry, 38(1), 163-169.",
+      "citation": "Pavitra, E., Raju, G. S. R., Park, W., & Yu, J. S. (2014). Concentration and penetration depth dependent tunable emissions from Eu 3+ co-doped SrY 2 O 4: Dy 3+ nanocrystalline phosphor. New Journal of Chemistry, 38(1), 163-169.",
+      "url": "https://doi.org/10.1039/C3NJ00987D",
+      "is_cover": false
+    },
+    {
+      "num": 51,
+      "year": 2013,
+      "title": "Well-integrated ZnO nanorod arrays on conductive textiles by electrochemical synthesis and their physical properties",
+      "authors": "Ko, Y. H., Kim, M. S., Park, W., & Yu, J. S.",
+      "journal_info": "Nanoscale research letters, 8, 1-8.",
+      "citation": "Ko, Y. H., Kim, M. S., Park, W., & Yu, J. S. (2013). Well-integrated ZnO nanorod arrays on conductive textiles by electrochemical synthesis and their physical properties. Nanoscale research letters, 8, 1-8.",
+      "url": "https://doi.org/10.1186/1556-276X-8-28",
+      "is_cover": false
+    },
+    {
+      "num": 52,
+      "year": 2013,
+      "title": "Optofluidic Maskless Lithography and Its Application for 3D Cell Culture Based on a Microparticle",
+      "authors": "Park, W., & Kwon, S.",
+      "journal_info": "Polymer Science and Technology, 24(3), 245-249.",
+      "citation": "Park, W., & Kwon, S. (2013). Optofluidic Maskless Lithography and Its Application for 3D Cell Culture Based on a Microparticle. Polymer Science and Technology, 24(3), 245-249.",
+      "url": "https://koreascience.kr/article/JAKO201323954764543.pdf",
+      "is_cover": false
+    },
+    {
+      "num": 53,
+      "year": 2012,
+      "title": "Lithographically encoded polymer microtaggant using high‐capacity and error‐correctable QR code for anti‐counterfeiting of drugs",
+      "authors": "Han, S., Bae, H. J., Kim, J., Shin, S., Choi, S. E., Lee, S. H., ... & Park, W.",
+      "journal_info": "Advanced Materials, 24(44), 5924-5929.  (Cover Article)",
+      "citation": "Han, S., Bae, H. J., Kim, J., Shin, S., Choi, S. E., Lee, S. H., ... & Park, W. (2012). Lithographically encoded polymer microtaggant using high‐capacity and error‐correctable QR code for anti‐counterfeiting of drugs. Advanced Materials, 24(44), 5924-5929.  (Cover Article)",
+      "url": "https://doi.org/10.1002/adma.201201486",
+      "is_cover": true
+    },
+    {
+      "num": 54,
+      "year": 2012,
+      "title": "Free-floating amphiphilic picoliter droplet carriers for multiplexed liquid loading in a microfluidic channel",
+      "authors": "Park, W., Han, S., Lee, H., & Kwon, S.",
+      "journal_info": "Microfluidics and nanofluidics, 13, 511-518.",
+      "citation": "Park, W., Han, S., Lee, H., & Kwon, S. (2012). Free-floating amphiphilic picoliter droplet carriers for multiplexed liquid loading in a microfluidic channel. Microfluidics and nanofluidics, 13, 511-518.",
+      "url": "https://doi.org/10.1007/s10404-012-0989-4",
+      "is_cover": false
+    },
+    {
+      "num": 55,
+      "year": 2012,
+      "title": "Facile fabrication of forest‐like ZnO hierarchical structures on conductive fabric substrate",
+      "authors": "Ko, Y. H., Kim, S., Park, W., & Yu, J. S.",
+      "journal_info": "physica status solidi (RRL)–Rapid Research Letters, 6(8), 355-357.",
+      "citation": "Ko, Y. H., Kim, S., Park, W., & Yu, J. S. (2012). Facile fabrication of forest‐like ZnO hierarchical structures on conductive fabric substrate. physica status solidi (RRL)–Rapid Research Letters, 6(8), 355-357.",
+      "url": "https://doi.org/10.1002/pssr.201206265",
+      "is_cover": false
+    },
+    {
+      "num": 56,
+      "year": 2012,
+      "title": "Fabrication and manipulation of gold 1D chain assemblies using magnetically controllable gold nanoparticles",
+      "authors": "Kim, L. N., Kim, E. G., Kim, J., Choi, S. E., Park, W., & Kwon, S.",
+      "journal_info": "Bulletin of the Korean Chemical Society, 33(11), 3735-3739.",
+      "citation": "Kim, L. N., Kim, E. G., Kim, J., Choi, S. E., Park, W., & Kwon, S. (2012). Fabrication and manipulation of gold 1D chain assemblies using magnetically controllable gold nanoparticles. Bulletin of the Korean Chemical Society, 33(11), 3735-3739.",
+      "url": "https://doi.org/10.5012/bkcs.2012.33.11.3735",
+      "is_cover": false
+    },
+    {
+      "num": 57,
+      "year": 2011,
+      "title": "Real-time optofluidic synthesis of magnetochromatic microspheres for reversible structural color patterning",
+      "authors": "Kim, J., Song, Y., He, L., Kim, H., Lee, H., Park, W., ... & Kwon, S.",
+      "journal_info": "Small, 7(9), 1163-1168.",
+      "citation": "Kim, J., Song, Y., He, L., Kim, H., Lee, H., Park, W., ... & Kwon, S. (2011). Real-time optofluidic synthesis of magnetochromatic microspheres for reversible structural color patterning. Small, 7(9), 1163-1168.",
+      "url": "https://doi.org/10.1002/smll.201001822",
+      "is_cover": false
+    },
+    {
+      "num": 58,
+      "year": 2011,
+      "title": "Polymer based chemical delivery to multichannel capillary patterned cells",
+      "authors": "Lee, S. H., Heinz, A. J., Choi, S. E., Park, W., & Kwon, S.",
+      "journal_info": "Lab on a Chip, 11(4), 605-608.",
+      "citation": "Lee, S. H., Heinz, A. J., Choi, S. E., Park, W., & Kwon, S. (2011). Polymer based chemical delivery to multichannel capillary patterned cells. Lab on a Chip, 11(4), 605-608.",
+      "url": "https://doi.org/10.1039/C0LC00328J",
+      "is_cover": false
+    },
+    {
+      "num": 59,
+      "year": 2010,
+      "title": "Active guidance of 3D microstructures",
+      "authors": "Lee, S. H., Choi, S. E., Heinz, A. J., Park, W., Han, S., Jung, Y., & Kwon, S.",
+      "journal_info": "Small, 6(23), 2668-2672.",
+      "citation": "Lee, S. H., Choi, S. E., Heinz, A. J., Park, W., Han, S., Jung, Y., & Kwon, S. (2010). Active guidance of 3D microstructures. Small, 6(23), 2668-2672.",
+      "url": "https://doi.org/10.1002/smll.201001248",
+      "is_cover": false
+    },
+    {
+      "num": 60,
+      "year": 2010,
+      "title": "Capillary based patterning of cellular communities in laterally open channels",
+      "authors": "Lee, S. H., Heinz, A. J., Shin, S., Jung, Y. G., Choi, S. E., Park, W., ... & Kwon, S.",
+      "journal_info": "Analytical chemistry, 82(7), 2900-2906.",
+      "citation": "Lee, S. H., Heinz, A. J., Shin, S., Jung, Y. G., Choi, S. E., Park, W., ... & Kwon, S. (2010). Capillary based patterning of cellular communities in laterally open channels. Analytical chemistry, 82(7), 2900-2906.",
+      "url": "https://doi.org/10.1021/ac902903q",
+      "is_cover": false
+    },
+    {
+      "num": 61,
+      "year": 2010,
+      "title": "Multilayer deposition on patterned posts using alternating polyelectrolyte droplets in a microfluidic device",
+      "authors": "Lee, M., Park, W., Chung, C., Lim, J., Kwon, S., Ahn, K. H., ... & Char, K.",
+      "journal_info": "Lab on a Chip, 10(9), 1160-1166.",
+      "citation": "Lee, M., Park, W., Chung, C., Lim, J., Kwon, S., Ahn, K. H., ... & Char, K. (2010). Multilayer deposition on patterned posts using alternating polyelectrolyte droplets in a microfluidic device. Lab on a Chip, 10(9), 1160-1166.",
+      "url": "https://doi.org/10.1039/B919753B",
+      "is_cover": false
+    },
+    {
+      "num": 62,
+      "year": 2010,
+      "title": "Fabrication of membrane-type microvalves in rectangular microfluidic channels via seal photopolymerization",
+      "authors": "Park, W., Han, S., & Kwon, S.",
+      "journal_info": "Lab on a Chip, 10(20), 2814-2817.",
+      "citation": "Park, W., Han, S., & Kwon, S. (2010). Fabrication of membrane-type microvalves in rectangular microfluidic channels via seal photopolymerization. Lab on a Chip, 10(20), 2814-2817.",
+      "url": "https://doi.org/10.1039/C005173J",
+      "is_cover": false
+    },
+    {
+      "num": 63,
+      "year": 2009,
+      "title": "Structural colour printing using a magnetically tunable and lithographically fixable photonic crystal",
+      "authors": "Kim, H., Ge, J., Kim, J., Choi, S. E., Lee, H., Lee, H., ... & Kwon, S.",
+      "journal_info": "Nature Photonics, 3(9), 534-540.",
+      "citation": "Kim, H., Ge, J., Kim, J., Choi, S. E., Lee, H., Lee, H., ... & Kwon, S. (2009). Structural colour printing using a magnetically tunable and lithographically fixable photonic crystal. Nature Photonics, 3(9), 534-540.",
+      "url": "https://doi.org/10.1038/nphoton.2009.141",
+      "is_cover": false
+    },
+    {
+      "num": 64,
+      "year": 2009,
+      "title": "Dynamic Flow Lithography Technologies",
+      "authors": "Chung, S. E., Park, W., & Kwon, S. H.",
+      "journal_info": "Journal of Biomedical Engineering Research, 30(6), 453-460.",
+      "citation": "Chung, S. E., Park, W., & Kwon, S. H. (2009). Dynamic Flow Lithography Technologies. Journal of Biomedical Engineering Research, 30(6), 453-460.",
+      "url": "https://doi.org/10.9718/JBER.2009.30.6.453",
+      "is_cover": false
+    },
+    {
+      "num": 65,
+      "year": 2009,
+      "title": "Sorting directionally oriented microstructures using railed microfluidics",
+      "authors": "Park, W., Lee, H., Park, H., & Kwon, S.",
+      "journal_info": "Lab on a chip, 9(15), 2169-2175.  (Cover Article)",
+      "citation": "Park, W., Lee, H., Park, H., & Kwon, S. (2009). Sorting directionally oriented microstructures using railed microfluidics. Lab on a chip, 9(15), 2169-2175.  (Cover Article)",
+      "url": "https://doi.org/10.1039/B904153B",
+      "is_cover": false
+    },
+    {
+      "num": 66,
+      "year": 2009,
+      "title": "Three-dimensional fabrication of heterogeneous microstructures using soft membrane deformation and optofluidic maskless lithography",
+      "authors": "Lee, S. A., Chung, S. E., Park, W., Lee, S. H., & Kwon, S.",
+      "journal_info": "Lab on a Chip, 9(12), 1670-1675.  (Cover Article)",
+      "citation": "Lee, S. A., Chung, S. E., Park, W., Lee, S. H., & Kwon, S. (2009). Three-dimensional fabrication of heterogeneous microstructures using soft membrane deformation and optofluidic maskless lithography. Lab on a Chip, 9(12), 1670-1675.  (Cover Article)",
+      "url": "https://doi.org/10.1039/B819999J",
+      "is_cover": false
+    },
+    {
+      "num": 67,
+      "year": 2008,
+      "title": "Guided and fluidic self-assembly of microstructures using railed microfluidic channels",
+      "authors": "Chung, S. E., Park, W., Shin, S., Lee, S. A., & Kwon, S.",
+      "journal_info": "Nature materials, 7(7), 581-587.  (Cover Article)",
+      "citation": "Chung, S. E., Park, W., Shin, S., Lee, S. A., & Kwon, S. (2008). Guided and fluidic self-assembly of microstructures using railed microfluidic channels. Nature materials, 7(7), 581-587.  (Cover Article)",
+      "url": "https://doi.org/10.1038/nmat2208",
+      "is_cover": false
+    },
+    {
+      "num": 68,
+      "year": 2007,
+      "title": "Optofluidic maskless lithography system for real-time synthesis of photopolymerized microstructures in microfluidic channels",
+      "authors": "Chung, S. E., Park, W., Park, H., Yu, K., Park, N., & Kwon, S.",
+      "journal_info": "Applied Physics Letters, 91(4).",
+      "citation": "Chung, S. E., Park, W., Park, H., Yu, K., Park, N., & Kwon, S. (2007). Optofluidic maskless lithography system for real-time synthesis of photopolymerized microstructures in microfluidic channels. Applied Physics Letters, 91(4).",
+      "url": "https://doi.org/10.1063/1.2759988",
+      "is_cover": false
+    }
+  ],
+  "conferences": [
+    {
+      "num": 1,
+      "year": 2025,
+      "scope": "International",
+      "citation": "Junghyun Bae, Jinsik Yoon, Sangmin Oh, Kibeom Kim, Hyeli Kim, Kahyun Hur, Hyesung Cho, Wook Park. Unclonable Key Generation Via Collision-Resistant Assembly of Morphologically Adaptive Adhesive Structures. The 29th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2025)."
+    },
+    {
+      "num": 2,
+      "year": 2025,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Junghyun Bae, Wook Park. CONDUCTIVE 2D SECURITY CODES WITH RESISTANCE-BASED RANDOM KEY GENERATION FOR ANTI-COUNTERFEITING APPLICATIONS. The 29th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2025)."
+    },
+    {
+      "num": 3,
+      "year": 0,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Sujeong Lim, Junghyun Bae, Wook Park. All-in-one automated immunoassay platform for high-sensitivity and expert-independent diagnostics. 9th Nano Today."
+    },
+    {
+      "num": 4,
+      "year": 2025,
+      "scope": "Domestic",
+      "citation": "Yeonju Sim, Wook Park. Surface modification of cellulose nanocrystals for improved adsorption performance. 2025 Spring Korean BioChip Society."
+    },
+    {
+      "num": 5,
+      "year": 2025,
+      "scope": "Domestic",
+      "citation": "Sujeong Lim, Wook Park. Optimizing DNA Encapsulation on Magnetic Nanoparticles for Advanced Data Storage and Security Application. 2025 Spring Korean BioChip Society."
+    },
+    {
+      "num": 6,
+      "year": 2025,
+      "scope": "Domestic",
+      "citation": "Dongwook Lee, Dayeon Shin, Hyeli Kim, Wook Park. Enhancing Stability of Lyophilized PCR Reagents in Point-of-Care Testing. 2025 Spring Korean BioChip Society."
+    },
+    {
+      "num": 7,
+      "year": 2025,
+      "scope": "Domestic",
+      "citation": "Junghyun Bae, Jinsik Yoon, Sangmin Oh, Kibeom Kim, Hyeli Kim, Kahyun Hur, Jungbin Cho, Hyesung Cho, Wook Park. Collision-Resistant Self-Assembly Using Shape Adaptive Sticky Traps for Unclonable Physical Key Generation. 2025 Spring Korean BioChip Society."
+    },
+    {
+      "num": 8,
+      "year": 2025,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Sujeong Lim, Junghyun Bae, Yoo-Bok Cho, Yong-Gyun Jung, Wook Park. VEUS: A Compact, Fully Automated Multiplex Immunoassay Platform for Enhanced Sensitivity and Reproducibility by Exploiting Chemically Treated Magnetic Particles. 14th International Conference on Chemistry and Chemical Process (ICCCP 2025)."
+    },
+    {
+      "num": 9,
+      "year": 2025,
+      "scope": "International",
+      "citation": "Junghyun Bae, Mingyeom Jeong, Cheolheon Park, Kibeom Kim, Wook Park. Frame QR-coded microparticles embedded with open and hidden data via fluorescence activation. 14th International Conference on Chemistry and Chemical Process (ICCCP 2025)."
+    },
+    {
+      "num": 10,
+      "year": 2025,
+      "scope": "International",
+      "citation": "Sujeong Lim, Wook Park. Optimizing DNA Encapsulation on Magnetic Nanoparticles for Advanced Data Storage and Security Application. 14th International Conference on Chemistry and Chemical Process (ICCCP 2025)."
+    },
+    {
+      "num": 11,
+      "year": 2025,
+      "scope": "International",
+      "citation": "Yeonju Sim, Wook Park. Surface modification of cellulose nanocrystals for improved adsorption performance. 14th International Conference on Chemistry and Chemical Process (ICCCP 2025)."
+    },
+    {
+      "num": 12,
+      "year": 2024,
+      "scope": "International",
+      "citation": "Junghyun Bae, Mingyeom Jeong, Cheolheon Park, Kibeom Kim, Wook Park. Dual-Frame QR-Coded Microtaggant Integrated with a Hidden Watermark. The 28th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2024)."
+    },
+    {
+      "num": 13,
+      "year": 2024,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Healin Im, Dong Hyuk Park, Sunkook Kim, Wook Park. Four-Dimensional Physical Unclonable Functions for Anti-Counterfeiting Applications Based on Organic Phosphor Crystal Micropatterns. The 28th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2024)."
+    },
+    {
+      "num": 14,
+      "year": 2024,
+      "scope": "Domestic",
+      "citation": "Mingyeom Jeong, Cheolheon Park, Junghyun Bae, Wook Park. Authentication Tag: UV-dependent fluorescence activation in microtaggant. 2024 Spring Korean BioChip Society."
+    },
+    {
+      "num": 15,
+      "year": 2024,
+      "scope": "Domestic",
+      "citation": "Chaeyoung Um, Eunmi Jang, Hyeli Kim, Wook Park*. Study of Microparticle Fabrication Using In-Channel Alignment of RSMPs. 2024 Spring Korean BioChip Society."
+    },
+    {
+      "num": 16,
+      "year": 2024,
+      "scope": "Domestic",
+      "citation": "Daehyeok Kang, Hyeli Kim, Wook Park. AuNP Detection through Light Scattering in Glass Capillary Tubes. 2024 Spring Korean BioChip Society."
+    },
+    {
+      "num": 17,
+      "year": 2024,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Jiyeong Kim, Sujeong Lim, Heelak Choi, Suk-Heung Song, Yoo-Bok Cho, Yong-Gyun Jung, Wook Park. Versatile Immunoassay Platform Based on Automated and Expert-Independent Antibody Immobilization by Rod-Shaped Magnetic Particles. 2024 Spring Korean BioChip Society."
+    },
+    {
+      "num": 18,
+      "year": 2024,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon,Wook Park. 광학 근접 보정 제어 및 회색조 광조사 기법 활용한 단일 광리소그래피 기반 3D 구조 제작. 2024 Winter annual conference of the Korean Vacuum Society."
+    },
+    {
+      "num": 19,
+      "year": 2024,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Minhyuk Lee, Hyeli Kim, Daewon Lee, Jangho Choi, Yeongjae Choi, Wook Park. 2024 Winter annual conference of the Korean Vacuum Society."
+    },
+    {
+      "num": 20,
+      "year": 2024,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Wook Park. 그레이스케일 리소그래피 및 입체 광학 근접 보정 기술 활용한 향상된 단일 광조사 3차원 프린팅 방법에 관한 연구. 2024 The Korean Institutes of Communications and Information Sciences (KICS) winter conference."
+    },
+    {
+      "num": 21,
+      "year": 2024,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Minhyuk Lee, Hyeli Kim, Daewon Lee, Jangho Choi, Yeongjae Choi, Wook Park. 습상 상태에서 위조 방지를 위한 이중 인증 기능의 홍채 모방 미세 입자. 2024 The Korean Institutes of Communications and Information Sciences (KICS) winter conference."
+    },
+    {
+      "num": 22,
+      "year": 2023,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Wook Park. Improved Single-Shot Three-Dimensional Printing Method by Exploiting Stereographic Optical Proximity Correction in Grayscale Lithography. The 27th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2023)."
+    },
+    {
+      "num": 23,
+      "year": 2022,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Wook Park. Bio-Inspired and Stimuli-Responsive Adhesive Hydrogel Structure Fabricated by Single-Exposure Photolithography. 2022 Materials Research Society (MRS) Fall Meeting."
+    },
+    {
+      "num": 24,
+      "year": 2022,
+      "scope": "Domestic",
+      "citation": "Minhyuk Lee, Cheolheon Park, Wook Park. Microparticles for Physical Unclonable Functions Using Crack. 2022 Spring Korean BioChip Society."
+    },
+    {
+      "num": 25,
+      "year": 2022,
+      "scope": "Domestic",
+      "citation": "Hyeli Kim, Wook Park. Fabrication of AgNW microheater using maskless lithography system. 2022 Spring Korean BioChip Society. (Outstanding Poster Presentation Award)"
+    },
+    {
+      "num": 26,
+      "year": 2022,
+      "scope": "Domestic",
+      "citation": "Yeomin Kang, Jongyoon Kim, Junnyung Cha, Wook Park. Flexible Cortisol Sensor based on NOA63 Substrate and AgNW electrode using maskless lithography. 2022 Spring Korean BioChip Society. (Outstanding Poster Presentation Award)"
+    },
+    {
+      "num": 27,
+      "year": 2022,
+      "scope": "Domestic",
+      "citation": "Seokjun Lim, Uigwan Shin, Junsu Park, Wook Park. Low cost, User friendly PCR device Using Solar thermal energy and Thermochromic label for Zero power consumption. 2022 Spring Korean BioChip Society. (Best Poster Presentation Award)"
+    },
+    {
+      "num": 28,
+      "year": 2022,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Wook Park. Three-dimensional Optical Proximity Correction for Fine-tuned Microstructure Fabrication. 2022 Spring Korean BioChip Society."
+    },
+    {
+      "num": 29,
+      "year": 2022,
+      "scope": "Domestic",
+      "citation": "Hyeli Kim, Goomin Kwon, Cheolheon Park, Jungmok You, Wook Park. 유연 기판과 은나노와이어를 이용한 위조방지 마이크로태그 제작. 2022 Korea Society of LEDs and Optoelectronics (KSLOE)."
+    },
+    {
+      "num": 30,
+      "year": 2022,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Wook Park. 투과도 조절을 활용한 마이크로정보입자 제작. 2022 Korea Society of LEDs and Optoelectronics (KSLOE)"
+    },
+    {
+      "num": 31,
+      "year": 2022,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Jaein Lee, Wheemyung Shin, Sung-Ho Bae, Wook Park. 무작위 분기패턴으로 인코딩된 마이크로 입자 제작. 2022 The Korean Institutes of Communications and Information Sciences (KICS) winter conference."
+    },
+    {
+      "num": 32,
+      "year": 2021,
+      "scope": "International",
+      "citation": "Jaein Lee, Wook Park. Fabrication of PUF Microparticles Using Artificial Marble Patterns. The 25th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2021)."
+    },
+    {
+      "num": 33,
+      "year": 2021,
+      "scope": "International",
+      "citation": "Minhyuk Lee, Cheolheon Park, Wook Park. Controlling the Crack Patterns onto the Silica-Coated Microparticles for Physical Unclonable Functions (PUFs). The 25th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2021)."
+    },
+    {
+      "num": 34,
+      "year": 2021,
+      "scope": "International",
+      "citation": "Hyeli Kim, Wook Park. Silver Nanowire Micropatterning of Various Concentrations Using Maskless Lithography. The 25th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2021)."
+    },
+    {
+      "num": 35,
+      "year": 2021,
+      "scope": "Domestic",
+      "citation": "김도희, 김환, 김기범, 박욱. 금박이 부착된 Hydrogel을 통한 DNA storage 구현. 2021 Summer Annual Conference of Institute of Electronics and Information Engineers (IEIE)."
+    },
+    {
+      "num": 36,
+      "year": 2021,
+      "scope": "Domestic",
+      "citation": "정보승, 김한비, 임석준, 김혜리, 박욱. 백신모니터링 시스템을 위한 flexible 온도/습도 센서 개발. 2021 Summer Annual Conference of Institute of Electronics and Information Engineers (IEIE)"
+    },
+    {
+      "num": 37,
+      "year": 2021,
+      "scope": "Domestic",
+      "citation": "이민혁, 박철헌, 박욱. 제어 가능한 이글루패턴의 복제 불가능한 마이크로입자. 2021 Summer Annual Conference of Institute of Electronics and Information Engineers (IEIE)"
+    },
+    {
+      "num": 38,
+      "year": 2021,
+      "scope": "Domestic",
+      "citation": "이재인, 박욱. 대리석모양의 패턴의 PUF 마이크로입자 제작. 2021 Summer Annual Conference of Institute of Electronics and Information Engineers (IEIE)"
+    },
+    {
+      "num": 39,
+      "year": 2021,
+      "scope": "Domestic",
+      "citation": "김혜리, 박욱. 실버나노와이어를 이용한 투명한 보안용 마이크로입자 제작. 2021 Summer Annual Conference of Institute of Electronics and Information Engineers (IEIE)"
+    },
+    {
+      "num": 40,
+      "year": 2020,
+      "scope": "International",
+      "citation": "Kibeom Kim, Wook Park. Fabrication of a Microparticle Coated with a Gold Nano Thin Film. The 24th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2020)."
+    },
+    {
+      "num": 41,
+      "year": 2020,
+      "scope": "International",
+      "citation": "Cheolheon Park, Yeongjae Choi, Sunghoon Kwon, Wook Park. Hydrogel-Based Microswimmer Moving Towards the Target Position with Recognition of Environmental Changes. The 24th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2020)."
+    },
+    {
+      "num": 42,
+      "year": 2020,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Wook Park. Reversible Underwater-Adhesive Hydrogel Microstructure Based on Photocrosslinking Gradient. The 24th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS2020)."
+    },
+    {
+      "num": 43,
+      "year": 2020,
+      "scope": "International",
+      "citation": "Hyeli Kim, Goomin Kwon, Jungmok You, Wook Park. Simple Method for Micro-Patterned Conductive Hydrogel Fabrication. The 24th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2020)."
+    },
+    {
+      "num": 44,
+      "year": 2020,
+      "scope": "Domestic",
+      "citation": "Sujeong Lim, Suk-Heung Song, Wook Park. Development of Micro Magnetic Particles with Improved Fluorescence Intensity. 2020 Fall Korean BioChip Society."
+    },
+    {
+      "num": 45,
+      "year": 2020,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Wook Park. Reversible Adhesive Encoded Microparticles in Liquid Phase. 2020 Fall Korean BioChip Society."
+    },
+    {
+      "num": 46,
+      "year": 2020,
+      "scope": "Domestic",
+      "citation": "김준호, 한민지, 박지훈, Wook Park. A Development of Highly Stretchable Cortisol Sensor. 2020 Spring Korean BioChip Society."
+    },
+    {
+      "num": 47,
+      "year": 2020,
+      "scope": "Domestic",
+      "citation": "Jaein Lee, Hyesung Cho, Wook Park. Hydrogel-Cellulose Fiber with Microchannel-Based Topography Controllability. 2020 Spring Korean BioChip Society."
+    },
+    {
+      "num": 48,
+      "year": 2020,
+      "scope": "Domestic",
+      "citation": "Hyeli Kim, Goomin Kwon, Wook Park, Jungmok You. Fabrication Method of Conductive Micropattern. 2020 Spring Korean BioChip Society."
+    },
+    {
+      "num": 49,
+      "year": 2019,
+      "scope": "International",
+      "citation": "Kibeom Kim, Wook Park. Fabrication of a Porous Microparticle Whose Transparency Changes According to the Surrounding Environment. The 23th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2019)."
+    },
+    {
+      "num": 50,
+      "year": 2019,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Wook Park. Stimuli-Responsive Hydrogel Instrument Based on Frame Transformation (Shift) by Utilizing Defocusing Photolithography Technique. The 23th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2019)."
+    },
+    {
+      "num": 51,
+      "year": 2019,
+      "scope": "International",
+      "citation": "Cheolheon Park, Yeongjae Choi, Hansol Choi, Seo Woo Song, Sunghoon Kwon, Wook Park. Self-Propelling Microswimmer with Controllable Motion. The 23th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2019)."
+    },
+    {
+      "num": 52,
+      "year": 2019,
+      "scope": "International",
+      "citation": "Suk-Heung Song, Sujeong Lim, Hye Yeon Choi, Gyu Dong Kim, Joo Ho Kim, Yong Gyun Jung, Wook Park. Low-Cost, Large-Scale, Continuous Production of Giant Magnetic Microparticles and Customized Functionalization. The 23th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2019)."
+    },
+    {
+      "num": 53,
+      "year": 2019,
+      "scope": "International",
+      "citation": "Junghyun Bae, Seojoo Kim, Wook Park. High-Yield Parallel Assembly of Single Sphere on Geometrically Designed Adhesive Polymer-Post. The 23th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2019)."
+    },
+    {
+      "num": 54,
+      "year": 2019,
+      "scope": "International",
+      "citation": "Suk-Heung Song, Sujeong Lim, Wook Park. New functional giant magnetic glass-coated particles for diagnostic medicine. The 17th International Nanotech Symposium & Exhibition (NANO KOREA 2019)."
+    },
+    {
+      "num": 55,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Hyeli Kim, Yeongjae Choi, Sunghoon Kwon, Wook Park. Deveolpment of Microvolume Container for Biobank. 2019 Fall Korean BioChip Society."
+    },
+    {
+      "num": 56,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Junghyun Bae, Seojoo Kim, Wook Park. High-Efficiency Assembly Rate Micro-particle Manipulation using Adhesive Post. 2019 Fall Korean BioChip Society."
+    },
+    {
+      "num": 57,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Wook Park. Hydrogel Sensor and Robot for Liquid Contamination and Delivery. 2019 Fall Korean BioChip Society."
+    },
+    {
+      "num": 58,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "김준호, Wook Park. An Optimized Method for Sweat Collection. 2019 Fall Korean BioChip Society."
+    },
+    {
+      "num": 59,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Sujeong Lim, Suk-Heung Song, Hye Yeon Choi, Gyu Dong Kim, Joo Ho Kim, Yong Gyun Jung, Wook Park. Fabrication of Giant Magnetic Glass-coated Particles for High Sensitivity Immunoassay Biomarker. 2019 Fall Korean BioChip Society."
+    },
+    {
+      "num": 60,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Wook Park. Self-Propelled Micro Swimmer with Controlable Motion by Fabrication of Selective Fuel Components. 2019 Fall Korean BioChip Society."
+    },
+    {
+      "num": 61,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Kibeom Kim, Wook Park. Fabrication of Microwell-based Digital PCR Platform with a Simplified Production Process by using Gold Foil. 2019 Fall Korean BioChip Society."
+    },
+    {
+      "num": 62,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Kibeom Kim, Wook Park. Fabrication of a Microporous Hydrogel Particle for a Bacterial Carrier. 2019 Spring Korean BioChip Society."
+    },
+    {
+      "num": 63,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Hyeli Kim, Yeongjae Choi, Sunghoon Kwon, Wook Park. Fabrication of Container for Protect the DNA. 2019 Spring Korean BioChip Society."
+    },
+    {
+      "num": 64,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Wook Park. Self-Propelled Micro Swimmer with Controlable Motion. 2019 Spring Korean BioChip Society."
+    },
+    {
+      "num": 65,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Junghyun Bae, Seojoo Kim, Wook Park. Microparticle Manipulation Method using UV Curing Adhesives. 2019 Spring Korean BioChip Society."
+    },
+    {
+      "num": 66,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Wook Park. Multi-responsive Hydrogel Actuators Based on Defocusing Photolithography. 2019 Spring Korean BioChip Society."
+    },
+    {
+      "num": 67,
+      "year": 2019,
+      "scope": "Domestic",
+      "citation": "Sujeong Lim, Suk-Heung Song, Hye Yeon Choi, Gyu Dong Kim, Joo Ho Kim, Yong Gyun Jung, Wook Park. Introduction of Newly Fabricated Giant Magnetic Glass-coated Particles with Customized Functionalization for Biological Applications. 2019 Spring Korean BioChip Society."
+    },
+    {
+      "num": 68,
+      "year": 0,
+      "scope": "International",
+      "citation": "Cheolheon Park, Jinsik Yoon, Wook Park. Igloo-Stock Patterning for Domain Separation of Surface on Microparticle by Dehydration and Rehydration Process. The 22th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS)."
+    },
+    {
+      "num": 69,
+      "year": 2018,
+      "scope": "International",
+      "citation": "Kibeom Kim, Wook Park. Grayscale Lithography System and Water Transfer Printing Method for Fabricating and Printing Biomimetic Structures. The 22th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2018)."
+    },
+    {
+      "num": 70,
+      "year": 2018,
+      "scope": "International",
+      "citation": "Junghyun Bae, Jiyoung Jung, Wook Park. Digital-Mask Shifting Technique to Prevent Motion Blur Effect on Moving Substrate. The 22th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2018)."
+    },
+    {
+      "num": 71,
+      "year": 2018,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Wook Park. Programmed Micropore Fabrication Technique Utilizing Non-Focus Area Photocuring Process. The 22th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2018)."
+    },
+    {
+      "num": 72,
+      "year": 2018,
+      "scope": "International",
+      "citation": "Seoju Kim, Junghyun Bae, Wook Park. Sticky Particle to Carry Multiple Microbeads for Batch Manipulation. The 22th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2018)."
+    },
+    {
+      "num": 73,
+      "year": 2018,
+      "scope": "International",
+      "citation": "Hyeli Kim, Jinsik Yoon, Wook Park. Fabrication of Encoded Microparticle-Container. The 22th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2018)."
+    },
+    {
+      "num": 74,
+      "year": 2018,
+      "scope": "Domestic",
+      "citation": "Junghyun Bae, Wook Park. Continuous Fabrication of Micropattern Using Mask-Shifting. 2018 Spring Korean BioChip Society."
+    },
+    {
+      "num": 75,
+      "year": 2018,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Jinsik Yoon, Wook Park. Igloo patterning for domain separationof surface on microparticleby dehydration and hydration process. 2018 Spring Korean BioChip Society."
+    },
+    {
+      "num": 76,
+      "year": 2018,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Wook Park. Fabrication of Omnidirectional and Restorable Three-dimensional Endoded Microparticles. 2018 Spring Korean BioChip Society."
+    },
+    {
+      "num": 77,
+      "year": 2018,
+      "scope": "Domestic",
+      "citation": "Seoju Kim, Wook Park. Sticky particle to carry multiple microbeads for bach manupulation. 2018 Spring Korean BioChip Society."
+    },
+    {
+      "num": 78,
+      "year": 2018,
+      "scope": "Domestic",
+      "citation": "Hyeli Kim, Wook Park. Fabrication of an endoded epoxy container to contain microparticles. 2018 Spring Korean BioChip Society."
+    },
+    {
+      "num": 79,
+      "year": 2018,
+      "scope": "Domestic",
+      "citation": "Suk-Heung Song, Sujeong Lim, Wook Park. Non-SphNon-Spherical Magnetic Glass-Coated Microparticle using Nanocrystalline Microwireserical Magnetic Glass-Coated Microparticle. 2018 Spring Korean BioChip Society."
+    },
+    {
+      "num": 80,
+      "year": 2018,
+      "scope": "Domestic",
+      "citation": "Kibeom Kim, Wook Park. Photothermal Digital PCR Using PDMS Vacuum Battery. 2018 Spring Korean BioChip Society."
+    },
+    {
+      "num": 81,
+      "year": 2018,
+      "scope": "Domestic",
+      "citation": "정찬욱, 유수현, 이기동, Junghyun Bae, Wook Park. Nano Patterning on the QR Code Microparticle for Anti-counterfeiting. 2018 Spring Korean BioChip Society."
+    },
+    {
+      "num": 82,
+      "year": 2017,
+      "scope": "International",
+      "citation": "Kibeom Kim, Wook Park. 3D Printed Roll-to-Roll Maskless Lithography System with Water-Soluble Substrate for Supplying a Manageable Microstructure. The 21th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2017)."
+    },
+    {
+      "num": 83,
+      "year": 2017,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Kibeom Kim, Yong-Gyun Jung, Wook Park. Single-Cell Based Morphological Analysis of Bacteria Using Microwell-Patterned Hydrogel Structure. The 21th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2017)."
+    },
+    {
+      "num": 84,
+      "year": 2017,
+      "scope": "International",
+      "citation": "S. Kim, H. Kim, Y. Choi, H. Bae, S. H. Song, S. Kwon, W. Park. Enhanced Storage Capacity of Information DNA Microparticle Using Porous Material. The 21th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2017)."
+    },
+    {
+      "num": 85,
+      "year": 2017,
+      "scope": "International",
+      "citation": "H. Kim, S. Kim, Y. Choi, H. Bae, S. H. Song, S. Kwon, W. Park. Simple Epoxy Encapsulation of Information DNA-Conjugated Microparticle for Long-Term Storage. The 21th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2017)."
+    },
+    {
+      "num": 86,
+      "year": 2017,
+      "scope": "International",
+      "citation": "Cheolheon Park, Sujeong Lim, Wook Park. QR-Coded Microparticle with Degradable Decode-Blocking Structure for Time-Traceability. The 21th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2017)."
+    },
+    {
+      "num": 87,
+      "year": 2017,
+      "scope": "International",
+      "citation": "J. Bae, H. Cho, H. Kang, G. Wu, J. Jollu, S. Yang, W. Park. Responsive Origami Pleats by Hygroscopic Actuations with Hierarchical Bumps. The 21th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2017)."
+    },
+    {
+      "num": 88,
+      "year": 2017,
+      "scope": "Domestic",
+      "citation": "J. Bae, H. Cho, H. Kang, G. Wu, J. Jollu, S. Yang, W. Park. Hygroscopic Foldable Membrane. 2017 Spring Korean BioChip Society."
+    },
+    {
+      "num": 89,
+      "year": 2017,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Sujeong Lim, Wook Park. QR-coded Microparticle with Degradable Decode-blocking Structure for Time-traceability. 2017 Spring Korean BioChip Society."
+    },
+    {
+      "num": 90,
+      "year": 2017,
+      "scope": "Domestic",
+      "citation": "Sujeong Lim, Suk-Heung Song, Wook Park.Preparation of non-spherical microparticles with degradable properties using emulsion-evaporation method. 2017 Spring Korean BioChip Society."
+    },
+    {
+      "num": 91,
+      "year": 2017,
+      "scope": "Domestic",
+      "citation": "Suk-Heung Song, Hyeli Kim, Wook Park. Non-spherical/asymmetric microparticle fabricating technique using magnetic nanocrystalline glass-coated microwires. 2017 Spring Korean BioChip Society."
+    },
+    {
+      "num": 92,
+      "year": 2017,
+      "scope": "Domestic",
+      "citation": "Kibeom Kim, Wook Park. Microstructure handling using water-soluble substrate-based maskless lithography system. 2017 Spring Korean BioChip Society."
+    },
+    {
+      "num": 93,
+      "year": 2017,
+      "scope": "Domestic",
+      "citation": "H. Kim, S. Kim, Y. Choi, H. Bae, S. H. Song, S. Kwon, W. Park. Coating method for DNA hydrogel microparticle. 2017 Spring Korean BioChip Society."
+    },
+    {
+      "num": 94,
+      "year": 2017,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Wook Park.Fabrication of Secret-Encoded Three-dimensional Microparticles. 2017 Spring Korean BioChip Society."
+    },
+    {
+      "num": 95,
+      "year": 2017,
+      "scope": "Domestic",
+      "citation": "S. Kim, H. Kim, Y. Choi, H. Bae, S. H. Song, S. Kwon, W. Park. Ultra-high density information DNA microparticle using porous hydrogel. 2017 Spring Korean BioChip Society."
+    },
+    {
+      "num": 96,
+      "year": 2016,
+      "scope": "International",
+      "citation": "Kibeom Kim, Wook Park. Fabricating a microstructure forming an internal microchannel by controlling crystalline camphor. Lab-on-a-chip ASIA Microcluidics, Point-of-Care Diagnostics & Organ-on-a-Chip (LOACA 2016)."
+    },
+    {
+      "num": 97,
+      "year": 2016,
+      "scope": "International",
+      "citation": "Cheolheon Park, Hyung Jong Bae, Suk-Heung Song, Kibeom Kim, Jinsik Yoon, Sunghoon Kwon, Wook Park. Fabrication of a wrinkled microparticle including multiple wavelength for anti-conterfeiting using gray optofluidic maskless lithography. Lab-on-a-chip ASIA Microcluidics, Point-of-Care Diagnostics & Organ-on-a-Chip (LOACA 2016)."
+    },
+    {
+      "num": 98,
+      "year": 2016,
+      "scope": "International",
+      "citation": "K. Kim, W. Park. Fabricating Veined Microstructure Using On-Demand Crystallization in a Microfluidic Channel. The 20th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2016)."
+    },
+    {
+      "num": 99,
+      "year": 2016,
+      "scope": "International",
+      "citation": "J. Yoon, W. Park. Edge Lighting Technique for Directionally Encoded Microparticles. The 20th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2016)."
+    },
+    {
+      "num": 100,
+      "year": 2016,
+      "scope": "International",
+      "citation": "Cheolheon Park, Hyung Jong Bae, Suk Heung Song, Sunghoon Kwon, Wook Park. Control of Wrinkle Density on Wrinkled Microparticles Using Grayscale Optofluidic Maskless Lithography. The 20th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2016)."
+    },
+    {
+      "num": 101,
+      "year": 2016,
+      "scope": "International",
+      "citation": "J. Bae, W. Park. Assembly of Heterogeneous Zipper-Structure Microfiber. The 20th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2016)."
+    },
+    {
+      "num": 102,
+      "year": 2016,
+      "scope": "Domestic",
+      "citation": "W. Park. 3D Printed Microhydrogel. 2016 Spring Korean BioChip Society."
+    },
+    {
+      "num": 103,
+      "year": 2016,
+      "scope": "Domestic",
+      "citation": "K. Kim, W. Park. On-demand Crystalization for Fabricating Veined Microstructure. 2016 Spring Korean BioChip Society."
+    },
+    {
+      "num": 104,
+      "year": 2016,
+      "scope": "Domestic",
+      "citation": "Suk-Heung Song, Kibeom Kim, Cheolheon Park, Jinsik Yoon, Junghyun Bae, Wook Park. Representing Digital Data in DNA. 2016 Spring Korean BioChip Society."
+    },
+    {
+      "num": 105,
+      "year": 2016,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Suk-Heung Song, Wook Park. The Control of Wrinkle Density of Wrinkled Microparticles Using Grayscale Optofluidic Maskless Lithography. 2016 Spring Korean BioChip Society."
+    },
+    {
+      "num": 106,
+      "year": 2016,
+      "scope": "Domestic",
+      "citation": "J. Yoon, W. Park. Edge Lighting Encoded Microparticles for Authentication. 2016 Spring Korean BioChip Society."
+    },
+    {
+      "num": 107,
+      "year": 2016,
+      "scope": "Domestic",
+      "citation": "J. Bae, W. Park. Assembly of Heterogeneous Microfiber Using Zipper. 2016 Spring Korean BioChip Society."
+    },
+    {
+      "num": 108,
+      "year": 2016,
+      "scope": "Domestic",
+      "citation": "서경호, K. Kim, W. Park. Adhesive Level Control of UV Tape Using Grayscale Maskless Lithography. 2016 Spring Korean BioChip Society."
+    },
+    {
+      "num": 109,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Kibeom Kim, Junghyun Bae, Cheolheon Park, Suk Heung Song, Wook Park. 3D Printing of Microstructures based on Optofluidic Maskless Lithography. The 19th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2015)."
+    },
+    {
+      "num": 110,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Suk Heung Song, Junghyun Bae, Wook Park. Optofluidic synthesis of oxygen-enriched hydrogel microcarrier. The 19th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2015)."
+    },
+    {
+      "num": 111,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Cheolheon Park, Suk Heung Song, Wook Park. Polymeric deformable spiral microparticle flowing narrow microfluidic channel. The 19th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2015)."
+    },
+    {
+      "num": 112,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Kibeom Kim, Suk Heung Song, Wook Park. Synthesis of Crystal-structure Microparticles Using Camphor. The 19th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2015)."
+    },
+    {
+      "num": 113,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Junghyun Bae, Jinsik Yoon, Suk Heung Song, Kibeom Kim, Cheolheon Park, Wook Park. Fabrication of Polymeric Encoded Microfiber UsingMotorized Controlling System. The 19th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2015)."
+    },
+    {
+      "num": 114,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Suk Heung Song, Junghyun Bae, Wook Park. Optofluidic synthesis of oxygen-enriched hydrogel microparticle. 7th International Symposium on Microchemistry and Microsystems (ISMM 2015)."
+    },
+    {
+      "num": 115,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Jinsik Yoon, Junghyun Bae, Kibeom Kim, Cheolheon Park, Suk Heung Song, Wook Park. Enhanced 3D Object Fabrication using Optofluidic Maskless Lithography. 7th International Symposium on Microchemistry and Microsystems (ISMM 2015)."
+    },
+    {
+      "num": 116,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Cheolheon Park, Suk Heung Song, Wook Park. High deformable spiral hydrogel microparticles. 7th International Symposium on Microchemistry and Microsystems (ISMM 2015)."
+    },
+    {
+      "num": 117,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Junghyun Bae, Jinsik Yoon, Suk Heung Song, Kibeom Kim, Cheolheon Park, Wook Park. Micro fiber: composed of controllable tagged micropatterns. 7th International Symposium on Microchemistry and Microsystems (ISMM 2015)."
+    },
+    {
+      "num": 118,
+      "year": 2015,
+      "scope": "International",
+      "citation": "Kibeom Kim, Jinsik Yoon, Wook Park. Wobulation Technique to Enhance a Resolution of Optofluidic Maskless Lithography. 7th International Symposium on Microchemistry and Microsystems (ISMM 2015)."
+    },
+    {
+      "num": 119,
+      "year": 2015,
+      "scope": "Domestic",
+      "citation": "Kibeom Kim, Wook Park. Fabrication of Crystal-Shaped Microparticles with Camphor for Bacterial Carriers. 2015 Spring Korean BioChip Society."
+    },
+    {
+      "num": 120,
+      "year": 2015,
+      "scope": "Domestic",
+      "citation": "Junghyun Bae, Wook Park. Fabrication of patterned microfiber using optofluidic maskless lithography. 2015 Spring Korean BioChip Society."
+    },
+    {
+      "num": 121,
+      "year": 2015,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Suk Heung Song, Wook Park. Fabrication of Polymeric Deformable Spiral Microparticle. 2015 Spring Korean BioChip Society."
+    },
+    {
+      "num": 122,
+      "year": 2015,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Junghyun Bae, Kibeom Kim, Cheolheon Park, Suk Heung Song, Wook Park. 3D printing microstructures in a microfluidic channel. 2015 Spring Korean BioChip Society."
+    },
+    {
+      "num": 123,
+      "year": 2014,
+      "scope": "International",
+      "citation": "Kibeom Kim, Wook Park. Arbitrarily Shaped Porous Microparticles with an Immiscible Solution for Carrier of Bacteria. The 18th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2014)."
+    },
+    {
+      "num": 124,
+      "year": 2014,
+      "scope": "International",
+      "citation": "S. H. Song, K. Kim, J. Yun, S. Han, S. Kwon, W. Park. Microstructure Formation by Optofluidic Maskless Lithography Using Fine-Tuned Grayscale. The 18th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2014)."
+    },
+    {
+      "num": 125,
+      "year": 2014,
+      "scope": "International",
+      "citation": "J. S. Yoon, S. H. Song, W. Park. Modulated Dynamic Mask for Uniform Exposure in Maskless Photolithography. The 18th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2014)."
+    },
+    {
+      "num": 126,
+      "year": 2014,
+      "scope": "International",
+      "citation": "Y.R. Yun, Y.G. Jung, S.H. Song , S. Kwon, W. Park. A Concentration Gradient Nib as Novel Tool for Antibiotic Susceptibility Testing. The 18th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2014)."
+    },
+    {
+      "num": 127,
+      "year": 2014,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Hyung Jong Bae, Sunghoon Kwon, Wook Park. Fabrication of nanocracks on silica-coated microparticle. 2014 Spring Korean BioChip Society."
+    },
+    {
+      "num": 128,
+      "year": 2014,
+      "scope": "Domestic",
+      "citation": "Jinsik Yoon, Wook Park. Uniform photolithography using modulated dynamic mask. 2014 Spring Korean BioChip Society."
+    },
+    {
+      "num": 129,
+      "year": 2014,
+      "scope": "Domestic",
+      "citation": "Kibeom Kim, Wook Park. Arbitrarily Shaped porous microparticle with immiscible solution. 2014 Spring Korean BioChip Society."
+    },
+    {
+      "num": 130,
+      "year": 2014,
+      "scope": "Domestic",
+      "citation": "Youngran Yun, Sunghoon Kwon, Yong-Gyun Jung, Wook Park. A novel antibiotic susceptibility testing by making gradient using a marker nib. 2014 Spring Korean BioChip Society."
+    },
+    {
+      "num": 131,
+      "year": 2013,
+      "scope": "Domestic",
+      "citation": "Youngran Yun, Wook Park. Rapid Patterning Concentration Gradient Using Nib. 2013 Fall Korean BioChip Society."
+    },
+    {
+      "num": 132,
+      "year": 2013,
+      "scope": "Domestic",
+      "citation": "Kibeom Kim, Jinsik Yoon, Wook Park. Wobulation for Optofluidic Maskless Lithography. 2013 Fall Korean BioChip Society."
+    },
+    {
+      "num": 133,
+      "year": 2013,
+      "scope": "Domestic",
+      "citation": "Cheolheon Park, Hyung Jong Bae, Sunghoon Kwon, Wook Park. The control of wrinkle pattern density on microparticle using porogen. 2013 Fall Korean BioChip Society."
+    },
+    {
+      "num": 134,
+      "year": 2012,
+      "scope": "International",
+      "citation": "Sangkwon Han, Hyung Jong Bae, Junhoi Kim, Sunghwan Shin, Sunghoon Kwon, Wook Park. Drug Authentication Using High Capacity and Error-Correctable Encoded Microtaggants. The 16th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2012)."
+    },
+    {
+      "num": 135,
+      "year": 2012,
+      "scope": "International",
+      "citation": "Hyung Jong Bae, Arang Lee, Sangkwon Han, Lily Nari Kim, Sunghoon Kwon, Wook Park. Fabrication of Tunable Wrinkle-Patterned Microparticle via Silica-Coating. The 16th International Conference on Miniaturized Systems for Chemistry and Life Sciences-Micro-Total Analysis Systems (µTAS 2012)."
+    },
+    {
+      "num": 136,
+      "year": 2012,
+      "scope": "Domestic",
+      "citation": "배형종, 한상권, 김준회, 신성환, 권성훈, 박욱. 약품위조방지를 위한 고용량, 에러복원 코드화 입자 생성. 2012년 한국물리학회 가을학술논문발표회."
+    }
+  ],
+  "patents": [
+    {
+      "num": 1,
+      "country": "US",
+      "year": 2025,
+      "title": "Microparticles for detecting biological materials and method for detecting biological materials using the same",
+      "title_ko": "생체물질 검출용 마이크로 입자 및 이를 이용한 생체물질 검출 방법",
+      "patent_number": "US12493028B2",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Yong-Gyun, J. U. N. G., Kim, J. H., Park, W., Song, S. H., & KIM, G. D. (2025). U.S. Patent No. 12,493,028. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US12493028B2/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 등록 완료 (출원 #11 US 17/285,890 등록 전환)",
+        "en": "Granted U.S. Patent (from App. US 17/285,890)"
+      }
+    },
+    {
+      "num": 2,
+      "country": "US",
+      "year": 2025,
+      "title": "Apparatus and method for manufacturing phase masks for lens-less camera",
+      "title_ko": "렌즈리스 카메라를 위한 위상 마스크 제조 장치 및 방법",
+      "patent_number": "US12343954B2",
+      "publication_number": "",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "granted",
+      "citation": "Lee, S. A., Lee, K. C., BAEK, N. K., Park, W., Bae, J. H., & Jung, J. (2025). U.S. Patent No. 12,343,954. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US12343954B2/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 등록 완료 (한국 등록 KR 10-2650328 패밀리)",
+        "en": "Granted U.S. Patent (KR Counterpart: 10-2650328)"
+      }
+    },
+    {
+      "num": 3,
+      "country": "KR",
+      "year": 2024,
+      "title": "Phase Mask Design Method and Apparatus for Lensless Camera",
+      "title_ko": "렌즈리스 카메라를 위한 위상 마스크 설계 방법 및 장치",
+      "patent_number": "KR102711130B1",
+      "publication_number": "",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "granted",
+      "citation": "Lee, S.A., L, K.C., Baek, N.K., Park, W., Bae, J.H. (2024). Korea Patent Registration No. 10-2711130.",
+      "url": "https://patents.google.com/patent/KR102711130B1/en",
+      "doi_url": "https://doi.org/10.8080/1020220033180?urlappend=en",
+      "family_note": {
+        "ko": "대한민국 등록특허 (연세대-경희대 공동 발명)",
+        "en": "Registered KR Patent (Joint KHU–Yonsei IP)"
+      }
+    },
+    {
+      "num": 4,
+      "country": "KR",
+      "year": 2024,
+      "title": "Apparatus and Method for Manufacturing Phase Masks for Lens-Less Camera",
+      "title_ko": "렌즈리스 카메라를 위한 위상 마스크 제조 장치 및 방법",
+      "patent_number": "KR102650328B1",
+      "publication_number": "",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "granted",
+      "citation": "Lee, S.A., L, K.C., Baek, N.K., Park, W., Bae, J.H. (2024). Korea Patent Registration No. 10-2650328.",
+      "url": "https://patents.google.com/patent/KR102650328B1/en",
+      "doi_url": "https://doi.org/10.8080/1020220046721?urlappend=en",
+      "family_note": {
+        "ko": "대한민국 등록특허 (미국 등록 US 12,343,954 패밀리)",
+        "en": "Registered KR Patent (US Grant: 12,343,954)"
+      }
+    },
+    {
+      "num": 5,
+      "country": "US",
+      "year": 2024,
+      "title": "Method for fabrication of non-spherical/asymmetric fine particles by using glass-coated metal wires",
+      "title_ko": "글라스-코팅 미세와이어를 이용한 비구형/비대칭 미립자의 제조방법",
+      "patent_number": "US12121974B2",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Park, W., & Song, S. H. (2024). U.S. Patent No. 12,121,974. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US12121974B2/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 등록 완료 (한국 등록 KR 10-2082187 패밀리)",
+        "en": "Granted U.S. Patent (KR Counterpart: 10-2082187)"
+      }
+    },
+    {
+      "num": 6,
+      "country": "US",
+      "year": 2024,
+      "title": "Method for isolation and morphological analysis of cells",
+      "title_ko": "세포의 격리 및 형태학적 분석 방법",
+      "patent_number": "US12059682B2",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Jung, Y. G., Kim, J. H., Park, W., Yoon, J. S., & Song, S. H. (2024). U.S. Patent No. 12,059,682. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US12059682B2/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 등록 완료 (한국 등록 KR 10-2170803 패밀리)",
+        "en": "Granted U.S. Patent (KR Counterpart: 10-2170803)"
+      }
+    },
+    {
+      "num": 7,
+      "country": "US",
+      "year": 2024,
+      "title": "Biochemical carriers capable of storage, preservation and indexing and method for fabricating the same",
+      "title_ko": "저장, 보존 및 색인이 가능한 생화학 물질 운반체 및 이의 제조방법",
+      "patent_number": "US11987693B2",
+      "publication_number": "",
+      "domain": "dna",
+      "domain_label": {
+        "ko": "DNA 데이터 저장",
+        "en": "DNA Storage"
+      },
+      "status_type": "granted",
+      "citation": "Kwon, S. H., Park, W., Choi, Y. J., Bae, H. J., Ryu, T. H., & Song, S. H. (2024). U.S. Patent No. 11,987,693. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US11987693B2/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 등록 완료 (한국 등록 KR 10-2060306 패밀리)",
+        "en": "Granted U.S. Patent (KR Counterpart: 10-2060306)"
+      }
+    },
+    {
+      "num": 8,
+      "country": "KR",
+      "year": 2023,
+      "title": "Method of manufacturing microstructure attached with gold thin film",
+      "title_ko": "금 박막이 부착된 미세구조물의 제조방법",
+      "patent_number": "KR102624271B1",
+      "publication_number": "",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "granted",
+      "citation": "Park, W., Kim, K.B. (2023). Korea Patent Registration No. 10-2624271.",
+      "url": "https://patents.google.com/patent/KR102624271B1/en",
+      "doi_url": "https://doi.org/10.8080/1020210011384?urlappend=en"
+    },
+    {
+      "num": 9,
+      "country": "US",
+      "year": 2023,
+      "title": "MICROCARRIER BASED-4 DIMENSIONAL CELL CULTURE APPARATUS AND METHOD FOR MONITORING CELL CULTURE USING THE SAME",
+      "title_ko": "마이크로캐리어 기반 4차원 세포 배양기 및 이를 이용한 세포배양 모니터링 방법",
+      "patent_number": "US17/799,297",
+      "publication_number": "US20230112108A1",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "application",
+      "citation": "Lee, E., Park, W., & Kim, T. W. (2023). U.S. Patent Application No. 17/799,297.",
+      "url": "https://patents.google.com/patent/US20230112108A1/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 공개출원 · 등록결정 (한국 등록 KR 10-2458606 패밀리)",
+        "en": "Published U.S. App. (KR Counterpart: 10-2458606)"
+      }
+    },
+    {
+      "num": 10,
+      "country": "KR",
+      "year": 2023,
+      "title": "Chaotic phosphorescent physical unclonable functions(puf) and manufacturing method thereof",
+      "title_ko": "카오틱 인광 puf 및 이의 제조 방법",
+      "patent_number": "KR102539615B1",
+      "publication_number": "",
+      "domain": "security",
+      "domain_label": {
+        "ko": "보안 · PUF",
+        "en": "Security & PUF"
+      },
+      "status_type": "granted",
+      "citation": "Park, W., Kim, S.K., Yoon, J.S, Im, H.L. (2023). Korea Patent Registration No. 10-2539615.",
+      "url": "https://patents.google.com/patent/KR102539615B1/en",
+      "doi_url": "https://doi.org/10.8080/1020210157420?urlappend=en",
+      "family_note": {
+        "ko": "대한민국 등록특허 (4차원 카오틱 인광 PUF 원천특허)",
+        "en": "Registered KR Patent (Core 4D Chaotic PUF IP)"
+      }
+    },
+    {
+      "num": 11,
+      "country": "KR",
+      "year": 2022,
+      "title": "Stereo litho graphy apparatus and method driving the same",
+      "title_ko": "스테레오 리소 그래피 장치 및 이를 구동하는 방법",
+      "patent_number": "KR102476790B1",
+      "publication_number": "",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "granted",
+      "citation": "Park, W., Kim, K.B., Kim, H.L., Lee, J. I. (2022). Korea Patent Registration No. 10-2476790.",
+      "url": "https://patents.google.com/patent/KR102476790B1/en",
+      "doi_url": "https://doi.org/10.8080/1020200133476?urlappend=en",
+      "family_note": {
+        "ko": "대한민국 등록특허 (등록번호 정정: 10-2476790)",
+        "en": "Registered KR Patent (Reg. No. 10-2476790)"
+      }
+    },
+    {
+      "num": 12,
+      "country": "US",
+      "year": 2022,
+      "title": "Apparatus and method for manufacturing phase masks for lens-less camera",
+      "title_ko": "렌즈리스 카메라를 위한 위상 마스크 제조 장치 및 방법",
+      "patent_number": "US12343954B2",
+      "publication_number": "US20220347952A1",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "application",
+      "citation": "Lee, S. A., Lee, K. C., Baek, N. K., Park, W., Bae, J. H., & Jung, J. (2022). U.S. Patent Application No. 17/733,114.",
+      "url": "https://patents.google.com/patent/US20220347952A1/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 공개출원 ➔ 2025년 US 12,343,954 등록 완료",
+        "en": "Published U.S. App. ➔ Granted as US 12,343,954"
+      }
+    },
+    {
+      "num": 13,
+      "country": "US",
+      "year": 2022,
+      "title": "Transparent disc-shaped microparticles coated with polydopamine",
+      "title_ko": "폴리도파민으로 코팅된 투명 원반형 마이크로입자",
+      "patent_number": "US11447733B2",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Oh, T. I., Kim, S. H., Park, W., & Lee, E. A. (2022). U.S. Patent No. 11,447,733. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US11447733B2/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 등록 완료 (한국 등록 KR 10-1941361 패밀리)",
+        "en": "Granted U.S. Patent (KR Counterpart: 10-1941361)"
+      }
+    },
+    {
+      "num": 14,
+      "country": "KR",
+      "year": 2022,
+      "title": "Microcarrier based-4 dimensional cell culture apparatus and method for monitoring cell culture using the same",
+      "title_ko": "마이크로캐리어 기반 4차원 세포 배양기 및 이를 이용한 세포배양 모니터링 방법",
+      "patent_number": "KR102458606B1",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Lee, E.A., Park, W.,Kim, T.W. (2022). Korea Patent Registration No. 10-2458606.",
+      "url": "https://patents.google.com/patent/KR102458606B1/en",
+      "doi_url": "https://doi.org/10.8080/1020200028471?urlappend=en"
+    },
+    {
+      "num": 15,
+      "country": "US",
+      "year": 2021,
+      "title": "Microparticles for detecting biological materials and method for detecting biological materials using the same",
+      "title_ko": "생체물질 검출용 마이크로 입자 및 이를 이용한 생체물질 검출 방법",
+      "patent_number": "US12493028B2",
+      "publication_number": "US20210341470A1",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "application",
+      "citation": "Yong-Gyun, J. U. N. G., Kim, J. H., Park, W., Song, S. H., & Kim, G. D. (2021). U.S. Patent Application No. 17/285,890.",
+      "url": "https://patents.google.com/patent/US20210341470A1/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 공개출원 ➔ 2025년 US 12,493,028 등록 완료",
+        "en": "Published U.S. App. ➔ Granted as US 12,493,028"
+      }
+    },
+    {
+      "num": 16,
+      "country": "KR",
+      "year": 2021,
+      "title": "Method and apparatus for quantitative distribution of aspherical/asymmetric magnetic particles",
+      "title_ko": "비구형/비대칭 자성 미립자의 정량분배 방법 및 장치",
+      "patent_number": "KR102275742B1",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Park, W., Song, S.H., Yoon, J.S. (2021). Korea Patent Registration No. 10-2275742.",
+      "url": "https://patents.google.com/patent/KR102275742B1/en",
+      "doi_url": "https://doi.org/10.8080/1020200010564?urlappend=en"
+    },
+    {
+      "num": 17,
+      "country": "US",
+      "year": 2021,
+      "title": "DNA digital data storage device and method, and decoding method of DNA digital data",
+      "title_ko": "Dna 디지털 데이터 저장 장치 및 저장 방법, 그리고 디코딩 방법",
+      "patent_number": "US10929039B2",
+      "publication_number": "",
+      "domain": "dna",
+      "domain_label": {
+        "ko": "DNA 데이터 저장",
+        "en": "DNA Storage"
+      },
+      "status_type": "granted",
+      "citation": "Kwon, S., Park, W., Yeongjae, C. H. O. I., Taehoon, R. Y. U., Song, S. H., Kim, H., & Kim, S. (2021). U.S. Patent No. 10,929,039. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US10929039B2/en",
+      "doi_url": "",
+      "family_note": {
+        "ko": "미국 등록 완료 (한국 등록 KR 10-2138864 패밀리)",
+        "en": "Granted U.S. Patent (KR Counterpart: 10-2138864)"
+      }
+    },
+    {
+      "num": 18,
+      "country": "KR",
+      "year": 2020,
+      "title": "Method for isolation and morphological analysis of cells",
+      "title_ko": "세포의 격리 및 형태학적 분석 방법",
+      "patent_number": "KR102170803B1",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Jung, Y.G., Kim, J.H., Park, W., Yoon, J.S., Song, S.H. (2020). Korea Patent Registration No. 10-2170803.",
+      "url": "https://patents.google.com/patent/KR102170803B1/en",
+      "doi_url": "https://doi.org/10.8080/1020180125218?urlappend=en"
+    },
+    {
+      "num": 19,
+      "country": "KR",
+      "year": 2020,
+      "title": "Dna digital data storage device and method, and decoding method of dna digital data storage device",
+      "title_ko": "Dna 디지털 데이터 저장 장치 및 저장 방법, 그리고 디코딩 방법",
+      "patent_number": "KR102138864B1",
+      "publication_number": "",
+      "domain": "dna",
+      "domain_label": {
+        "ko": "DNA 데이터 저장",
+        "en": "DNA Storage"
+      },
+      "status_type": "granted",
+      "citation": "Kwon, S.H., Park, W., Choi, Y.J., Ryu, T.H., Song, S.H., Kim, H.L. (2020). Korea Patent Registration No. 10-2138864.",
+      "url": "https://patents.google.com/patent/KR102138864B1/en",
+      "doi_url": "https://doi.org/10.8080/1020180042269?urlappend=en"
+    },
+    {
+      "num": 20,
+      "country": "KR",
+      "year": 2019,
+      "title": "Biochemical carrier capable of storing, preserving and indexing, and manufacturing method thereof",
+      "title_ko": "저장, 보존 및 색인이 가능한 생화학 물질 운반체 및 이의 제조방법",
+      "patent_number": "KR102060306B1",
+      "publication_number": "",
+      "domain": "dna",
+      "domain_label": {
+        "ko": "DNA 데이터 저장",
+        "en": "DNA Storage"
+      },
+      "status_type": "granted",
+      "citation": "Kwon, S.H., Park, W., Choi, Y.J., Bae H.J., Ryu, T.H., Song, S.H. (2019). Korea Patent Registration No. 10-2060306.",
+      "url": "https://patents.google.com/patent/KR102060306B1/en",
+      "doi_url": "https://doi.org/10.8080/1020170128986?urlappend=en"
+    },
+    {
+      "num": 21,
+      "country": "KR",
+      "year": 2018,
+      "title": "Method for Non-spherical/asymmetric Microparticles Using Glass-coated Microwires",
+      "title_ko": "글라스-코팅 미세와이어를 이용한 비구형/비대칭 미립자의 제조방법",
+      "patent_number": "KR102082187B1",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Park, W., Song, S.H. (2018). Korea Patent Registration No. 10-2082187.",
+      "url": "https://patents.google.com/patent/KR102082187B1/en",
+      "doi_url": "https://doi.org/10.8080/1020180053133?urlappend=en"
+    },
+    {
+      "num": 22,
+      "country": "KR",
+      "year": 2018,
+      "title": "Apparatus and Method for Automatically Coating Hydrogel Particles",
+      "title_ko": "하이드로겔 입자의 자동 코팅 장치 및 방법",
+      "patent_number": "KR101879585B1",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Kwon, S.H., Park, W., Choi, Y.J., Bae H.J., Ryu, T.H., Song, S.H. (2018). Korea Patent Registration No. 10-1879585.",
+      "url": "https://patents.google.com/patent/KR101879585B1/en",
+      "doi_url": "https://doi.org/10.8080/1020160128835?urlappend=en"
+    },
+    {
+      "num": 23,
+      "country": "KR",
+      "year": 2018,
+      "title": "Information particle, producing method and decoding method thereof",
+      "title_ko": "정보 입자, 정보 입자 생성 방법 및 디코딩 방법",
+      "patent_number": "KR101855889B1",
+      "publication_number": "",
+      "domain": "security",
+      "domain_label": {
+        "ko": "보안 · PUF",
+        "en": "Security & PUF"
+      },
+      "status_type": "granted",
+      "citation": "Park, W., Yoon, J.S. (2018). Korea Patent Registration No. 10-1855889.",
+      "url": "https://patents.google.com/patent/KR101855889B1/en",
+      "doi_url": "https://doi.org/10.8080/1020160155400?urlappend=en"
+    },
+    {
+      "num": 24,
+      "country": "KR",
+      "year": 2017,
+      "title": "Transparent disk type microparticles coated with polydopamine",
+      "title_ko": "폴리도파민으로 코팅된 투명 원반형 마이크로입자",
+      "patent_number": "KR101941361B1",
+      "publication_number": "",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "granted",
+      "citation": "Oh, T.I., Kim, S.H., Park, W., Lee, E.A. (2017). Korea Patent Registration No. 10-1941361.",
+      "url": "https://patents.google.com/patent/KR101941361B1/en",
+      "doi_url": "https://doi.org/10.8080/1020170021375?urlappend=en"
+    },
+    {
+      "num": 25,
+      "country": "US",
+      "year": 2014,
+      "title": "Optofluidic lithography system, method of manufacturing two-layered microfluid channel, and method of manufacturing three-dimensional microstructures",
+      "title_ko": "광미세유체 리소그래피 시스템, 2층 미세유체 채널의 제조방법 및 3차원 미세구조물의 제조방법",
+      "patent_number": "US8641404B2",
+      "publication_number": "",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "granted",
+      "citation": "Kwon, S., Lee, S., Park, W., & Chung, S. E. (2014). U.S. Patent No. 8,641,404. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US8641404B2/en",
+      "doi_url": ""
+    },
+    {
+      "num": 26,
+      "country": "US",
+      "year": 2013,
+      "title": "FLUDIC CHANNEL SYSTEM AND METHOD FOR FABRICATING FINE STRUCTURE",
+      "title_ko": "유체 채널 시스템 및 미세 구조물의 제조 방법",
+      "patent_number": "US13/800,428",
+      "publication_number": "US20130207315A1",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "application",
+      "citation": "Kwon, S., Kim, J. Y., Park, W., Park, H. S., Lee, S. A., & Chung, S. E. (2013). U.S. Patent Application No. 13/800,428.",
+      "url": "https://patents.google.com/patent/US20130207315A1/en",
+      "doi_url": ""
+    },
+    {
+      "num": 27,
+      "country": "US",
+      "year": 2013,
+      "title": "Fluidic channel system and method for fabricating fine structure",
+      "title_ko": "유체 채널 시스템 및 미세 구조물의 제조 방법",
+      "patent_number": "US8408892B2",
+      "publication_number": "",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "granted",
+      "citation": "Kwon, S., Kim, J., Park, W., Hyunsung, P. A. R. K., Lee, S., & Chung, S. (2013). U.S. Patent No. 8,408,892. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US8408892B2/en",
+      "doi_url": ""
+    },
+    {
+      "num": 28,
+      "country": "US",
+      "year": 2012,
+      "title": "ASSAY METHOD USING ENCODED PARTICLE-BASED PLATFORM",
+      "title_ko": "바코드화된 입자 기반 플랫폼을 이용한 분석 방법",
+      "patent_number": "US13/473,901",
+      "publication_number": "US20120295297A1",
+      "domain": "security",
+      "domain_label": {
+        "ko": "보안 · PUF",
+        "en": "Security & PUF"
+      },
+      "status_type": "application",
+      "citation": "Kwon, S., Chung, S. E., Lee, S. H., Park, W., Song, Y. H., Jang, J. S., ... & Lee, H. (2012). U.S. Patent Application No. 13/473,901.",
+      "url": "https://patents.google.com/patent/US20120295297A1/en",
+      "doi_url": ""
+    },
+    {
+      "num": 29,
+      "country": "US",
+      "year": 2012,
+      "title": "Optofluidic lithography system, method of manufacturing two-layered microfluidic channel, and method of manufacturing three-dimensional microstructures",
+      "title_ko": "광미세유체 리소그래피 시스템, 2층 미세유체 채널의 제조방법 및 3차원 미세구조물의 제조방법",
+      "patent_number": "US8246889B2",
+      "publication_number": "",
+      "domain": "optical",
+      "domain_label": {
+        "ko": "광학 · 렌즈리스",
+        "en": "Optics & Lensless"
+      },
+      "status_type": "granted",
+      "citation": "Kwon, S., Lee, S., Park, W., & Chung, S. (2012). U.S. Patent No. 8,246,889. Washington, DC: U.S. Patent and Trademark Office.",
+      "url": "https://patents.google.com/patent/US8246889B2/en",
+      "doi_url": ""
+    },
+    {
+      "num": 30,
+      "country": "US",
+      "year": 2010,
+      "title": "NANOWIRE BUNDLES",
+      "title_ko": "나노와이어 번들",
+      "patent_number": "US12/197,995",
+      "publication_number": "US20100044925A1",
+      "domain": "bio",
+      "domain_label": {
+        "ko": "바이오 · 진단",
+        "en": "Bio & Diagnostics"
+      },
+      "status_type": "application",
+      "citation": "Kwon, S., & Park, W. (2010). U.S. Patent Application No. 12/197,995.",
+      "url": "https://patents.google.com/patent/US20100044925A1/en",
+      "doi_url": ""
+    }
+  ]
+}

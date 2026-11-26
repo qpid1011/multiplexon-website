@@ -1,0 +1,680 @@
+/* ==========================================================================
+   MultiplexON Lab — Recruiting-First Visual System (recruiting.css)
+   Authored in Round 2 Debate by GPT-6 Astra × Claude Fable 5.2
+   Concept: "Encoded Light × Precision Fieldbook" (Load after components.css)
+   ========================================================================== */
+
+:where(.recruiting-page, .lang-switch, .mobile-recruit-bar, .btn-recruit) {
+  font-family: var(--font-sans, system-ui, sans-serif);
+  color: var(--recruit-ink);
+  line-height: 1.6;
+}
+:where(.recruiting-page, .lang-switch, .mobile-recruit-bar),
+:where(.recruiting-page, .lang-switch, .mobile-recruit-bar) *,
+:where(.recruiting-page, .lang-switch, .mobile-recruit-bar) *::before,
+:where(.recruiting-page, .lang-switch, .mobile-recruit-bar) *::after {
+  box-sizing: border-box;
+}
+.recruiting-page { overflow-wrap: break-word; }
+.recruiting-page > .section + .section { border-top: 1px solid var(--border-color); }
+.recruiting-page :where(h1, h2, h3, h4) {
+  color: var(--recruit-ink);
+  font-family: var(--font-display, var(--font-sans, sans-serif));
+  line-height: 1.18;
+  text-wrap: balance;
+}
+.recruiting-page :where(p, li) { line-height: 1.7; }
+.recruiting-page :where(button, input, select, textarea) { font: inherit; }
+.recruiting-page :where(button, a, input, select, textarea) {
+  -webkit-tap-highlight-color: transparent;
+}
+:where(.recruiting-page, .lang-switch, .mobile-recruit-bar) [hidden],
+.recruiting-page[hidden] { display: none !important; }
+
+:where(.recruiting-page, .lang-switch, .mobile-recruit-bar)
+:where(a, button, input, select, textarea, summary, [tabindex]):focus-visible,
+.btn-recruit:focus-visible {
+  outline: 3px solid var(--accent-emerald);
+  outline-offset: 3px;
+}
+.recruiting-page :where([id], input, textarea, select, summary) {
+  scroll-margin-block: 6.5rem;
+}
+
+/* 1. Language Switcher (`한국어 | EN`) & Distinct Recruiting CTA */
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0.2rem;
+  background: var(--recruit-panel);
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  flex-shrink: 0;
+}
+.lang-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 38px;
+  padding: 0.32rem 0.68rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--recruit-muted);
+  font: inherit;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 150ms ease, color 150ms ease, border-color 150ms ease;
+}
+.lang-btn.is-active {
+  background: var(--nav-active-bg);
+  color: var(--nav-active-text);
+  border-color: transparent;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-recruit, .btn.btn-recruit, a.btn-recruit {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  box-sizing: border-box;
+  min-width: 44px;
+  min-height: 44px;
+  max-width: 100%;
+  padding: 0.68rem 1.18rem;
+  border: 1px solid transparent;
+  border-radius: 0.75rem;
+  background: var(--cta-recruit-bg);
+  color: var(--cta-recruit-text);
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 750;
+  line-height: 1.3;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: background-color 160ms ease, transform 160ms ease, box-shadow 160ms ease;
+}
+.btn-recruit.btn-header-cta {
+  min-height: 38px;
+  padding: 0.42rem 0.92rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+}
+.btn-recruit:visited, a.btn-recruit:visited { color: var(--cta-recruit-text); }
+@media (hover: hover) {
+  .btn-recruit:not(:disabled):not([aria-disabled="true"]):hover,
+  .btn.btn-recruit:not(:disabled):not([aria-disabled="true"]):hover,
+  a.btn-recruit:hover {
+    background: var(--cta-recruit-hover);
+    color: var(--cta-recruit-text);
+    box-shadow: var(--shadow-md);
+  }
+  .lang-btn:not(.is-active):hover {
+    background: var(--recruit-soft);
+    color: var(--recruit-ink);
+  }
+}
+.btn-recruit:disabled, .btn-recruit[aria-disabled="true"] {
+  cursor: not-allowed;
+  background: var(--recruit-soft);
+  color: var(--recruit-muted);
+  border: 1px dashed var(--recruit-line);
+  box-shadow: none;
+}
+
+/* 2. Recruiting Hero ("Encoded Light" Stage + 3-Second Value Hook) */
+.recruit-hero-section {
+  background: var(--hero-bg);
+  background-size: 18px 18px, 100% 100%;
+  border-bottom: 1px solid var(--border-color);
+  padding-block: clamp(2.2rem, 4.5vw, 3.8rem);
+}
+.recruit-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.12fr) minmax(0, 0.88fr);
+  align-items: center;
+  gap: clamp(1.5rem, 3.5vw, 3rem);
+}
+.recruit-hero-copy, .recruit-hero-stage { min-width: 0; }
+.recruit-hero-copy h1 {
+  margin: 0.85rem 0 0.9rem;
+  font-size: clamp(2.05rem, 3.9vw, 3.35rem);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.035em;
+}
+.recruit-hero-lead {
+  max-width: 60ch;
+  margin: 0 0 1.35rem;
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  line-height: 1.68;
+}
+.recruit-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.recruit-status-pill, .track-tag, .mentor-origin-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.48rem;
+  max-width: 100%;
+  padding: 0.34rem 0.78rem;
+  border: 1px solid var(--accent-emerald);
+  border-radius: 999px;
+  background: var(--recruit-growth-bg);
+  color: var(--accent-emerald);
+  font-size: 0.825rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+.recruit-status-pill::before {
+  content: "";
+  width: 0.5rem;
+  height: 0.5rem;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--accent-emerald);
+  animation: recruit-pulse 1.4s ease-out 3;
+}
+@keyframes recruit-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 transparent; }
+  50% { box-shadow: 0 0 0 5px var(--recruit-optical); }
+}
+
+.recruit-hero-stage {
+  position: relative;
+  isolation: isolate;
+  padding: 0.85rem;
+  border: 1px solid var(--recruit-card-border);
+  border-radius: var(--recruit-radius);
+  background: var(--recruit-panel);
+  box-shadow: var(--shadow-lg);
+}
+.recruit-hero-stage::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 80% 15%, var(--recruit-optical), transparent 55%),
+    radial-gradient(var(--recruit-optical) 1px, transparent 1px);
+  background-size: auto, 20px 20px;
+}
+.recruit-hero-stage img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 0.85rem;
+}
+.recruit-stage-caption {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.65rem 0.35rem 0.15rem;
+  font-size: 0.8rem;
+  color: var(--recruit-muted);
+}
+
+.recruit-proof-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.85rem;
+  padding-top: 1.15rem;
+  border-top: 1px solid var(--border-color);
+}
+.proof-metric {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  text-decoration: none;
+}
+.proof-metric strong {
+  font-family: var(--font-display);
+  font-size: clamp(1.22rem, 1.75vw, 1.58rem);
+  font-weight: 700;
+  line-height: 1.15;
+  color: var(--recruit-ink);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.proof-metric span {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--recruit-muted);
+}
+
+/* 3. Three Entry Track Cards & 30-Second Inverted-Pyramid Research Pitches */
+.track-grid, .pitch-grid, .charter-grid, .alumni-wall {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+.pitch-grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+.track-card, .pitch-card, .mentor-card, .charter-card, .alumni-trajectory-card {
+  min-width: 0;
+  padding: clamp(1.25rem, 2.3vw, 1.7rem);
+  border: 1px solid var(--recruit-card-border);
+  border-radius: var(--recruit-radius);
+  background: var(--recruit-panel);
+  color: var(--recruit-ink);
+  box-shadow: var(--shadow-sm);
+  transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+.track-card:hover, .pitch-card:hover, .mentor-card:hover, .alumni-trajectory-card:hover {
+  border-color: var(--border-strong);
+  box-shadow: var(--shadow-md);
+}
+.track-card { display: flex; flex-direction: column; gap: 0.9rem; }
+.track-card > :where(h3, p, ul) { margin-block: 0; }
+.track-card > h3 { font-size: 1.25rem; }
+.track-card > p { color: var(--text-secondary); font-size: 0.94rem; }
+.track-card > :where(.btn, .btn-recruit, .track-actions) { margin-top: auto; }
+.track-card-featured {
+  border: 2px solid var(--accent-emerald);
+  box-shadow: var(--shadow-md);
+}
+.track-tag { align-self: flex-start; }
+.track-perks { padding-inline-start: 1.15rem; color: var(--text-secondary); font-size: 0.92rem; }
+.track-perks li + li { margin-top: 0.42rem; }
+.track-perks li::marker { color: var(--accent-emerald); }
+
+.track-elig-chips, .major-chips, .chip-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.track-elig-chips > *, .major-chip {
+  padding: 0.28rem 0.62rem;
+  border: 1px solid var(--recruit-card-border);
+  border-radius: 0.5rem;
+  background: var(--recruit-soft);
+  color: var(--text-secondary);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.pathway-banner {
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  align-items: center;
+  gap: 1.75rem;
+  margin-bottom: 1.75rem;
+  padding: clamp(1.25rem, 2.5vw, 1.85rem);
+  border: 1px solid var(--recruit-card-border);
+  border-radius: var(--recruit-radius);
+  background: var(--recruit-panel);
+  box-shadow: var(--shadow-sm);
+}
+.pathway-banner img {
+  width: 100%;
+  border-radius: 0.85rem;
+  border: 1px solid var(--border-color);
+  display: block;
+}
+
+.pitch-card { display: flex; flex-direction: column; gap: 0.9rem; }
+.pitch-question { margin: 0; font-size: 1.22rem; font-weight: 700; line-height: 1.3; color: var(--recruit-ink); }
+.pitch-summary { margin: 0; font-size: 0.94rem; color: var(--text-secondary); }
+.pitch-milestone, .pitch-outcome {
+  padding: 0.78rem 0.95rem;
+  border-radius: 0.65rem;
+  border-inline-start: 3px solid var(--recruit-line);
+  background: var(--recruit-soft);
+  color: var(--recruit-ink);
+  font-size: 0.88rem;
+}
+.pitch-outcome {
+  border-color: var(--accent-emerald);
+  background: var(--recruit-growth-bg);
+}
+.pitch-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.6rem; margin-top: auto; padding-top: 0.4rem; }
+
+details.researcher-drawer { border-top: 1px solid var(--border-color); padding-top: 0.25rem; }
+details.researcher-drawer > summary {
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.55rem 0.2rem;
+  color: var(--link-strong);
+  font-size: 0.88rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+details.researcher-drawer[open] > summary { margin-bottom: 0.5rem; }
+details.researcher-drawer > :not(summary) { color: var(--text-secondary); font-size: 0.9rem; }
+
+/* 4. Open Graduate Cohort Seat Banner, Lab-Grown Postdoc Mentors & Alumni Wall */
+.cohort-open-banner, .stipend-highlight-box {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  align-items: center;
+  gap: 1.5rem;
+  padding: clamp(1.35rem, 2.8vw, 2rem);
+  border: 1px solid var(--accent-emerald);
+  border-inline-start-width: 5px;
+  border-radius: var(--recruit-radius);
+  background: var(--recruit-growth-bg);
+  color: var(--recruit-ink);
+}
+.cohort-open-banner.single-col, .stipend-highlight-box.single-col {
+  grid-template-columns: minmax(0, 1fr);
+}
+.cohort-open-banner img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 0.85rem;
+  border: 1px solid var(--recruit-card-border);
+  display: block;
+}
+.mentor-spotlight-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+.mentor-card { display: flex; flex-direction: column; gap: 0.65rem; }
+.mentor-origin-badge { align-self: flex-start; border-radius: 0.5rem; font-size: 0.78rem; }
+
+.alumni-sector-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+.alumni-sector-tabs > button, .choice-chip {
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0.52rem 0.9rem;
+  border: 1px solid var(--recruit-line);
+  border-radius: 0.65rem;
+  background: var(--recruit-panel);
+  color: var(--recruit-ink);
+  font: inherit;
+  font-size: 0.875rem;
+  font-weight: 650;
+  line-height: 1.35;
+  text-align: start;
+  cursor: pointer;
+  transition: background-color 140ms ease, border-color 140ms ease, color 140ms ease;
+}
+.alumni-sector-tabs > button.is-active, .choice-chip.is-selected {
+  border-color: var(--accent-emerald);
+  background: var(--recruit-growth-bg);
+  color: var(--accent-emerald);
+  box-shadow: inset 0 0 0 1px var(--accent-emerald);
+}
+
+.charter-grid-5 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+.charter-num {
+  display: inline-block;
+  margin-bottom: 0.45rem;
+  color: var(--accent-emerald);
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 5. Interactive Coffee-Chat & Application Email Composer */
+.composer-shell {
+  padding: clamp(1.35rem, 3vw, 2.15rem);
+  border: 1px solid var(--recruit-card-border);
+  border-radius: var(--recruit-radius);
+  background: var(--recruit-panel);
+  color: var(--recruit-ink);
+  box-shadow: var(--shadow-md);
+}
+.composer-shell.is-open { border-color: var(--accent-emerald); }
+.composer-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  gap: 1.75rem;
+  align-items: start;
+}
+.composer-controls { display: grid; gap: 1.15rem; }
+.composer-controls fieldset { min-width: 0; margin: 0; padding: 0; border: 0; }
+.composer-controls legend { margin-bottom: 0.55rem; font-weight: 700; font-size: 0.94rem; color: var(--recruit-ink); }
+.composer-inputs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+}
+.composer-inputs > * { min-width: 0; }
+.composer-inputs label { display: grid; gap: 0.35rem; font-size: 0.875rem; font-weight: 650; color: var(--text-secondary); }
+.composer-inputs .span-12 { grid-column: 1 / -1; }
+.composer-shell :where(input, select, textarea) {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  min-height: 44px;
+  padding: 0.65rem 0.85rem;
+  border: 1px solid var(--recruit-line);
+  border-radius: 0.65rem;
+  background: var(--bg-page);
+  color: var(--recruit-ink);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+.composer-shell :where(input, textarea)::placeholder { color: var(--recruit-muted); opacity: 1; }
+.composer-shell textarea { min-height: 6.5rem; resize: vertical; }
+
+.composer-preview {
+  min-width: 0;
+  padding: 1.15rem;
+  border: 1px solid var(--recruit-card-border);
+  border-radius: 0.95rem;
+  background: var(--recruit-soft);
+  color: var(--recruit-ink);
+}
+.composer-to {
+  margin: 0 0 0.45rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--accent-emerald);
+}
+.composer-subject {
+  margin: 0 0 0.85rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 1px solid var(--border-color);
+  font-size: 0.95rem;
+  font-weight: 750;
+  color: var(--recruit-ink);
+}
+.composer-body {
+  margin: 0;
+  max-height: 290px;
+  overflow-y: auto;
+  color: var(--text-secondary);
+  font: inherit;
+  font-size: 0.9rem;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+.composer-actions { display: flex; flex-wrap: wrap; gap: 0.65rem; margin-top: 1rem; }
+.composer-actions > * { flex: 1 1 9.5rem; min-height: 44px; }
+.composer-note { margin: 0.7rem 0 0; font-size: 0.8rem; color: var(--recruit-muted); }
+
+/* Shell Search Result & Footer Copy Polish */
+.footer-address { font-style: normal; }
+.footer-copy-btn {
+  display: inline-flex; align-items: center; min-height: 28px; margin-left: 0.4rem; padding: 0.18rem 0.55rem;
+  border-radius: 999px; border: 1px solid var(--border-strong); background: var(--bg-subtle);
+  color: var(--text-primary); font: inherit; font-size: 0.75rem; font-weight: 600; cursor: pointer;
+}
+.footer-copy-btn:hover { border-color: var(--accent-blue); color: var(--link-strong); }
+.search-result-type {
+  display: inline-flex; padding: 0.14rem 0.5rem; border-radius: 999px;
+  background: var(--badge-domain-bg); color: var(--badge-domain-text); border: 1px solid var(--badge-domain-border);
+  font-size: 0.72rem; font-weight: 700;
+}
+.search-result-title { font-weight: 700; color: var(--text-primary); font-size: 0.95rem; }
+.search-result-sub, .search-empty { font-size: 0.85rem; color: var(--text-secondary); }
+.route-loading { padding: 3.5rem 0; color: var(--text-secondary); }
+
+.copy-toast {
+  position: fixed;
+  inset-inline: 1rem;
+  bottom: calc(1.25rem + env(safe-area-inset-bottom));
+  z-index: 1200;
+  width: fit-content;
+  max-width: calc(100% - 2rem);
+  margin-inline: auto;
+  padding: 0.8rem 1.15rem;
+  border: 1px solid var(--accent-emerald);
+  border-radius: 0.75rem;
+  background: var(--recruit-growth-bg);
+  color: var(--recruit-ink);
+  font-weight: 700;
+  font-size: 0.88rem;
+  box-shadow: var(--shadow-lg);
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 180ms ease;
+}
+.copy-toast.is-visible { visibility: visible; opacity: 1; }
+
+/* 5b. Convergence Manifesto & Industrial Patent Spotlight (Astra x Fable 5.2) */
+.manifesto-shell, .patent-spotlight-band {
+  padding: clamp(1.4rem, 2.8vw, 2.15rem);
+  border: 1px solid var(--recruit-card-border);
+  border-radius: var(--recruit-radius);
+  background: var(--recruit-panel);
+  color: var(--recruit-ink);
+  box-shadow: var(--shadow-md);
+}
+.manifesto-shell { display: grid; gap: 1.5rem; margin-bottom: 1.5rem; }
+.manifesto-top {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+  gap: 1.75rem;
+  align-items: center;
+}
+.manifesto-copy p { margin: 0 0 0.9rem; color: var(--text-secondary); font-size: 0.98rem; line-height: 1.74; }
+.manifesto-copy .major-fit-note, .pathway-banner .major-fit-note {
+  margin: 0.85rem 0 0; padding: 0.72rem 0.95rem; border-radius: 0.65rem;
+  border-inline-start: 3px solid var(--accent-emerald);
+  background: var(--recruit-growth-bg); color: var(--recruit-ink); font-size: 0.9rem; font-weight: 650;
+}
+.manifesto-visual { margin: 0; }
+.manifesto-visual img { width: 100%; border-radius: 0.85rem; border: 1px solid var(--border-color); display: block; }
+.manifesto-visual figcaption { margin-top: 0.55rem; font-size: 0.8rem; color: var(--recruit-muted); line-height: 1.5; }
+.manifesto-pillars {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem;
+  list-style: none; margin: 0; padding: 1.15rem 0 0; border-top: 1px solid var(--border-color);
+}
+.manifesto-pillar {
+  padding: 1.15rem 1.2rem; border-radius: 0.85rem; border: 1px solid var(--recruit-card-border);
+  background: var(--recruit-soft); display: flex; flex-direction: column; gap: 0.45rem;
+}
+.manifesto-pillar h3 { margin: 0; font-size: 1.06rem; }
+.manifesto-pillar p { margin: 0; font-size: 0.9rem; color: var(--text-secondary); }
+
+.patent-spotlight-band {
+  border-top: 4px solid var(--cta-recruit-bg);
+  display: grid; gap: 1.25rem;
+}
+.ip-metrics { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.9rem; margin: 0; }
+.ip-metric {
+  padding: 0.95rem 1.1rem; border-radius: 0.8rem; border: 1px solid var(--recruit-card-border);
+  background: var(--recruit-soft); display: flex; flex-direction: column; gap: 0.2rem;
+}
+.ip-metric dd {
+  order: -1; margin: 0; font-family: var(--font-display);
+  font-size: clamp(1.75rem, 3.2vw, 2.45rem); font-weight: 800; line-height: 1.1; color: var(--cta-recruit-bg);
+}
+.ip-metric dt { font-size: 0.85rem; font-weight: 700; color: var(--recruit-ink); }
+.ip-proof { margin: 0; padding-inline-start: 1.2rem; color: var(--text-secondary); font-size: 0.92rem; }
+.ip-proof li + li { margin-top: 0.45rem; }
+.ip-proof li::marker { color: var(--cta-recruit-bg); }
+.ip-actions, .patent-country-pills { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; }
+.patent-country-pills { margin-bottom: 0.85rem; }
+.patent-status-badge {
+  display: inline-flex; align-items: center; padding: 0.16rem 0.56rem; border-radius: 999px;
+  font-size: 0.76rem; font-weight: 700; border: 1px solid var(--accent-emerald);
+  background: var(--recruit-growth-bg); color: var(--accent-emerald); margin-inline-end: 0.35rem;
+}
+.patent-status-badge.is-app {
+  border-color: var(--recruit-card-border); background: var(--recruit-soft); color: var(--text-secondary);
+}
+
+/* 6. Responsive Layout & Mobile Safe-Area Recruiting Bar */
+.mobile-recruit-bar { display: none; }
+
+@media (max-width: 1024px) {
+  .track-grid, .pitch-grid, .charter-grid, .alumni-wall, .manifesto-pillars { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .recruit-hero, .pathway-banner, .manifesto-top, .cohort-open-banner, .stipend-highlight-box, .composer-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .recruit-proof-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 768px) {
+  body.recruiting-mode { padding-bottom: calc(5.5rem + env(safe-area-inset-bottom)); }
+  .track-grid, .pitch-grid, .pitch-grid-2, .mentor-spotlight-grid, .charter-grid,
+  .alumni-wall, .composer-inputs, .manifesto-pillars, .ip-metrics { grid-template-columns: minmax(0, 1fr); }
+  .btn-recruit.btn-header-cta { display: none; }
+  body.recruiting-mode .mobile-recruit-bar {
+    display: flex;
+    gap: 0.6rem;
+    position: fixed;
+    inset: auto 0 0;
+    z-index: 880;
+    padding: 0.6rem 0.95rem;
+    padding-bottom: calc(0.6rem + env(safe-area-inset-bottom));
+    border-top: 1px solid var(--border-strong);
+    background: var(--recruit-panel);
+    color: var(--recruit-ink);
+    box-shadow: var(--shadow-lg);
+  }
+  .mobile-recruit-bar > * { flex: 1 1 0; min-height: 46px; font-size: 0.86rem; padding-inline: 0.75rem; }
+  .copy-toast { bottom: calc(5.8rem + env(safe-area-inset-bottom)); }
+}
+
+body.is-composing .mobile-recruit-bar,
+body.composer-focused .mobile-recruit-bar,
+body.is-dialog-open .mobile-recruit-bar { display: none !important; }
+@supports selector(body:has(dialog[open])) {
+  body:has(dialog[open]) .mobile-recruit-bar { display: none !important; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .recruit-status-pill::before { animation: none; }
+  .recruiting-page *, .lang-switch *, .mobile-recruit-bar *, .btn-recruit {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+@media print {
+  .mobile-recruit-bar, .copy-toast { display: none !important; }
+  body.recruiting-mode { padding-bottom: 0; }
+}

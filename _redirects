@@ -1,0 +1,10 @@
+# Cloudflare Pages Legacy Google Sites Edge Redirects (Zero 404 Guarantee)
+/member_1/current           /#members/current                   301
+/member_1/alumni            /#members/alumni                    301
+/member_1/professor         /#members/professor                 301
+/research/optical-applications   /#research/optical-applications   301
+/research/security-applications  /#research/security-applications  301
+/research/bio-applications       /#research/bio-applications       301
+/notice_research-intern     /#notice/research-intern            301
+/publications_1/journals    /#publications/journals             301
+/document_1/gallery         /#life/gallery                      301

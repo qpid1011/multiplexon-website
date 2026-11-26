@@ -1,0 +1,177 @@
+{
+  "lab_name": "MultiplexON",
+  "lab_full_name": "Multiplexed Optics & Nanosystems",
+  "university": "Kyung Hee University",
+  "department": "Department of Electronic Engineering",
+  "department_ko": "경희대학교 전자공학과",
+  "logo_path": "assets/images/brand/logo.svg",
+  "logo_dark_path": "assets/images/brand/logo_dark.svg",
+  "logo_png_path": "assets/images/brand/logo.png",
+  "logo_master_path": "assets/images/brand/logo_master_light.svg",
+  "logo_master_dark_path": "assets/images/brand/logo_master_dark.svg",
+  "logo_wordmark_path": "assets/images/brand/logo_wordmark_light.svg",
+  "logo_wordmark_dark_path": "assets/images/brand/logo_wordmark_dark.svg",
+  "monogram_path": "assets/images/brand/monogram_on_light.svg",
+  "favicon_path": "assets/images/brand/favicon.svg",
+  "og_image": "assets/images/brand/og_banner.png",
+  "hero_images": [
+    "assets/images/brand/hero.png"
+  ],
+  "mission": "MultiplexON (Multiplexed Optics & Nanosystems) Laboratory at the Department of Electronic Engineering, Kyung Hee University pioneers domain-crossing convergence — uniting structured-light optics, computational/AI algorithms, and micro/nano-fabrication to create frontier SCI research (68+ papers) and 30 industry-connected U.S./Korean patents across optical security (PUF), lensless imaging, bio-diagnostics, smart hydrogels, and DNA digital storage.",
+  "open_position": {
+    "title": "Open Position",
+    "description": "We recruit motivated undergraduate interns and M.S./Ph.D. students eager to create frontier knowledge beyond AI and industry-connected U.S./Korean patents (30 records: 16 USPTO & 14 KIPO) across structured-light optics, computational/AI algorithms, microfabrication, optical security (PUF), bio-diagnostics, and DNA storage. Majors across EE, Physics, Materials, Mechanical, Chemical, Bio/Life Science, and Computer Science are warmly welcomed — no prior bio wet-lab experience required.\n\nStart with a casual, zero-document coffee chat or email parkwook@khu.ac.kr.",
+    "email": "parkwook@khu.ac.kr",
+    "links": [
+      {
+        "label": {
+          "ko": "학부연구생 모집 공지사항",
+          "en": "Undergraduate Research Internship Guide"
+        },
+        "route": "#notice/research-intern"
+      },
+      {
+        "label": {
+          "ko": "졸업논문(캡스톤) 공지사항",
+          "en": "Capstone & Graduation Thesis Guide"
+        },
+        "route": "#notice/graduate-project"
+      }
+    ],
+    "title_ko": "대학원생(석·박사·석박통합) 및 학부연구생 상시 모집",
+    "description_ko": "도메인과 도메인이 만나는 경계에서 AI 너머의 원천 지식과 산업 직결 특허(미국 USPTO 16건 · 한국 KIPO 14건, 총 30건)를 함께 창출할 학부연구생 및 대학원생(석사·박사·석박통합)을 모집합니다. 전자공학을 중심으로 물리·재료·기계·화공·생명·컴퓨터 등 이공계 전 전공자를 환영하며, 첫 커피챗은 서류·성적표 없이 가볍게 진행됩니다."
+  },
+  "notices": {
+    "research_intern": {
+      "title": {
+        "ko": "학부연구생(연구인턴) 모집 안내",
+        "en": "Undergraduate Research Internship Guide"
+      },
+      "sections": [
+        {
+          "heading": {
+            "ko": "1. 두 단계로 진행되는 부담 없는 합류 절차 (무서류 커피챗 → 정식 지원)",
+            "en": "1. Two-Step Low-Friction Entry (Casual Coffee Chat → Formal Application)"
+          },
+          "body": {
+            "ko": "처음부터 이력서나 성적증명서를 준비하실 필요가 없습니다.\n• 1단계 (가벼운 커피챗·연구실 투어): 서류 없이 이메일(parkwook@khu.ac.kr)이나 홈페이지 커피챗 폼으로 관심 분야만 알려주시면 교수님 및 박사후연구원 멘토와 편하게 연구실 분위기·주제를 먼저 이야기합니다.\n• 2단계 (정식 합류 결정 시): 상담 후 함께 연구하기로 결정한 학생에 한해 간단한 이력서(CV) 및 성적증명서를 제출하며, 기수당 2–3명 내외로 선발해 밀착 지도합니다. 대학원 진학에 관심 있는 학생을 특히 환영하며, 심화 연구 경험을 쌓고 싶은 학부 3·4학년에게도 열려 있습니다.",
+            "en": "You do NOT need a CV or transcript just to talk with us.\n• Step 1 (Zero-Document Coffee Chat & Lab Tour): Reach out via our 30-second coffee chat form or parkwook@khu.ac.kr to tour the lab and discuss topics with Prof. Park and our two Ph.D. postdoctoral mentors.\n• Step 2 (Formal Onboarding): Only if you decide to join after chatting do we ask for a brief CV and transcript (2–3 seats per term for close 1:1 mentoring). Students considering graduate study or hands-on frontier research are warmly welcomed."
+          }
+        },
+        {
+          "heading": {
+            "ko": "2. 학기 중 수업 배려 · 방학 집중 몰입 · 매월 인건비 지원",
+            "en": "2. Semester Class Flexibility, Vacation Immersion & Monthly Stipend"
+          },
+          "body": {
+            "ko": "• 기본 코어 연구 시간은 평일 09:00–18:00 몰입을 지향하되, 학기 중에는 본인 전공 수업·실험·시험 기간 일정을 100% 최우선 보장하며 공강 시간대 중심으로 유연하게 조율합니다(방학 기간 전일제 집중 연구).\n• 모든 학부연구생에게 매월 연구 인건비를 지원하며, 기여도에 따라 국내외 학술대회 발표, Q1 SCI 저널 공동/제1저자 논문 투고, 특허 발명 및 창업·사업화 경진대회 출전을 전폭 지원합니다.",
+            "en": "• While our core lab hours are 09:00–18:00 on weekdays (full-time immersion during summer/winter breaks), all undergraduate classes, lab courses, and exam schedules are 100% prioritized and flexibly accommodated during semesters.\n• Every undergraduate intern receives a monthly research stipend along with full support toward conference presentations, Q1 SCI co-/first-authorship, and patent co-invention."
+          }
+        },
+        {
+          "heading": {
+            "ko": "3. 최근 학부연구생 주요 연구·수상 성과",
+            "en": "3. Recent Undergraduate Research & Award Track Record"
+          },
+          "body": {
+            "ko": "• 조정빈 (박욱 교수 지도) — Swirlar 프로젝트, 2025 서울대학교 푸드테크 사업화 경진대회 금상(Gold Prize) 및 발표상 수상\n• 이동욱, 신다연, 김혜리, 박욱 — 동결건조 PCR 시약 안정성 향상 연구, 2025 한국바이오칩학회 춘계학술대회 발표\n• 정민겸(학부 제1저자), 박철헌, 김기범, 배중현, 박욱 (2024) — 형광 은닉층 통합 가시광 QR 마이크로입자, ACS Applied Polymer Materials, 6(13), 7751–7758 (IF 4.5, Q1 · 경희대 Focus News 선정)\n• 정민겸, 박철헌, 배중현, 박욱 — UV 반응 형광 활성화 마이크로태건트 인증 태그, 2024 한국바이오칩학회 춘계학술대회\n• 엄채영, 장은미, 김혜리, 박욱 — RSMP 채널 정렬 기반 마이크로입자 제작, 2024 한국바이오칩학회 춘계학술대회\n• 강대혁, 김혜리, 박욱 — 유리 모세관 광산란 기반 금 나노입자 검출, 2024 한국바이오칩학회 춘계학술대회\n• 임석준, 신의관 (박욱 교수 지도) — 태양광 적정기술 무전원 PCR, 2022 경희대학교 캡스톤디자인 경진대회 대상(Grand Prize)\n• 강여민, 김종윤, 차준녕, 박욱 — 마스크리스 리소그래피 기반 유연 코르티솔 센서, 2022 한국바이오칩학회 우수포스터상",
+            "en": "• Jungbin Cho (advised by Prof. Wook Park) — Gold Prize & Presentation Award, 2025 SNU FoodTech Commercialization Program (Swirlar project)\n• Dongwook Lee, Dayeon Shin, Hyeli Kim, Wook Park — Enhancing Stability of Lyophilized PCR Reagents in POCT, 2025 Spring Korean BioChip Society Conference\n• Mingyeom Jeong (Undergrad 1st Author), Cheolheon Park, Kibeom Kim, Junghyun Bae, & Wook Park (2024) — Visible Frame QR-Coded Microparticles with Fluorescence Layer, ACS Applied Polymer Materials, 6(13), 7751–7758 (Q1, IF 4.5 · KHU Focus News)\n• Seokjun Lim & Uigwan Shin (advised by Prof. Wook Park) — Grand Prize, 2022 KHU Capstone Design Competition (Solar-Powered Zero-Power PCR)\n• Yeomin Kang, Jongyoon Kim, Junnyeong Cha, Wook Park — Outstanding Poster Presentation Award, 2022 Korean BioChip Society (Flexible Cortisol Sensor)"
+          }
+        }
+      ],
+      "images": []
+    },
+    "graduate_project": {
+      "title": {
+        "ko": "종합설계 · 캡스톤디자인(졸업논문) 연계 안내",
+        "en": "Capstone Design & Graduation Thesis Guide"
+      },
+      "sections": [
+        {
+          "heading": {
+            "ko": "1. 운영 철학 — 단순 과제 제출을 넘어 실제 논문·수상으로 남는 졸업연구",
+            "en": "1. Philosophy — A Graduation Project That Becomes a Paper, Patent, or Award"
+          },
+          "body": {
+            "ko": "본 연구실의 종합설계/캡스톤디자인은 형식적인 보고서 제출이 아니라, 학부연구생과 동일한 연구 인프라 속에서 스스로 실험·코드·시제품을 완성해 평생 기억에 남는 성취(학술대회 발표, 캡스톤 수상, SCI 논문 연계)를 만드는 과정입니다. 학기당 2–3명 소수 정예로 운영되며 사전 커피챗 상담 후 선발합니다.",
+            "en": "Rather than a formality, capstone design at MultiplexON gives 2–3 selected seniors full access to our optical, microfluidic, and AI tools to build real prototypes aimed at conference talks, KHU Capstone Awards, or SCI papers."
+          }
+        },
+        {
+          "heading": {
+            "ko": "2. 참여 일정 조율 및 투명한 단계별 평가 기준",
+            "en": "2. Schedule Coordination & Transparent Milestone Rubric"
+          },
+          "body": {
+            "ko": "• 참여 시간: 학기 중 수강 과목 및 취업·대학원 준비 일정을 사전 협의하여 주간 코어 실험 시간(공강 시간대 + 방학 집중 연구)을 조율합니다.\n• 투명한 3단계 평가 및 피드백: 주간 연구 미팅 참여 → 중간 프로토타입/데이터 점검(박사후연구원 멘토 상시 코칭) → 최종 발표의 명확한 기준표로 평가합니다. 성실히 참여하고 중간 피드백을 반영하는 학생에게는 최고 학점과 추천서·발표 기회를 적극 지원하며, 사전 협의 없는 장기 불참이나 무임승차에 한해서만 학칙에 따라 미이수(Non-Pass) 처리됩니다.\n• 문의 및 지원: 사전 커피챗(무서류) 후 정식 신청 시 CV·성적증명서를 parkwook@khu.ac.kr 로 제출해 주세요.",
+            "en": "• Schedule: Core weekly bench hours are coordinated around your registered lecture timetable and exam periods.\n• Fair, Milestone-Based Grading: Evaluated transparently across (1) weekly lab meeting participation, (2) mid-term prototype/data check-ins with dedicated postdoc coaching, and (3) final presentation. Dedicated students consistently earn top grades and awards; Non-Pass applies strictly to unexcused non-attendance or non-participation.\n• How to Apply: Start with a casual coffee chat, then email your CV and transcript to parkwook@khu.ac.kr."
+          }
+        },
+        {
+          "heading": {
+            "ko": "3. 캡스톤 · 학부 졸업연구 대표 성과",
+            "en": "3. Representative Capstone & Undergraduate Achievements"
+          },
+          "body": {
+            "ko": "• 조정빈 (박욱 교수 지도) — Swirlar 프로젝트, 2025 서울대학교 푸드테크 사업화 경진대회 금상(Gold Prize) 및 발표상 수상\n• 이동욱, 신다연, 김혜리, 박욱 — 동결건조 PCR 시약 안정성 향상 연구, 2025 한국바이오칩학회 춘계학술대회 발표\n• 정민겸(학부 제1저자), 박철헌, 김기범, 배중현, 박욱 (2024) — 형광 은닉층 통합 가시광 QR 마이크로입자, ACS Applied Polymer Materials, 6(13), 7751–7758 (IF 4.5, Q1 · 경희대 Focus News 선정)\n• 정민겸, 박철헌, 배중현, 박욱 — UV 반응 형광 활성화 마이크로태건트 인증 태그, 2024 한국바이오칩학회 춘계학술대회\n• 엄채영, 장은미, 김혜리, 박욱 — RSMP 채널 정렬 기반 마이크로입자 제작, 2024 한국바이오칩학회 춘계학술대회\n• 강대혁, 김혜리, 박욱 — 유리 모세관 광산란 기반 금 나노입자 검출, 2024 한국바이오칩학회 춘계학술대회\n• 임석준, 신의관 (박욱 교수 지도) — 태양광 적정기술 무전원 PCR, 2022 경희대학교 캡스톤디자인 경진대회 대상(Grand Prize)\n• 강여민, 김종윤, 차준녕, 박욱 — 마스크리스 리소그래피 기반 유연 코르티솔 센서, 2022 한국바이오칩학회 우수포스터상",
+            "en": "• Jungbin Cho (advised by Prof. Wook Park) — Gold Prize & Presentation Award, 2025 SNU FoodTech Commercialization Program (Swirlar project)\n• Dongwook Lee, Dayeon Shin, Hyeli Kim, Wook Park — Enhancing Stability of Lyophilized PCR Reagents in POCT, 2025 Spring Korean BioChip Society Conference\n• Mingyeom Jeong (Undergrad 1st Author), Cheolheon Park, Kibeom Kim, Junghyun Bae, & Wook Park (2024) — Visible Frame QR-Coded Microparticles with Fluorescence Layer, ACS Applied Polymer Materials, 6(13), 7751–7758 (Q1, IF 4.5 · KHU Focus News)\n• Seokjun Lim & Uigwan Shin (advised by Prof. Wook Park) — Grand Prize, 2022 KHU Capstone Design Competition (Solar-Powered Zero-Power PCR)\n• Yeomin Kang, Jongyoon Kim, Junnyeong Cha, Wook Park — Outstanding Poster Presentation Award, 2022 Korean BioChip Society (Flexible Cortisol Sensor)"
+          }
+        }
+      ],
+      "images": []
+    }
+  },
+  "contact": {
+    "lab_name": "MultiplexON Lab",
+    "professor": "Prof. Wook Park",
+    "affiliation_en": "Department of Electronic Engineering, College of Electronics and Information, Kyung Hee University",
+    "affiliation_ko": "경희대학교 전자정보대학 전자공학과",
+    "address_en": "1732, Deogyeong-daero, Giheung-gu, Yongin-si, Gyeonggi-do 17104, Republic of Korea",
+    "address_ko": "경기도 용인시 기흥구 덕영대로 1732 경희대학교 국제캠퍼스 전자정보대학 403호",
+    "office": "Room 403, College of Electronics & Information (전자정보대학관 403호)",
+    "lab_room": "Office 555-2 · Labs 310-1 & 557, College of Electronics & Information",
+    "email": "parkwook@khu.ac.kr",
+    "phone": "+82-31-201-3465",
+    "lab_phone": "+82-31-201-2525",
+    "lat": 37.240039,
+    "lng": 127.083874,
+    "raw_text": "Contact — MultiplexON Lab (Multiplexed Optics & Nanosystems)\nPI Office: Room 403, College of Electronics & Information | Email: parkwook@khu.ac.kr | Tel: +82-31-201-3465\nLab Rooms: 555-2, 310-1 & 557, College of Electronics & Information | Tel: +82-31-201-2525"
+  },
+  "classes": {
+    "title": {
+      "ko": "담당 강의 (전자공학과 학부·대학원)",
+      "en": "Courses & Teaching (Electronic Engineering)"
+    },
+    "description": {
+      "ko": "경희대학교 전자공학과에서 박욱 교수가 강의하는 전자기학·회로이론·물리전자·반도체공학·캡스톤디자인 교과목입니다.",
+      "en": "Core undergraduate and graduate Electronic Engineering courses taught by Prof. Wook Park at Kyung Hee University."
+    },
+    "courses": [
+      {
+        "category": "Electronic Engineering Core & Electives",
+        "items": [
+          "EE201 Electromagnetic Fields and Waves (1)",
+          "EE202 Circuit Analysis",
+          "EE203 Physical Electronics",
+          "EE205 Circuit Analysis 2",
+          "EE207 Basic Circuit Experiments",
+          "EE208 Basic Circuit Experiments",
+          "EE209 Logic Circuit",
+          "EE321 Semiconductor Engineering",
+          "EE323 Circuit Analysis",
+          "EE497 Capstone Design",
+          "EE486 Graduation Thesis",
+          "SWCON104 Web/Python Programming",
+          "and ETC..."
+        ]
+      }
+    ],
+    "youtube_embed": "https://www.youtube.com/embed/Joai_qVlzhw",
+    "raw_text": "학부연구생 모집 공지사항\n \nClass\nClass\nEE201 Electromagnetic Fields and Waves (1)\nEE202 Circuit Analysis\nEE203 Physical Electronics \nEE205 Circuit Analysis 2\nEE207 Basic Circuit Experiments\nEE208 Basic Circuit Experiments\nEE209 Logic Circuit\nEE321 Semiconductor Engineering\nEE323 Circuit Analysis\nEE497 Capstone Design\nEE486 Graduation Thesis\nSWCON104 Web/Python Programming\nand ETC...\n\n\nClass Youtube\nThere’s no such thing as an easy field of study, but electronic engineering is often considered one of the more challenging ones.\n\nAlthough the professor explained the material in Korean during class, I couldn’t understand it at all.\nIt was just too difficult for me—of course, that’s because I didn’t study properly. If I had just put in a little more effort, I might have understood what it was all about.\nLooking back, I regret not trying harder at the time, and I hope none of you end up with the same regrets as I did. \nCopyright © MULTIPLatform EXplorer On Nanobiotechnology Lab. All Rights Reserved"
+  },
+  "mission_ko": "경희대학교 전자공학과 MultiplexON 연구실(Multiplexed Optics & Nanosystems, 박욱 교수)은 구조광 광학, 계산·AI 알고리즘, 마이크로·나노시스템을 다중화(Multiplex)하여 광학 보안(PUF), 초박형 렌즈리스 이미징, 차세대 바이오 진단, DNA 데이터 저장 분야의 원천 지식(SCI 68편+)과 한·미 특허(30건)를 창출합니다.",
+  "lab_etymology": {
+    "ko": "전자공학·광통신의 핵심 원리인 다중화(Multiplex)와 광학 및 나노시스템(Optics & Nanosystems)의 결합이자, Photon(광자)·Electron(전자)처럼 도메인이 만나는 경계에서 물리 세계의 지능을 켜는(Switch ON) 융합의 기본 단위를 뜻합니다.",
+    "en": "Uniting Multiplexing with Optics & Nanosystems — echoing photon and electron while switching ON physical intelligence where disciplines collide."
+  }
+}

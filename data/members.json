@@ -1,0 +1,428 @@
+{
+  "professor": {
+    "name": "Prof. Wook Park",
+    "name_ko": "박욱 교수",
+    "position": "Professor, Department of Electronic Engineering, Kyung Hee University",
+    "photo": "assets/images/members/professor_wook_park.jpg",
+    "email": "parkwook@khu.ac.kr",
+    "scholar_url": "https://scholar.google.com/citations?user=jN72XkAAAAAJ&hl=en",
+    "youtube_url": "https://www.youtube.com/@꽁대교수",
+    "lab_origin_url": "http://binel.snu.ac.kr",
+    "education": [
+      {
+        "period": "Mar, 1997 – Feb, 2002",
+        "detail": "B.S. Electrical Engineering, Seoul National University"
+      },
+      {
+        "period": "Sep, 2006 – Aug, 2011",
+        "detail": "Ph.D. Electrical Engineering at Biophotonics and nanoengineering lab (Binel), Seoul National University"
+      }
+    ],
+    "career": [
+      {
+        "period": "Sep, 2011 – Feb, 2012",
+        "detail": "Postdoctoral Researcher, Inter-university Semiconductor Research Center, Seoul National University"
+      },
+      {
+        "period": "Mar, 2012 – Feb, 2019",
+        "detail": "Assistant Professor, Kyung Hee University"
+      },
+      {
+        "period": "Mar, 2019 – Feb, 2024",
+        "detail": "Associate Professor, Kyung Hee University"
+      },
+      {
+        "period": "Mar, 2024 – Present",
+        "detail": "Professor, Kyung Hee University"
+      },
+      {
+        "period": "Jan, 2023 – Present",
+        "detail": "Foundation Director, KHU Technology Holdings Co., Ltd."
+      },
+      {
+        "period": "Mar, 2022 – Present",
+        "detail": "Vice President, University-Industry Cooperation Foundation Director, Kyung Hee University"
+      }
+    ],
+    "awards": [
+      {
+        "date": "Feb, 2025",
+        "detail": "Best Paper Award, The Korean Institutes of Communications and Information Sciences (KICS)"
+      },
+      {
+        "date": "Nov, 2022",
+        "detail": "Bronze Prize, Industry-Academia Cooperation Contribution Award, The Korean BioChip Society"
+      },
+      {
+        "date": "Nov, 2017",
+        "detail": "Young Scientist Award, The Korean BioChip Society"
+      }
+    ],
+    "position_ko": "경희대학교 전자공학과 교수 (전자정보대학)",
+    "orcid": "0000-0002-7928-547X",
+    "orcid_url": "https://orcid.org/0000-0002-7928-547X",
+    "bio": {
+      "ko": "서울대학교 전기공학부 학사(2002) 및 동 대학원 전기·컴퓨터공학부 박사(2011, BINEL 연구실) 학위를 취득하고, 벤처기업 창업 초기 멤버(5년) 실무 경험을 거쳐 2012년부터 경희대학교 전자공학과 교수로 재직 중입니다. 구조광 광학, 마이크로·나노시스템, 물리적 복제방지(PUF), 바이오 진단 및 DNA 데이터 저장을 융합하며 경희대학교 산학협력단 부단장 및 기술지주회사 이사로 기술사업화를 함께 이끌고 있습니다.",
+      "en": "Prof. Wook Park received his B.S. (2002) and Ph.D. (2011, BINEL) in Electrical Engineering from Seoul National University after five years of early-stage tech startup engineering experience. Since joining the Department of Electronic Engineering at Kyung Hee University in 2012, he has led research across multiplexed optics, micro/nanosystems, optical PUFs, bio-diagnostics, and DNA digital storage, while serving as Vice President of the KHU Industry-Academia Cooperation Foundation and Director of KHU Technology Holdings."
+    }
+  },
+  "current": {
+    "postdocs": [
+      {
+        "name": "Jinsik Yoon",
+        "role": "Postdoctoral Fellow",
+        "name_ko": "윤진식 박사",
+        "role_ko": "박사후연구원 (신입생 밀착 멘토)",
+        "current_mentor": true,
+        "mentor_badge": {
+          "ko": "랩 출신 멘토 · 경희대 학·석·박사 (MultiplexON Lab)",
+          "en": "Lab-grown mentor · B.S., M.S. & Ph.D. at Kyung Hee Univ. (MultiplexON Lab)"
+        },
+        "specialty": {
+          "ko": "그레이스케일 포토리소그래피 · 4차원 카오틱 PUF · 자성 미립자 자동화 면역진단 및 신속 항생제 감수성 검사(AST)",
+          "en": "Grayscale Photolithography · 4D Chaotic PUFs · Automated Magnetic Immunoassays & Rapid AST"
+        },
+        "mentor_note": {
+          "ko": "주간 1:1 실험 설계 및 논문 집필 밀착 코칭 (Optics Letters 2025, ACS Nano 2024, Biotechnology J. 2024 주저자 · 한/미 특허 발명자)",
+          "en": "Weekly 1:1 coaching on optical setup, fabrication & manuscript writing (Lead/co-author in Optics Letters, ACS Nano, Biotechnology J.; US/KR patent co-inventor)"
+        }
+      },
+      {
+        "name": "Junghyun Bae",
+        "role": "Postdoctoral Fellow",
+        "name_ko": "배중현 박사",
+        "role_ko": "박사후연구원 (신입생 밀착 멘토)",
+        "current_mentor": true,
+        "mentor_badge": {
+          "ko": "랩 출신 멘토 · 경희대 학·석·박사 (MultiplexON Lab)",
+          "en": "Lab-grown mentor · B.S., M.S. & Ph.D. at Kyung Hee Univ. (MultiplexON Lab)"
+        },
+        "specialty": {
+          "ko": "초박형 렌즈리스 계산 이미징 · 프로그래머블 자기조립 미세구조체 · 다중 보안 마이크로입자",
+          "en": "Ultra-Thin Lensless Computational Imaging · Programmable Self-Assembly · Optical Security Microtaggants"
+        },
+        "mentor_note": {
+          "ko": "광학 셋업·Python/AI 복원 코드 및 상위 저널 투고 전 과정 밀착 멘토링 (ACS Materials Letters 2026, Nature Comms 2024, Optica 2023 주저자)",
+          "en": "Hands-on mentoring across optical hardware, Python/AI reconstruction & top-tier submissions (Lead/co-author in ACS Materials Letters, Nature Comms, Optica)"
+        }
+      }
+    ],
+    "grad_students": [],
+    "undergrad_students": [
+      {
+        "name": "Chae ryeong Na",
+        "role": "Undergraduate Student",
+        "name_ko": "나채령",
+        "role_ko": "학부연구생"
+      },
+      {
+        "name": "Siyoung Park",
+        "role": "Undergraduate Student",
+        "name_ko": "박시영",
+        "role_ko": "학부연구생"
+      }
+    ],
+    "staff": [
+      {
+        "name": "Sujeong Lim",
+        "role": "Research Staff",
+        "name_ko": "임수정",
+        "role_ko": "연구원"
+      },
+      {
+        "name": "Yeonju Sim",
+        "role": "Research Staff",
+        "name_ko": "심연주",
+        "role_ko": "연구원"
+      },
+      {
+        "name": "Soojung Kim",
+        "role": "Administrative Staff",
+        "name_ko": "김수정",
+        "role_ko": "행정연구원"
+      }
+    ]
+  },
+  "alumni": {
+    "graduate": [
+      {
+        "name": "Hyeli Kim",
+        "degree": "Ph.D.",
+        "year_or_period": "2023.8",
+        "affiliation": "CTO @ Bhome Gen",
+        "raw": "2017.2 B.S. in Biomedical Engineering, 2019.2 M.S. in Electronic Engineering, 2023.8 Ph.D in Electronics and Information Convergence Engineering, Kyung Hee University",
+        "name_ko": "김혜리",
+        "affiliation_ko": "Bhome Gen CTO (최고기술책임자)",
+        "sector": "startup"
+      },
+      {
+        "name": "Minhyuk Lee",
+        "degree": "M.S.",
+        "year_or_period": "2023.2",
+        "affiliation": "LG Electronics",
+        "raw": "2020.2 B.S., 2023.2 M.S. in Electronic Engineering, Kyung Hee University",
+        "name_ko": "이민혁",
+        "affiliation_ko": "LG전자 (LG Electronics)",
+        "sector": "industry"
+      },
+      {
+        "name": "Junghyun Bae",
+        "degree": "Ph.D.",
+        "year_or_period": "2023.2",
+        "affiliation": "Postdoctoral Researcher @ Kyung Hee University",
+        "raw": "2015.2 B.S., 2017.8 M.S., 2023.2 Ph.D in Electronics and Information Convergence Engineering, Kyung Hee University",
+        "name_ko": "배중현",
+        "affiliation_ko": "경희대학교 박사후연구원 (현 MultiplexON 멘토)",
+        "sector": "academia",
+        "current_member": true
+      },
+      {
+        "name": "Jaein Lee",
+        "degree": "M.S.",
+        "year_or_period": "2022.2",
+        "affiliation": "Onto Innovation",
+        "raw": "2020.2 B.S., 2022.2 M.S. in Electronic Engineering, Kyung Hee University",
+        "name_ko": "이재인",
+        "affiliation_ko": "Onto Innovation (글로벌 반도체 계측)",
+        "sector": "industry"
+      },
+      {
+        "name": "Jinsik Yoon",
+        "degree": "Ph.D.",
+        "year_or_period": "2022.2",
+        "affiliation": "Postdoctoral Researcher @ Kyung Hee University",
+        "raw": "2014.8 B.S., 2016.8 M.S., 2022.2 Ph.D in Electronics and Information Convergence Engineering, Kyung Hee University",
+        "name_ko": "윤진식",
+        "affiliation_ko": "경희대학교 박사후연구원 (현 MultiplexON 멘토)",
+        "sector": "academia",
+        "current_member": true
+      },
+      {
+        "name": "Kibeom Kim",
+        "degree": "Ph.D.",
+        "year_or_period": "2021.8",
+        "affiliation": "Postdoctoral Researcher @ KIST",
+        "raw": "2014.2 B.S. in Electronic Engineering, 2021.8 Ph.D. in Electronics and Information Convergence Engineering, Kyung Hee University",
+        "name_ko": "김기범",
+        "affiliation_ko": "KIST (한국과학기술연구원) 박사후연구원",
+        "sector": "academia"
+      },
+      {
+        "name": "Cheolheon Park",
+        "degree": "Ph.D.",
+        "year_or_period": "2021.2",
+        "affiliation": "Assistant Professor @ Jeonbuk National University",
+        "raw": "2014.2 B.S., 2016.2 M.S., 2021.2 Ph.D. in Electronics and Information Convergence Engineering, Kyung Hee University",
+        "name_ko": "박철헌",
+        "affiliation_ko": "전북대학교 조교수 (임용)",
+        "sector": "academia"
+      },
+      {
+        "name": "SeoJoo Kim",
+        "degree": "M.S.",
+        "year_or_period": "2019.2",
+        "affiliation": "Samsung Electronics",
+        "raw": "2017.2 B.S. in Biomedical Engineering, 2019.2 M.S. in Electrical Engineering, Kyung Hee University",
+        "name_ko": "김서주",
+        "affiliation_ko": "삼성전자 (Samsung Electronics)",
+        "sector": "industry"
+      },
+      {
+        "name": "Youngran Yun",
+        "degree": "M.S.",
+        "year_or_period": "2015.8",
+        "affiliation": "Ph.D. candidate @ GIST",
+        "raw": "2013.2 B.S. in Biotechnology (Chungju National Univ.), 2015.8 M.S. in Electrical and Radio Engineering, Kyung Hee University",
+        "name_ko": "윤영란",
+        "affiliation_ko": "GIST (광주과학기술원) 박사과정",
+        "sector": "academia"
+      }
+    ],
+    "undergraduate": [
+      {
+        "name": "Junho Kim",
+        "year_or_period": "2019.08 - 2020.08",
+        "affiliation": "-",
+        "name_ko": "김준호",
+        "affiliation_ko": "-",
+        "sector": "other"
+      },
+      {
+        "name": "Jihoon Park",
+        "year_or_period": "2020.01 - 2020.08",
+        "affiliation": "-",
+        "name_ko": "박지훈",
+        "affiliation_ko": "-",
+        "sector": "other"
+      },
+      {
+        "name": "Minji Han",
+        "year_or_period": "2020.01 - 2020.06",
+        "affiliation": "-",
+        "name_ko": "한민지",
+        "affiliation_ko": "-",
+        "sector": "other"
+      },
+      {
+        "name": "Jangho Choi",
+        "year_or_period": "2020.09 - 2022.12",
+        "affiliation": "Graduate student, KAIST",
+        "name_ko": "최장호",
+        "affiliation_ko": "KAIST 대학원 진학",
+        "sector": "academia"
+      },
+      {
+        "name": "Seokjun Lim",
+        "year_or_period": "2021.01 - 2022.12",
+        "affiliation": "SK hynix",
+        "name_ko": "임석준",
+        "affiliation_ko": "SK하이닉스 (SK hynix)",
+        "sector": "industry"
+      },
+      {
+        "name": "Boseung Jeong",
+        "year_or_period": "2021.03 - 2021.07",
+        "affiliation": "Samsung Electronics",
+        "name_ko": "정보승",
+        "affiliation_ko": "삼성전자 (Samsung Electronics)",
+        "sector": "industry"
+      },
+      {
+        "name": "Yeomin Kang",
+        "year_or_period": "2021.09 - 2022.06",
+        "affiliation": "Hyundai Mobis",
+        "name_ko": "강여민",
+        "affiliation_ko": "현대모비스 (Hyundai Mobis)",
+        "sector": "industry"
+      },
+      {
+        "name": "Seonyong Choi",
+        "year_or_period": "2021.09 - 2021.12",
+        "affiliation": "LG Display",
+        "name_ko": "최선용",
+        "affiliation_ko": "LG디스플레이 (LG Display)",
+        "sector": "industry"
+      },
+      {
+        "name": "Jongyun Kim",
+        "year_or_period": "2022.01 - 2023.06",
+        "affiliation": "Hyundai Motor Company",
+        "name_ko": "김종윤",
+        "affiliation_ko": "현대자동차 (Hyundai Motor Company)",
+        "sector": "industry"
+      },
+      {
+        "name": "Uigwan Shin",
+        "year_or_period": "2022.01 - 2022.06",
+        "affiliation": "Graduate Student, Korea University",
+        "name_ko": "신의관",
+        "affiliation_ko": "고려대학교 대학원 진학",
+        "sector": "academia"
+      },
+      {
+        "name": "Junnyeong Cha",
+        "year_or_period": "2022.01 - 2022.04",
+        "affiliation": "Hyundai Motor Company",
+        "name_ko": "차준녕",
+        "affiliation_ko": "현대자동차 (Hyundai Motor Company)",
+        "sector": "industry"
+      },
+      {
+        "name": "Youngseo Na",
+        "year_or_period": "2022.07 - 2023.12",
+        "affiliation": "Graduate student, Hanyang University",
+        "name_ko": "나영서",
+        "affiliation_ko": "한양대학교 대학원 진학",
+        "sector": "academia"
+      },
+      {
+        "name": "Jooho Jin",
+        "year_or_period": "2022.08 - 2023.06",
+        "affiliation": "HD Hyundai Mipo",
+        "name_ko": "진주호",
+        "affiliation_ko": "HD현대미포",
+        "sector": "industry"
+      },
+      {
+        "name": "HyeokChan Kwon",
+        "year_or_period": "2023.02 - 2023.12",
+        "affiliation": "SK hynix",
+        "name_ko": "권혁찬",
+        "affiliation_ko": "SK하이닉스 (SK hynix)",
+        "sector": "industry"
+      },
+      {
+        "name": "Hanna Song",
+        "year_or_period": "2023.03 - 2024.01",
+        "affiliation": "Undergraduate student, Kyung Hee University",
+        "name_ko": "송한나",
+        "affiliation_ko": "경희대학교 학부과정",
+        "sector": "academia"
+      },
+      {
+        "name": "Mingyeom Jeong",
+        "year_or_period": "2023.03 - 2024.06",
+        "affiliation": "Hyundai Motor Company",
+        "name_ko": "정민겸",
+        "affiliation_ko": "현대자동차 (학부 제1저자 Q1 논문 게재)",
+        "sector": "industry"
+      },
+      {
+        "name": "Eunmi Jang",
+        "year_or_period": "2023.09 - 2024.06",
+        "affiliation": "-",
+        "name_ko": "장은미",
+        "affiliation_ko": "-",
+        "sector": "other"
+      },
+      {
+        "name": "Daehyeok Kang",
+        "year_or_period": "2023.10 - 2024.06",
+        "affiliation": "-",
+        "name_ko": "강대혁",
+        "affiliation_ko": "-",
+        "sector": "other"
+      },
+      {
+        "name": "Chaeyoung Um",
+        "year_or_period": "2023.10 - 2024.06",
+        "affiliation": "Samsung Electro-Mechanics",
+        "name_ko": "엄채영",
+        "affiliation_ko": "삼성전기 (Samsung Electro-Mechanics)",
+        "sector": "industry"
+      },
+      {
+        "name": "Chaeyoung Shin",
+        "year_or_period": "2025.07 - 2025.08",
+        "affiliation": "Graduate student, Kyung Hee University",
+        "name_ko": "신채영",
+        "affiliation_ko": "경희대학교 대학원 진학",
+        "sector": "academia"
+      },
+      {
+        "name": "Jihyun Yoon",
+        "year_or_period": "2026.01 - 2026.02",
+        "affiliation": "Undergraduate student, Sungkyunkwan University",
+        "name_ko": "윤지현",
+        "affiliation_ko": "성균관대학교 학부과정",
+        "sector": "academia"
+      },
+      {
+        "name": "Jungbun Cho",
+        "year_or_period": "2024.03 - 2026.08",
+        "affiliation": "Start own business",
+        "name_ko": "조정빈",
+        "affiliation_ko": "기술 창업 (2025 서울대 푸드테크 금상)",
+        "sector": "startup"
+      },
+      {
+        "name": "Youngmin Kim",
+        "year_or_period": "2026.01 - 2026.09",
+        "affiliation": "Undergraduate student, Kyung Hee University",
+        "name_ko": "김영민",
+        "affiliation_ko": "경희대학교 학부과정",
+        "sector": "academia"
+      }
+    ]
+  }
+}

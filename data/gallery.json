@@ -1,0 +1,160 @@
+{
+  "years": [
+    {
+      "year": 2026,
+      "events": [
+        {
+          "title": "Biochip conference",
+          "date": "2026.05",
+          "images": [
+            "assets/images/gallery/gallery_2026_biochip.jpg"
+          ]
+        },
+        {
+          "title": "Yoonseol's Birth Day!",
+          "date": "2026.04",
+          "images": [
+            "assets/images/gallery/gallery_2026_yoonseol_bday.jpg"
+          ]
+        },
+        {
+          "title": "Sujeong's Birth Day!",
+          "date": "2026.03",
+          "images": [
+            "assets/images/gallery/gallery_2026_sujeong_bday.jpg"
+          ]
+        },
+        {
+          "title": "Happy & Smart Lab Certificate",
+          "date": "2026.03",
+          "images": [
+            "assets/images/gallery/gallery_2026_happy_smart_lab.jpg"
+          ]
+        },
+        {
+          "title": "Daily life",
+          "date": "2026.01",
+          "images": [
+            "assets/images/gallery/gallery_2026_daily_life.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "events": [
+        {
+          "title": "MultiplexON End-Year Party!",
+          "date": "2025.12",
+          "images": [
+            "assets/images/gallery/gallery_2025_year_end_party.jpg"
+          ]
+        },
+        {
+          "title": "Invited Seminar by CEO, Jae Hwa, Moon from MO-ON",
+          "date": "2025.11",
+          "images": [
+            "assets/images/gallery/gallery_2025_moon_seminar.gif"
+          ]
+        },
+        {
+          "title": "µTAS conference in Adelaide, Australia",
+          "date": "2025.11",
+          "images": []
+        },
+        {
+          "title": "Jungbin won the Gold prize in SNU FoodTech Commercialization Program!",
+          "date": "2025.10",
+          "images": []
+        },
+        {
+          "title": "Invited Seminar by CEO, Seungchul Back from NAMSAN WORKS",
+          "date": "2025.08",
+          "images": []
+        },
+        {
+          "title": "Biochip conference",
+          "date": "2025.05",
+          "images": []
+        },
+        {
+          "title": "Invited Seminar by Dr. Seungkyu Ha",
+          "date": "2025.04",
+          "images": []
+        },
+        {
+          "title": "Daily life",
+          "date": "2025.03",
+          "images": [
+            "assets/images/gallery/gallery_2025_daily_life.jpg"
+          ]
+        },
+        {
+          "title": "ICCCP 2025 Conference",
+          "date": "2025.02",
+          "images": []
+        },
+        {
+          "title": "Yeon Ju's Birth Day!",
+          "date": "2025.02",
+          "images": []
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "events": [
+        {
+          "title": "MultiplexON Year-End party",
+          "date": "2022.12",
+          "images": []
+        },
+        {
+          "title": "Junghyun wins excellence prize at 14th Electronics Times Paper Awards",
+          "date": "2022.12",
+          "images": []
+        },
+        {
+          "title": "Research intern Seokjun and Euigwan received Grand Prize in Capstone Design",
+          "date": "2022.07",
+          "images": []
+        },
+        {
+          "title": "Congratulations on your 10th anniversary as a professor!",
+          "date": "2022.06",
+          "images": []
+        },
+        {
+          "title": "BioChip Conference",
+          "date": "2022.05",
+          "images": []
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "events": [
+        {
+          "title": "EzDiatech Business meeting",
+          "date": "2018.12",
+          "images": []
+        },
+        {
+          "title": "MicroTas Conference",
+          "date": "2018.11",
+          "images": []
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "events": [
+        {
+          "title": "Daily life",
+          "date": "2013",
+          "images": []
+        }
+      ]
+    }
+  ]
+}
